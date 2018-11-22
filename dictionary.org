@@ -20,3 +20,5 @@ Vessel for decantation (keeping liquid still, so it forms solid residue).
 Strange looking vessel with long nose to drink wine remotely from vessel by drinking stream that shoots from the vessel.
 Great for communal wine consumption.
 Originated in Catalonia.
+* Bagel
+Бублик.
