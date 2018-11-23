@@ -26,3 +26,5 @@ Originated in Catalonia.
 Critic is the strict sence.
 * Idempotence
 Property of operation and object to result in the same outcome, despite nested application of operation to object.
+* CliffsNotes
+Short good description of the literature.
