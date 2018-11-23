@@ -24,3 +24,5 @@ Originated in Catalonia.
 Бублик.
 * Invective
 Critic is the strict sence.
+* Idempotence
+Property of operation and object to result in the same outcome, despite nested application of operation to object.
