@@ -28,3 +28,6 @@ Critic is the strict sence.
 Property of operation and object to result in the same outcome, despite nested application of operation to object.
 * CliffsNotes
 Short good description of the literature.
+Initially CliffNotes are a company and a series of study guides available firstly in the US.
+* Abridgment
+A shortened version of a larger work.
