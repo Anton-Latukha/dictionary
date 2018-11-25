@@ -49,3 +49,5 @@ A shortened version of a larger work.
 Дальнобойность.
 * Сполитично
 Удобно.
+* Орочоне
+Некоторые.
