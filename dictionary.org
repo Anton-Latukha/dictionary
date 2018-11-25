@@ -31,3 +31,8 @@ Short good description of the literature.
 Initially CliffNotes are a company and a series of study guides available firstly in the US.
 * Abridgment
 A shortened version of a larger work.
+* Штуцер
+1. Ружье с укороченным нарезным стволом через которое и заряжающееся.
+Штуцер - неметское слово, позже в обиходе появились слова винтовая пищаль и винтовка.
+
+2. Короткая соединительная труба.
