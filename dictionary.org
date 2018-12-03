@@ -163,3 +163,5 @@ Experienced through the feelings or actions of another person.
 Деизм - философское направление, признающее существование Бога и сотворение им мира, но отрицающее большинство сверхъестественных и мистических явлений.
 * Hindsight
 Understanding of a situation or event only after it has happened or developed.
+* Eavesdrop
+Secretly listen to a conversation.
