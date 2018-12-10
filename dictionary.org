@@ -7,7 +7,7 @@ A member of a people having no permanent abode, and who travel from place to pla
 * Mulberry
 Шелковица.
 * Obligatory
-обязательный.
+Обязательный.
 * Inuit
 The Inuit languages are part of the Eskimo-Aleut family.
 * Сулема
@@ -60,3 +60,5 @@ Cумеречно.
 Remove earth from an area to find buried.
 * Квартерон
 Четверть генов чёрной крови.
+* Манишка
+Нагрудная вставка в мужской и женской одежде, которая видна в вырезе жилета, фрака или дамского платья.
