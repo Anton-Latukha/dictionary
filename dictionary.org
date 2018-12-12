@@ -70,3 +70,5 @@ No comments.
 Accumulate (money or valued objects) and hide / store away.
 * Hardship
 Severe suffering or privation.
+* Privation
+State in which essentials for well-being are lacking.
