@@ -82,3 +82,5 @@ The state of being married.
 Current geneological epoch. Began approximately 11,650 cal years before present, after the last glacial period.
 * Malcontent
 Dissatisfied, complaining, trouble, rebellious.
+* Rousing
+Воодушевляющий.
