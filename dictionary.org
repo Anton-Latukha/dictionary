@@ -148,3 +148,5 @@ Not securely held or in position; dangerously likely to fall or collapse.
 Сомнительно, ненадёжно.
 * Scaffold
 Cтроительные леса.
+* Gazebo
+Беседка, альтанка.
