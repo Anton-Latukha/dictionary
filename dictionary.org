@@ -175,3 +175,7 @@ Loam - fertile soil of clay and sand containing humus.
 Вредный.
 * Terse
 Terse - sparing in the use of words; abrupt.
+Краткий
+* Ubiquitous
+Ubiquitous - present, appearing, or found everywhere.
+Вездесущий, повсеместный.
