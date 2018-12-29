@@ -185,3 +185,6 @@ Extremely hungry.
 A newly coined word or expression.
 * Spitball
 Throw out (a suggestion) for discussion.
+* Hense
+Следовательно.
+Therefore.
