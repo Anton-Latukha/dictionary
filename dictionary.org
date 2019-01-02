@@ -196,3 +196,5 @@ Something that a particular person finds especially annoying.
 Truthful and straightforward.
 * Id
 The part of the mind in which innate instinctive impulses and primary processes are manifest.
+* Truism
+Truism - a statement that is obviously true and says nothing new or interesting.
