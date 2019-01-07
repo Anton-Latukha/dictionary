@@ -208,3 +208,5 @@ Visceral - bringing deep invard emotional feelings.
 Пахта.
 * Silicon
 Silicon is a chemical element with symbol Si and atomic number 14. It is a hard and brittle crystalline solid with a blue-grey metallic lustre; and it is a tetravalent metalloid and semiconductor.
+* Silicone
+Silicones, also known as polysiloxanes, are polymers that include any inert, synthetic compound made up of repeating units of siloxane, which is a chain of alternating silicon atoms and oxygen atoms, combined with carbon, hydrogen, and sometimes other elements. They are typically heat-resistant and either liquid or rubber-like, and are used in sealants, adhesives, lubricants, medicine, cooking utensils, and thermal and electrical insulation.
