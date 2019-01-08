@@ -214,3 +214,5 @@ Silicones, also known as polysiloxanes, are polymers that include any inert, syn
 A craftsman of the skilled trade.
 * Кондовый
 Топорный, грубый, плотно-древесный.
+* Heist
+Кража.
