@@ -232,3 +232,5 @@ Morrow - the time following the event. The following day. The near future.
 Facetious - treating serious issues with deliberately inappropriate humor; flippant.
 * Rhubarb
 Rhubarb - ревень.
+* Camomile
+Camomile - ромашка.
