@@ -252,3 +252,5 @@ Foil - prevent something considered wrong from succeeding.
 Venison - is the meat of a deer.
 * Perch
 Жердь, окунь.
+* Stern
+Stern - корма.
