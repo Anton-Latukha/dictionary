@@ -250,3 +250,5 @@ Materia medica - сумма знаний о лечебный свойствах 
 Foil - prevent something considered wrong from succeeding.
 * Venison
 Venison - is the meat of a deer.
+* Perch
+Жердь, окунь.
