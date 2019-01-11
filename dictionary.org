@@ -246,3 +246,5 @@ Safe and unharmful.
 Apothecary - a person who prepares medicines and drugs from components.
 * Materia medica
 Materia medica - сумма знаний о лечебный свойствах веществ.
+* Foil
+Foil - prevent something considered wrong from succeeding.
