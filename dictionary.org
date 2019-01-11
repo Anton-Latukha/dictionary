@@ -248,3 +248,5 @@ Apothecary - a person who prepares medicines and drugs from components.
 Materia medica - сумма знаний о лечебный свойствах веществ.
 * Foil
 Foil - prevent something considered wrong from succeeding.
+* Venison
+Venison - is the meat of a deer.
