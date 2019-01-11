@@ -254,3 +254,5 @@ Venison - is the meat of a deer.
 Жердь, окунь.
 * Stern
 Stern - корма.
+* Peril
+Peril - direct serious danger.
