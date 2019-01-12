@@ -256,3 +256,5 @@ Venison - is the meat of a deer.
 Stern - корма.
 * Peril
 Peril - direct serious danger.
+* Tick off
+Tick off - set a done mark, or to annoy.
