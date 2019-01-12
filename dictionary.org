@@ -262,3 +262,5 @@ Tick off - set a done mark, or to annoy.
 Flay - strip the skin.
 * Arboretum
 Arboretum - дендрарий.
+* Hardwood
+Hardwood - твердые породы деррева.
