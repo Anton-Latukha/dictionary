@@ -258,3 +258,5 @@ Stern - корма.
 Peril - direct serious danger.
 * Tick off
 Tick off - set a done mark, or to annoy.
+* Flay
+Flay - strip the skin.
