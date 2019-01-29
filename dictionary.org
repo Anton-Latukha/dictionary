@@ -308,3 +308,5 @@ Diuretic - . - substance that increases the amount of water and salt expelled.
 Gist - . - the substance of a speech, text, action.
 * Savant
 Savant - . - a person of learning. Especially one with detailed knowledge in specialized field. 
+* Gnarly
+Gnarly - . - slang term for something grotesque, yet awesomely extreme. Used in bad and good cases.
