@@ -312,3 +312,5 @@ Savant - . - a person of learning. Especially one with detailed knowledge in spe
 Gnarly - . - slang term for something grotesque, yet awesomely extreme. Used in bad and good cases.
 * Cunning
 Cunning - . - skill in achieving one's ends by deceit.
+* Buffet
+Buffet - . - (especially of wind or waves) strike repeatedly and violently; batter.
