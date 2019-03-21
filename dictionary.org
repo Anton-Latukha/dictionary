@@ -366,3 +366,5 @@ Deadnaming - . - use name that person changes.
 Preposterous - /prɪˈpɒst(ə)rəs/ - utterly absurd or ridiculous.
 * Panspermia
 Panspermia - . - principle of life spreading through cosmos due to luck anabiosis and chunks of matter traveling through space.
+* Tardigrade
+Tardigrade - /ˈtɑːrdɪˌɡreɪd/ - a small living organism also known as water bears that are the most abundant and most durable form of life. Can go into anabiosis in the space.
