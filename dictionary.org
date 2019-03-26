@@ -392,3 +392,5 @@ Munition - /mjʊˈnɪʃ(ə)n/ - военное снаряжение.
 Dispersal - /dɪˈspəːs(ə)l/ - распространение, рассеивание, рассредоточение.
 * Discordant
 Discordant - /dɪˈskɔːd(ə)nt/ - рассогласованный.
+* Accoutrement
+Accoutrement - /əˈkuːtəm(ə)nt,əˈkuːtrəm(ə)nt/ - личное снаряжение.
