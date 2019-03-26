@@ -386,3 +386,5 @@ Marooned - .  - isolated, abandoned.
 Contrite - /kənˈtrʌɪt,ˈkɒntrʌɪt/ - сокрушаться, каяться.
 * Fringe
 Fringe - /frɪn(d)ʒ/ - дополнательный край, чёлка, бахрома.
+* Munition
+Munition - /mjʊˈnɪʃ(ə)n/ - военное снаряжение.
