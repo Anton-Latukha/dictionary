@@ -376,3 +376,5 @@ Languid -  /ˈlaŋ-gwəd/ - сильно уставши.
 Caress - /kəˈrɛs/ - ласкать, приласкивать.
 * Swoon
 Swoon - /swuːn/ - faint from extreme emotion.
+* Molar
+Molar - /ˈməʊlə/ - моляр, коренной зуб.
