@@ -442,3 +442,5 @@ Matte - /mat/ - штейн, матовая поверхность, маска, �
 Вяхирь - . - лесной голубь.
 * Zesty
 Zesty - . - spicy, fun and exciting. Crowd, party, food - everything can be zasty.
+* Pungent
+Pungent - /ˈpʌn(d)ʒ(ə)nt/ - having a sharply strong taste or smell.
