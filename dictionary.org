@@ -506,3 +506,5 @@ Bogus - /ˈbəʊɡəs/ - false that presented as genuine true.
 Bigotry - /ˈbɪɡətri/ - blind fanatism.
 * Chump
 Chump - /tʃʌmp/ - stupid and easily deceived.
+* Uncanny valley
+Uncanny valley - . - unease or revulsion on seing a created face.
