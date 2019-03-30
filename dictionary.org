@@ -534,3 +534,5 @@ Tranquility - /traŋˈkwɪlɪti/ - the quality state of being in a good state.
 Conscientiousness - /kɒnʃɪˈɛnʃəsnəs/ - добросовесность и сознательность.
 * Benevolent
 Benevolent - /bɪˈnɛv(ə)l(ə)nt/ - доброжелательный.
+* Shrub
+Shrub - /ʃrʌb/ - кустарник.
