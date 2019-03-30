@@ -514,3 +514,5 @@ Orchid - . - орхидея.
 Bailey - . - in fortification is a courtyard enclosed by the wall.
 * Anglicanism
 Anglicanism - . - Church of England, that supports the belief that God is a ruler of the country and Monarch had power descended direcly from the God.
+* Nonchalant
+Nonchalant - /ˈnɒnʃ(ə)l(ə)nt/ - беспечно.
