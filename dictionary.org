@@ -529,4 +529,6 @@ Orchard - .  - фруктовый сад.
 * Insatiable
 Insatiable - /ɪnˈseɪʃəb(ə)l/ - impossible to satisfy.
 * Tranquility
-Tranquility - /traŋˈkwɪlɪti/ - the quality state of being worry-free.
+Tranquility - /traŋˈkwɪlɪti/ - the quality state of being in a good state.
+* Conscientiousness
+Conscientiousness - /kɒnʃɪˈɛnʃəsnəs/ - добросовесность и сознательность.
