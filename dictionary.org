@@ -542,3 +542,5 @@ Incomprehensible - /ˌɪnkɒmprɪˈhɛnsɪb(ə)l/ - непонятно, непо
 Immaculate - /ɪˈmakjʊlət/ - безукоризненный.
 * Cranium
 Cranium - /ˈkreɪnɪəm/ - череп.
+* Congruence
+Congruence - /ˈkɒŋɡrʊəns/ - согласованность.
