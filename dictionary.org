@@ -584,3 +584,5 @@ Travail - /ˈtraveɪl/ - тяжелый труд.
 Scant - scant - скудный.
 * Proprioception
 Proprioception - /ˌprə(ʊ)prɪəˈsɛpʃn/ - awareness of the body.
+* et al.
+et al. - .  - scholarly abbreviation of the Latin /et alia/ (“and others”).
