@@ -600,3 +600,5 @@ Resfeber - .  - excitement and fear before journey.
 Volant - .  - having a power or engaged in flying.
 * Numinous
 Numinous - .  - mysterious feeling surpassing understanding and comprehension.
+* Sinister
+Sinister - /ˈsi-nə-stər/ - threatening harm, trouble, evil; ominous.
