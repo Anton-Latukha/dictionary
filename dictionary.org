@@ -598,3 +598,5 @@ Rove - . - ровница, прогуливаться, путешествова�
 Resfeber - .  - excitement and fear before journey.
 * Volant
 Volant - .  - having a power or engaged in flying.
+* Numinous
+Numinous - .  - mysterious feeling surpassing understanding and comprehension.
