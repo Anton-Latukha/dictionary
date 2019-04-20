@@ -596,3 +596,5 @@ Wanderlust - . - storong desire to rove.
 Rove - . - ровница, прогуливаться, путешествовать.
 * Resfeber
 Resfeber - .  - excitement and fear before journey.
+* Volant
+Volant - .  - having a power or engaged in flying.
