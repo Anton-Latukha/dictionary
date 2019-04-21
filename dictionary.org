@@ -602,3 +602,5 @@ Volant - .  - having a power or engaged in flying.
 Numinous - .  - mysterious feeling surpassing understanding and comprehension.
 * Sinister
 Sinister - /ˈsi-nə-stər/ - threatening harm, trouble, evil; ominous.
+* Burrow
+Burrow - /ˈbərō/ - нора.
