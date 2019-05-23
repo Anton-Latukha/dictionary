@@ -658,3 +658,5 @@ Crucible - . - тегель. Form to cast metal.
 Tripe - /trʌɪp/ - требуха.
 * Munchies :drill:
 Munchies - /ˈmən-chēz/ - snack foods / ravenous hunger.
+* Detest :drill:
+Detest - /dɪˈtɛst/ - питить отвращение.
