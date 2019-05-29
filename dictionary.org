@@ -636,3 +636,5 @@ Mustard - .  - горчица.
 Unfathomable - /ʌnˈfað(ə)məb(ə)l/ - бездонный.
 * Dill :drill:
 Dill - /dɪl/ - укроп.
+* Dilapidated :drill:
+Dilapidated - /dɪˈlapɪdeɪtɪd/ - ветхий.
