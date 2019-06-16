@@ -668,3 +668,5 @@ Cassandra complex - .  - psychological phenomenon in which an individual's accur
 God complex - .  - unshakable belief wtih inflated feelings of personal ability, privilege, or infallibility, refusing to admit the possibility of error or failure, even at irrefutable evidences.
 * Ad hominem :drill:
 Ad hominem - .  - Latin mening talking about the person insted talking about the arguments.
+* Promulgation :drill:
+Promulgation - .  - обнародование.
