@@ -726,3 +726,5 @@ Hovel - . - a small, squalid, unpleasant, or simply constructed dwelling.
 Suspenders - .  - подтяжки.
 * Bickering :drill:
 Bickering - . - argue about petty and trivial matters.
+* Tattler :drill:
+Tattler - . - сплетник.
