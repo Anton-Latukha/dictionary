@@ -716,3 +716,5 @@ Mercuric chloride. Neurotoxic.
 Cornea - .  - the transparent layer forming the from of the eye, роговица.
 * Tenure :drill:
 Tenure - .  - permanently holding a position.
+* Gravitas :drill:
+Gravitas - .  - having a importance, weight, severity in reality.
