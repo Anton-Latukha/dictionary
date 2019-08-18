@@ -728,3 +728,5 @@ Suspenders - .  - подтяжки.
 Bickering - . - argue about petty and trivial matters.
 * Tattler :drill:
 Tattler - . - сплетник.
+* Destitute :drill:
+Destitute - . - without the basic necessities of life.
