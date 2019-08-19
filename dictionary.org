@@ -730,3 +730,5 @@ Bickering - . - argue about petty and trivial matters.
 Tattler - . - сплетник.
 * Destitute :drill:
 Destitute - . - without the basic necessities of life.
+* Gentrification :drill:
+Gentrification - .  - making a person, things or activity more refined to middle class tastes.
