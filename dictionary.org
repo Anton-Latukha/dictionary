@@ -732,3 +732,5 @@ Tattler - . - сплетник.
 Destitute - . - without the basic necessities of life.
 * Gentrification :drill:
 Gentrification - .  - making a person, things or activity more refined to middle class tastes.
+* Reify :drill:
+Reify - . - from abstract create something material, материализовать из абстракции.
