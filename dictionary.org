@@ -736,3 +736,5 @@ Gentrification - .  - making a person, things or activity more refined to middle
 Reify - . - from abstract create something material, материализовать из абстракции.
 * Kerfuffle :drill:
 Kerfuffle - .  - disturbance from dispute/conflict.
+* Shtalag :drill:
+Shtalag - . - German POW camp.
