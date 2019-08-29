@@ -742,3 +742,5 @@ Shtalag - . - German POW camp.
 Formulae - . - mathematical statement put in symbols, формула.
 * Vacuous :drill:
 Vacuous - . - without a mind, праздный.
+* Tantamount :drill:
+Tantamount - . - equivalent, equivalent in seriousness, равноценный.
