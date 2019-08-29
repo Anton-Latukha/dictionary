@@ -740,3 +740,5 @@ Kerfuffle - .  - disturbance from dispute/conflict.
 Shtalag - . - German POW camp.
 * Formulae :drill:
 Formulae - . - mathematical statement put in symbols, формула.
+* Vacuous :drill:
+Vacuous - . - without a mind, праздный.
