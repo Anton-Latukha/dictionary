@@ -738,3 +738,5 @@ Reify - . - from abstract create something material, материализова�
 Kerfuffle - .  - disturbance from dispute/conflict.
 * Shtalag :drill:
 Shtalag - . - German POW camp.
+* Formulae :drill:
+Formulae - . - mathematical statement put in symbols, формула.
