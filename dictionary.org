@@ -748,3 +748,5 @@ Tantamount - . - equivalent, equivalent in seriousness, равноценный.
 Fornication - . - sex without marriage.
 * Wrinkle :drill:
 Wrinkle - . - складка, морщина.
+* Cricket :drill:
+Cricket - . - сверчёк.
