@@ -744,3 +744,5 @@ Formulae - . - mathematical statement put in symbols, формула.
 Vacuous - . - without a mind, праздный.
 * Tantamount :drill:
 Tantamount - . - equivalent, equivalent in seriousness, равноценный.
+* Fornication :drill:
+Fornication - . - sex without marriage.
