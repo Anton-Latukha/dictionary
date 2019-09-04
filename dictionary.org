@@ -750,3 +750,5 @@ Fornication - . - sex without marriage.
 Wrinkle - . - складка, морщина.
 * Cricket :drill:
 Cricket - . - сверчёк.
+* Grig :drill:
+Grig - . - кузнечик, сверчёк, маленький угорь.
