@@ -746,3 +746,5 @@ Vacuous - . - without a mind, праздный.
 Tantamount - . - equivalent, equivalent in seriousness, равноценный.
 * Fornication :drill:
 Fornication - . - sex without marriage.
+* Wrinkle :drill:
+Wrinkle - . - складка, морщина.
