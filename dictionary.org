@@ -758,3 +758,5 @@ Solicitor - . - ходатай по бизнес/юр. вопросам.
 Laceration - . - разрыв, терзание, страдание.
 * Exsanguination :drill:
 Exsanguination - . - кровопускание.
+* Haruspex :drill:
+Haruspex - . - гаруспик. Доктор-мистик который гадает на внутренних органах и крови.
