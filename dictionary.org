@@ -754,3 +754,5 @@ Cricket - . - сверчёк.
 Grig - . - кузнечик, сверчёк, маленький угорь.
 * Solicitor :drill:
 Solicitor - . - ходатай по бизнес/юр. вопросам.
+* Laceration :drill:
+Laceration - . - разрыв, терзание, страдание.
