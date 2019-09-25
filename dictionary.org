@@ -774,3 +774,5 @@ Reciprocity - . - process of exchange resulting in a mutual benefit
 Blathering - /ˈblað(ə)rɪŋ/ - болтовня, непонятно стрекотать.
 * Inhibit :drill:
 Inhibit - . - препятствовать.
+* Thorough :drill:
+Thorough - /ˈθʌrə/ - тщетельный.
