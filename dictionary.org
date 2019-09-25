@@ -764,3 +764,5 @@ Haruspex - . - гаруспик. Доктор-мистик который гад
 Ordeal - . - суровое тяжелое испытание.
 * Forfeit :drill:
 Forfeit - ˈfôrfit - расплата.
+* Contentious :drill:
+Contentious - kənˈtenCHəs - сварливый.
