@@ -766,3 +766,5 @@ Ordeal - . - суровое тяжелое испытание.
 Forfeit - ˈfôrfit - расплата.
 * Contentious :drill:
 Contentious - kənˈtenCHəs - сварливый.
+* Adherent :drill:
+Adherent - . - приверженец.
