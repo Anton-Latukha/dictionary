@@ -1,4 +1,3 @@
-
 * Abridgment :drill:
 
 A shortened version of a larger work.
@@ -18,6 +17,10 @@ Acerbic - /əˈsəːbɪk/ - (especially on a style of speaking) sharp and forthr
 * Acrimonious :drill:
 
 Acrimonious - /ˌakrɪˈməʊnɪəs/ - angry and bitter, желчный, язвительный.
+
+* Adherent :drill:
+
+Adherent - . - приверженец.
 
 * Ad hominem :drill:
 
@@ -111,6 +114,10 @@ Benign - /bɪˈnʌɪn/ - (of disease) not harmful in effect. Gentle and kind.
 
 Betrothal - /bɪˈtrəʊð(ə)l/ - помолвка.
 
+* Bickering :drill:
+
+Bickering - . - argue about petty and trivial matters.
+
 * Bigotry :drill:
 
 Bigotry - /ˈbɪɡətri/ - blind fanatism.
@@ -118,6 +125,10 @@ Bigotry - /ˈbɪɡətri/ - blind fanatism.
 * Bile :drill:
 
 Желчь.
+
+* Blathering :drill:
+
+Blathering - /ˈblað(ə)rɪŋ/ - болтовня, непонятно стрекотать.
 
 * Blimp :drill:
 
@@ -267,6 +278,10 @@ Congruence - /ˈkɒŋɡrʊəns/ - harmony, agreement, compatibility.
 
 Conjecture - /kənˈdʒɛktʃə/ - предположение.
 
+* Connote :drill:
+
+Connote - .  - imply or suggest (an idea or feeling) in addition to the literal or primary meaning.
+
 * Conscientiousness :drill:
 
 Conscientiousness - /kɒnʃɪˈɛnʃəsnəs/ - добросовесность и сознательность.
@@ -274,6 +289,10 @@ Conscientiousness - /kɒnʃɪˈɛnʃəsnəs/ - добросовесность и
 * Contempt :drill:
 
 The feeling that a person or a thing is beneath consideration, worthless, or deserving scorn.
+
+* Contentious :drill:
+
+Contentious - kənˈtenCHəs - сварливый.
 
 * Contentment :drill:
 
@@ -286,6 +305,10 @@ Contrite - /kənˈtrʌɪt,ˈkɒntrʌɪt/ - сокрушаться, каятьс�
 * Cootie :drill:
 
 Платяная вошь.
+
+* Cornea :drill:
+
+Cornea - .  - the transparent layer forming the from of the eye, роговица.
 
 * Corporeal :drill:
 
@@ -318,6 +341,10 @@ Ethnic groups which originated during the colonial-era from racial mixing betwee
 * Crepuscular :drill:
 
 Cумеречно.
+
+* Cricket :drill:
+
+Cricket - . - сверчёк.
 
 * Crucible :drill:
 
@@ -366,6 +393,10 @@ Denizen - /ˈdɛnɪz(ə)n/ - обитатель места.
 Осмеяние.
 
 Contemptuous ridicule or mockery.
+
+* Destitute :drill:
+
+Destitute - . - without the basic necessities of life.
 
 * Detest :drill:
 
@@ -447,6 +478,10 @@ Remove earth from an area to find buried.
 
 Expat - person taking up residency in another country.
 
+* Exsanguination :drill:
+
+Exsanguination - . - кровопускание.
+
 * Facetious :drill:
 
 /fəˈsiːʃəs/
@@ -481,13 +516,25 @@ Flay - strip the skin.
 
 Foil - prevent something considered wrong from succeeding.
 
+* Forfeit :drill:
+
+Forfeit - ˈfôrfit - расплата.
+
 * Formidable :drill:
 
 Formidable - /ˈfɔːmɪdəb(ə)l,fəˈmɪdəb(ə)l/ - inspiring fear or respect through being impressively large, powerful, intense, or capable.
 
+* Formulae :drill:
+
+Formulae - . - mathematical statement put in symbols, формула.
+
 * Formulaic :drill:
 
 Formulaic - /ˌfɔːmjʊˈleɪɪk/ - шаблонный.
+
+* Fornication :drill:
+
+Fornication - . - sex without marriage.
 
 * Forthright :drill:
 
@@ -523,6 +570,10 @@ Gallant - /ˈɡal(ə)nt/ - brave, heroic, grand impressive, attentively charming
 
 Беседка, альтанка.
 
+* Gentrification :drill:
+
+Gentrification - .  - making a person, things or activity more refined to middle class tastes.
+
 * Ghastly :drill:
 
 Ghastly - /ˈɡɑːs(t)li/ - causing great horror.
@@ -543,9 +594,17 @@ God complex - .  - unshakable belief wtih inflated feelings of personal ability,
 
 Gout - .  - подагра.
 
+* Gravitas :drill:
+
+Gravitas - .  - having a importance, weight, severity in reality.
+
 * Gregarious :drill:
 
 Gregarious - /ɡrɪˈɡɛːrɪəs/ - happily living togather.
+
+* Grig :drill:
+
+Grig - . - кузнечик, сверчёк, маленький угорь.
 
 * Grovel :drill:
 
@@ -570,6 +629,10 @@ Severe suffering or privation.
 * Hardwood :drill:
 
 Hardwood - твердые породы деррева.
+
+* Haruspex :drill:
+
+Haruspex - . - гаруспик. Доктор-мистик который гадает на внутренних органах и крови.
 
 * Hazing :drill:
 
@@ -610,6 +673,10 @@ Understanding of a situation or event only after it has happened or developed.
 * Hortator :drill:
 
 Hortator - .  - наставник.
+
+* Hovel :drill:
+
+Hovel - . - a small, squalid, unpleasant, or simply constructed dwelling.
 
 * Hubris :drill:
 
@@ -673,6 +740,10 @@ Indoctrinate - /ɪnˈdɒktrɪneɪt/ - внушать.
 
 Be inspired with an intense but short-lived passion or admiration for
 
+* Inhibit :drill:
+
+Inhibit - . - препятствовать.
+
 * Innocuous :drill:
 
 /ɪˈnɒkjʊəs/
@@ -717,6 +788,10 @@ Jinx - /dʒɪŋks/ - cursed, bring bad luck.
 
 Write (something) down quickly
 
+* Kerfuffle :drill:
+
+Kerfuffle - .  - disturbance from dispute/conflict.
+
 * Kinesthesia :drill:
 
 Kinesthesia - /ˌkɪnɪsˈθiːzɪə,/ - external body awareness.
@@ -724,6 +799,10 @@ Kinesthesia - /ˌkɪnɪsˈθiːzɪə,/ - external body awareness.
 * Lability :drill:
 
 Lability - .  - constantly undergoing, or very likely to undergo through changes.
+
+* Laceration :drill:
+
+Laceration - . - разрыв, терзание, страдание.
 
 * Languid :drill:
 
@@ -879,6 +958,10 @@ Orchard - .  - фруктовый сад.
 
 Orchid - . - орхидея.
 
+* Ordeal :drill:
+
+Ordeal - . - суровое тяжелое испытание.
+
 * Ostracism :drill:
 
 Ostracism - .  - ὀστρακισμός /ostrakismos/ crock - vote on a crocks in ancient Greece to expell someone. There must be >6000 crocks counted in favour to expell for 10 years without any seizure of property.
@@ -894,6 +977,10 @@ Overcurious - /əʊvəˈkjʊərɪəs/ - чрезмерное любопытст�
 * Panspermia :drill:
 
 Panspermia - . - principle of life spreading through cosmos due to luck anabiosis and chunks of matter traveling through space.
+
+* Parlance :drill:
+
+Parlance - /ˈpɑːl(ə)ns/ - способ, манера выражения.
 
 * Parthenogenesis :drill:
 
@@ -997,9 +1084,17 @@ Extremely hungry.
 
 Reciprocity - /ˌrɛsɪˈprɒsɪti/ - exchanging things with others for mutual benefit.
 
+* Reciprocity :drill:
+
+Reciprocity - . - process of exchange resulting in a mutual benefit
+
 * Reconnaissance :drill:
 
 Reconnaissance - /rɪˈkɒnɪs(ə)ns/ - military observation of a region to locate an enemy or ascertain strategic features.
+
+* Reify :drill:
+
+Reify - . - from abstract create something material, материализовать из абстракции.
 
 * Relinquish :drill:
 
@@ -1067,6 +1162,10 @@ The most noticeable/important.
 
 Sandpiper - .  - small shore bird with long beak that filters the sand.
 
+* Satyriasis :drill:
+
+Satyriasis - /ˌsatɪˈrʌɪəsɪs/ - неконтролируемое мужское либидо.
+
 * Savant :drill:
 
 Savant - . - a person of learning. Especially one with detailed knowledge in specialized field. 
@@ -1103,6 +1202,10 @@ Shrill - /ʃrɪl/ - high-pitched and piercing.
 
 Shrub - /ʃrʌb/ - кустарник.
 
+* Shtalag :drill:
+
+Shtalag - . - German POW camp.
+
 * Shunned :drill:
 
 Persistently avoided.
@@ -1136,6 +1239,10 @@ Skittish - /ˈskɪtɪʃ/ - (of an animal) nervous or excitable; easily scared. (
 * Slander :drill:
 
 Slander - /ˈslɑːndə/ - клевета.
+
+* Solicitor :drill:
+
+Solicitor - . - ходатай по бизнес/юр. вопросам.
 
 * Sombre :drill:
 
@@ -1185,9 +1292,17 @@ Suprematism - . - (Russian: Супремати́зм) art movement, focused on b
 
 Surmise - /səˈmʌɪz/ - suppose that something is true without having evidence to confirm it.
 
+* Suspenders :drill:
+
+Suspenders - .  - подтяжки.
+
 * Swoon :drill:
 
 Swoon - /swuːn/ - faint from extreme emotion.
+
+* Tantamount :drill:
+
+Tantamount - . - equivalent, equivalent in seriousness, равноценный.
 
 * Tardigrade :drill:
 
@@ -1196,6 +1311,14 @@ Tardigrade - /ˈtɑːrdɪˌɡreɪd/ - a small living organism also known as wate
 * Tardy :drill:
 
 Tardy - /ˈtɑːdi/ - запоздалый.
+
+* Tattler :drill:
+
+Tattler - . - сплетник.
+
+* Tenure :drill:
+
+Tenure - .  - permanently holding a position.
 
 * Terse :drill:
 
@@ -1206,6 +1329,10 @@ Terse - sparing in the use of words; abrupt.
 * The Holocene :drill:
 
 Current geneological epoch. Began approximately 11,650 cal years before present, after the last glacial period.
+
+* Thorough :drill:
+
+Thorough - /ˈθʌrə/ - тщетельный.
 
 * Thunk :drill:
 
@@ -1273,6 +1400,10 @@ Unfathomable - /ʌnˈfað(ə)məb(ə)l/ - бездонный.
 
 Utter - /ˈʌtə/ - make a sound with one's voice.
 
+* Vacuous :drill:
+
+Vacuous - . - without a mind, праздный.
+
 * Veer :drill:
 
 Veer - /vɪə/ - a sudden change of direction. Вираж.
@@ -1316,6 +1447,10 @@ Whimsical - /ˈwɪmzɪk(ə)l/ - причудливо капризный.
 * Wicked :drill:
 
 Wicked - /ˈwɪkɪd/ - evil or morally wrong. Злой, безравственный.
+
+* Wrinkle :drill:
+
+Wrinkle - . - складка, морщина.
 
 * Zesty :drill:
 
@@ -1425,140 +1560,4 @@ Mercuric chloride. Neurotoxic.
 * Шустование :drill:
 
 Сглаживание дула в рушьях.
-
-* Cornea :drill:
-
-Cornea - .  - the transparent layer forming the from of the eye, роговица.
-
-* Tenure :drill:
-
-Tenure - .  - permanently holding a position.
-
-* Gravitas :drill:
-
-Gravitas - .  - having a importance, weight, severity in reality.
-
-* Connote :drill:
-
-Connote - .  - imply or suggest (an idea or feeling) in addition to the literal or primary meaning.
-
-* Hovel :drill:
-
-Hovel - . - a small, squalid, unpleasant, or simply constructed dwelling.
-
-* Suspenders :drill:
-
-Suspenders - .  - подтяжки.
-
-* Bickering :drill:
-
-Bickering - . - argue about petty and trivial matters.
-
-* Tattler :drill:
-
-Tattler - . - сплетник.
-
-* Destitute :drill:
-
-Destitute - . - without the basic necessities of life.
-
-* Gentrification :drill:
-
-Gentrification - .  - making a person, things or activity more refined to middle class tastes.
-
-* Reify :drill:
-
-Reify - . - from abstract create something material, материализовать из абстракции.
-
-* Kerfuffle :drill:
-
-Kerfuffle - .  - disturbance from dispute/conflict.
-
-* Shtalag :drill:
-
-Shtalag - . - German POW camp.
-
-* Formulae :drill:
-
-Formulae - . - mathematical statement put in symbols, формула.
-
-* Vacuous :drill:
-
-Vacuous - . - without a mind, праздный.
-
-* Tantamount :drill:
-
-Tantamount - . - equivalent, equivalent in seriousness, равноценный.
-
-* Fornication :drill:
-
-Fornication - . - sex without marriage.
-
-* Wrinkle :drill:
-
-Wrinkle - . - складка, морщина.
-
-* Cricket :drill:
-
-Cricket - . - сверчёк.
-
-* Grig :drill:
-
-Grig - . - кузнечик, сверчёк, маленький угорь.
-
-* Solicitor :drill:
-
-Solicitor - . - ходатай по бизнес/юр. вопросам.
-
-* Laceration :drill:
-
-Laceration - . - разрыв, терзание, страдание.
-
-* Exsanguination :drill:
-
-Exsanguination - . - кровопускание.
-
-* Haruspex :drill:
-
-Haruspex - . - гаруспик. Доктор-мистик который гадает на внутренних органах и крови.
-
-* Ordeal :drill:
-
-Ordeal - . - суровое тяжелое испытание.
-
-* Forfeit :drill:
-
-Forfeit - ˈfôrfit - расплата.
-
-* Contentious :drill:
-
-Contentious - kənˈtenCHəs - сварливый.
-
-* Adherent :drill:
-
-Adherent - . - приверженец.
-
-* Reciprocity :drill:
-
-Reciprocity - . - process of exchange resulting in a mutual benefit
-
-* Blathering :drill:
-
-Blathering - /ˈblað(ə)rɪŋ/ - болтовня, непонятно стрекотать.
-
-* Inhibit :drill:
-
-Inhibit - . - препятствовать.
-
-* Thorough :drill:
-
-Thorough - /ˈθʌrə/ - тщетельный.
-
-* Parlance :drill:
-
-Parlance - /ˈpɑːl(ə)ns/ - способ, манера выражения.
-
-* Satyriasis :drill:
-
-Satyriasis - /ˌsatɪˈrʌɪəsɪs/ - неконтролируемое мужское либидо.
 
