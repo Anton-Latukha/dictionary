@@ -772,3 +772,5 @@ Adherent - . - приверженец.
 Reciprocity - . - process of exchange resulting in a mutual benefit
 * Blathering :drill:
 Blathering - /ˈblað(ə)rɪŋ/ - болтовня, непонятно стрекотать.
+* Inhibit :drill:
+Inhibit - . - препятствовать.
