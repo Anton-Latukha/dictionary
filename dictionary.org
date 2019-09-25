@@ -762,3 +762,5 @@ Exsanguination - . - кровопускание.
 Haruspex - . - гаруспик. Доктор-мистик который гадает на внутренних органах и крови.
 * Ordeal :drill:
 Ordeal - . - суровое тяжелое испытание.
+* Forfeit :drill:
+Forfeit - ˈfôrfit - расплата.
