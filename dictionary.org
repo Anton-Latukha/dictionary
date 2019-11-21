@@ -1576,3 +1576,6 @@ Barrage - . - заградительный огонь.
 * Spurious :drill:
 Spurious - /ˈspyo͝orēəs/ - поддельный.
 
+* Befuddle :drill:
+Befuddle - /biˈfədl/ - одурманенный, опьяненный.
+
