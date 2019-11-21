@@ -1570,3 +1570,6 @@ Prude - . - easily shocked by something lating to sex or nudity.
 * Escrow :drill:
 Escrow - . - third side of the contract that governs the propery and money while contract is in process.
 
+* Barrage :drill:
+Barrage - . - заградительный огонь.
+
