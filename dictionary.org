@@ -1573,3 +1573,6 @@ Escrow - . - third side of the contract that governs the propery and money while
 * Barrage :drill:
 Barrage - . - заградительный огонь.
 
+* Spurious :drill:
+Spurious - /ˈspyo͝orēəs/ - поддельный.
+
