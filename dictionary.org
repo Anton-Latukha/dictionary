@@ -98,9 +98,15 @@ Bailey - . - in fortification is a courtyard enclosed by the wall.
 
 Banister - .  - перила, баллюстрада.
 
+* Barrage :drill:
+Barrage - . - заградительный огонь.
+
 * Befriend :drill:
 
 Befriend - become a friend with, especially help people.
+
+* Befuddle :drill:
+Befuddle - /biˈfədl/ - одурманенный, опьяненный.
 
 * Benevolent :drill:
 
@@ -261,6 +267,9 @@ Separate section or part of a structure or container.
 * Compartmentalize :drill:
 
 Compartmentalize - /kɒmpɑːtˈmɛnt(ə)lʌɪz/ - divide into discrete sections or categories.
+
+* Comprise :drill:
+Comprise - . - consist of; be made up of.
 
 * Confounded :drill:
 
@@ -452,6 +461,9 @@ A drink made from a mixture of beaten eggs, cream, and flavorings, often with al
 
 Embezzler - who takes company money for his or her own purposes.
 
+* Engrossed :drill:
+Engrossed - /enˈgrōst/ - поглощенный увлечением.
+
 * Epicureanism :drill:
 
 Epicureanism - Epicurus believed that what he called "pleasure" (ἡδονή) was the greatest good, but that the way to attain such pleasure was to live modestly, to gain knowledge of the workings of the world, and to limit one's desires. This would lead one to attain a state of tranquility (ataraxia) and freedom from fear as well as an absence of bodily pain (aponia). The combination of these two states constitutes happiness in its highest form.
@@ -463,6 +475,9 @@ Epistemology - /ɪˌpɪstɪˈmɒlədʒi,ɛˌpɪstɪˈmɒlədʒi/ - the theory of
 * Eschew :drill:
 
 Eschew - /ɪsˈtʃuː/ - deliberately avoid; abstain from.
+
+* Escrow :drill:
+Escrow - . - third side of the contract that governs the propery and money while contract is in process.
 
 * et al. :drill:
 
@@ -1010,6 +1025,9 @@ Something that a particular person finds especially annoying.
 
 Plight - /plʌɪt/ - difficult situation.
 
+* Poignant :drill:
+Poignant - /ˈpoinyənt/ - острый, горький, мучительный опыт.
+
 * Porron :drill:
 
 Strange looking vessel with long nose to drink wine remotely from vessel by drinking stream that shoots from the vessel.
@@ -1057,6 +1075,9 @@ Proprioception - /ˌprə(ʊ)prɪəˈsɛpʃn/ - body awareness.
 * Prowl :drill:
 
 Prowl - /praʊl/ - рыскать.
+
+* Prude :drill:
+Prude - . - easily shocked by something lating to sex or nudity.
 
 * Pugnacious :drill:
 
@@ -1178,6 +1199,9 @@ Cтроительные леса.
 
 Scant - scant - скудный.
 
+* Scavenge :drill:
+Scavenge - /ˈskavənj/ - соскребать остатки.
+
 * Scorn :drill:
 
 Презрение.
@@ -1255,6 +1279,9 @@ Sophomore - /ˈsɑːfmɔːr/ - второкурсник, самоуверенн�
 * Spitball :drill:
 
 Throw out (a suggestion) for discussion.
+
+* Spurious :drill:
+Spurious - /ˈspyo͝orēəs/ - поддельный.
 
 * Squirrelly :drill:
 
@@ -1560,31 +1587,4 @@ Mercuric chloride. Neurotoxic.
 * Шустование :drill:
 
 Сглаживание дула в рушьях.
-
-* Comprise :drill:
-Comprise - . - consist of; be made up of.
-
-* Prude :drill:
-Prude - . - easily shocked by something lating to sex or nudity.
-
-* Escrow :drill:
-Escrow - . - third side of the contract that governs the propery and money while contract is in process.
-
-* Barrage :drill:
-Barrage - . - заградительный огонь.
-
-* Spurious :drill:
-Spurious - /ˈspyo͝orēəs/ - поддельный.
-
-* Befuddle :drill:
-Befuddle - /biˈfədl/ - одурманенный, опьяненный.
-
-* Poignant :drill:
-Poignant - /ˈpoinyənt/ - острый, горький, мучительный опыт.
-
-* Scavenge :drill:
-Scavenge - /ˈskavənj/ - соскребать остатки.
-
-* Engrossed :drill:
-Engrossed - /enˈgrōst/ - поглощенный увлечением.
 
