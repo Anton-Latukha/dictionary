@@ -1606,3 +1606,6 @@ Polymath - . - having learned much.
 * Coarser :drill:
 Coarser - /kôrs/ - более грубый.
 
+* Finicky :drill:
+Finicky - /ˈfinikē/ - разборчивый.
+
