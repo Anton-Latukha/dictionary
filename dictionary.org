@@ -1615,3 +1615,6 @@ Starling - /stärliNG/ - скворец.
 * Gopher :drill:
 Gopher - /gōfər/ - суслик.
 
+* Aphid :drill:
+Aphid - /af-,ˈāfid/ - тля.
+
