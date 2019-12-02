@@ -1618,3 +1618,6 @@ Gopher - /gōfər/ - суслик.
 * Aphid :drill:
 Aphid - /af-,ˈāfid/ - тля.
 
+* Pest :drill:
+Pest - /pest/ - вредитель.
+
