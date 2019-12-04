@@ -1621,3 +1621,6 @@ Aphid - /af-,ˈāfid/ - тля.
 * Pest :drill:
 Pest - /pest/ - вредитель.
 
+* Fickle :drill:
+Fickle - /ˈfikəl/ - непостоянный.
+
