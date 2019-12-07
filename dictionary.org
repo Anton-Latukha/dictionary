@@ -1624,3 +1624,6 @@ Pest - /pest/ - вредитель.
 * Fickle :drill:
 Fickle - /ˈfikəl/ - непостоянный.
 
+* Superficial :drill:
+Superficial - . - поверхностный.
+
