@@ -1630,3 +1630,6 @@ Superficial - . - поверхностный.
 * Aloof :drill:
 Aloof - . - distant and cool.
 
+* Amicable :drill:
+Amicable - /ˈamɪkəb(ə)l/ - friendly, дружеский.
+
