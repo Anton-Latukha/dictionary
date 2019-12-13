@@ -1633,3 +1633,6 @@ Aloof - . - distant and cool.
 * Amicable :drill:
 Amicable - /ˈamɪkəb(ə)l/ - friendly, дружеский.
 
+* Peremptory :drill:
+Peremptory - /pəˈrɛm(p)t(ə)ri/ - insisting on immediate attention or obedience, especially in a brusquely imperious way, императивно безапелляционный.
+
