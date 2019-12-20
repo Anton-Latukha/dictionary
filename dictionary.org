@@ -1642,3 +1642,6 @@ Manutia - . - should be avoided.
 * Ersatz :drill:
 Ersatz - . - artificial substitute.
 
+* Modus vivendi :drill:
+Modus vivendi - . - method of living.
+
