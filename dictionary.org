@@ -1639,3 +1639,6 @@ Peremptory - /pəˈrɛm(p)t(ə)ri/ - insisting on immediate attention or obedien
 * Manutia :drill:
 Manutia - . - should be avoided.
 
+* Ersatz :drill:
+Ersatz - . - artificial substitute.
+
