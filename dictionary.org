@@ -1645,3 +1645,6 @@ Ersatz - . - artificial substitute.
 * Modus vivendi :drill:
 Modus vivendi - . - method of living.
 
+* Prodient :drill:
+Prodient - . - god given.
+
