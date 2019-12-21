@@ -1648,3 +1648,6 @@ Modus vivendi - . - method of living.
 * Prodient :drill:
 Prodient - . - god given.
 
+* Fallow :drill:
+Fallow - . - паровая земля.
+
