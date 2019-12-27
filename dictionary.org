@@ -1651,3 +1651,6 @@ Prodient - . - god given.
 * Fallow :drill:
 Fallow - . - паровая земля.
 
+* Theurgy :drill:
+Theurgy - . - θεουργία, magical rituals to invoke daities, especially for henosis and perfecting oneself.
+
