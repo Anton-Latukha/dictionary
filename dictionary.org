@@ -1663,3 +1663,6 @@ Thaumaturgy - . - magical teaching of affecting the world. Miracleworks.
 * Cajole :drill:
 Cajole - . - обольстить, обхаживать, умасливать.
 
+* Touchstone :drill:
+Touchstone - . - foundamental thing.
+
