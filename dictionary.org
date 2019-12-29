@@ -1666,3 +1666,6 @@ Cajole - . - обольстить, обхаживать, умасливать.
 * Touchstone :drill:
 Touchstone - . - foundamental thing.
 
+* Garner :drill:
+Garner - . - store, gather; granary.
+
