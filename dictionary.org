@@ -1669,3 +1669,6 @@ Touchstone - . - foundamental thing.
 * Garner :drill:
 Garner - . - store, gather; granary.
 
+* Primacy :drill:
+Primacy - . - первенство, примат.
+
