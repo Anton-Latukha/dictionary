@@ -1678,3 +1678,6 @@ Morose - . - мрачный.
 * Limber :drill:
 Limber - . - податливый.
 
+* Vanity :drill:
+Vanity - . - тщеславие.
+
