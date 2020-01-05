@@ -1313,3 +1313,6 @@ Mercuric chloride. Neurotoxic.
 * Шустование :drill:
 Сглаживание дула в рушьях.
 
+* Pumice :drill:
+Pumice - . - пемза.
+
