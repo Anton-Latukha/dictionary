@@ -26,9 +26,18 @@ Adherent - . - приверженец.
 
 Ad hominem - .  - Latin mening talking about the person insted talking about the arguments.
 
+* Affluence :drill:
+Affluence - /ˈaflo͞oəns/ - изобилие, наплыв, богатство.
+
 * Alacrity :drill:
 
 Alacrity - /əˈlakrɪti/ - brisk and cheerful readiness.
+
+* Aloof :drill:
+Aloof - . - distant and cool.
+
+* Amicable :drill:
+Amicable - /ˈamɪkəb(ə)l/ - friendly, дружеский.
 
 * Amok :drill:
 
@@ -49,6 +58,9 @@ Anguish - /ˈaŋɡwɪʃ/ - особенно остаря тоска.
 * Anxious :drill:
 
 Anxious - /ˈaŋ(k)ʃəs/ - feeling or showing worry, nervousness, or unease about something with an uncertain outcome.
+
+* Aphid :drill:
+Aphid - /af-,ˈāfid/ - тля.
 
 * Apothecary :drill:
 
@@ -188,6 +200,9 @@ Burrow - /ˈbərō/ - нора.
 
 Пахта.
 
+* Cajole :drill:
+Cajole - . - обольстить, обхаживать, умасливать.
+
 * Callousness :drill:
 
 /ˈkaləsnəs/
@@ -245,6 +260,9 @@ Clearing - /ˈklɪərɪŋ/ - open space in forest, especially cleared for cultiv
 Short good description of the literature.
 
 Initially CliffNotes are a company and a series of study guides available firstly in the US.
+
+* Coarser :drill:
+Coarser - /kôrs/ - более грубый.
 
 * Coaster :drill:
 
@@ -461,6 +479,9 @@ A drink made from a mixture of beaten eggs, cream, and flavorings, often with al
 
 Embezzler - who takes company money for his or her own purposes.
 
+* Eminence :drill:
+Eminence - /ˈemənəns/ - высокоприосвещенство, возвышенность.
+
 * Engrossed :drill:
 Engrossed - /enˈgrōst/ - поглощенный увлечением.
 
@@ -471,6 +492,9 @@ Epicureanism - Epicurus believed that what he called "pleasure" (ἡδονή) wa
 * Epistemology :drill:
 
 Epistemology - /ɪˌpɪstɪˈmɒlədʒi,ɛˌpɪstɪˈmɒlədʒi/ - the theory of knowledge, especially with regard to its methods, validity, and scope, and the distinction between justified belief and opinion.
+
+* Ersatz :drill:
+Ersatz - . - artificial substitute.
 
 * Eschew :drill:
 
@@ -503,6 +527,9 @@ Exsanguination - . - кровопускание.
 
 Facetious - treating serious issues with deliberately inappropriate humor; flippant.
 
+* Fallow :drill:
+Fallow - . - паровая земля.
+
 * Fathometer :drill:
 
 Fathometer - /faˈðɒmɪtə/ - эхолот.
@@ -518,6 +545,12 @@ Feisty - /ˈfʌɪsti/ - (of a person, typically one who is relatively small) liv
 * Felicitations :drill:
 
 Felicitations - /fəlɪsɪˈteɪʃ(ə)nz/ - Words expressing praise for an achievement or good wishes on a special occasion.
+
+* Fickle :drill:
+Fickle - /ˈfikəl/ - непостоянный.
+
+* Finicky :drill:
+Finicky - /ˈfinikē/ - разборчивый.
 
 * Flash flood :drill:
 
@@ -581,6 +614,9 @@ Gallant - /ˈɡal(ə)nt/ - brave, heroic, grand impressive, attentively charming
 
 Желчный пузырь.
 
+* Garner :drill:
+Garner - . - store, gather; granary.
+
 * Gazebo :drill:
 
 Беседка, альтанка.
@@ -604,6 +640,9 @@ Gnarly - . - slang term for something grotesque, yet awesomely extreme. Used in 
 * God complex :drill:
 
 God complex - .  - unshakable belief wtih inflated feelings of personal ability, privilege, or infallibility, refusing to admit the possibility of error or failure, even at irrefutable evidences.
+
+* Gopher :drill:
+Gopher - /gōfər/ - суслик.
 
 * Gout :drill:
 
@@ -670,6 +709,9 @@ The ethical theory that pleasure (in the sense of the satisfaction of desires) i
 * Hemlock :drill:
 
 Hemlock - /ˈhɛmlɒk/ - болиголов.
+
+* Henosis :drill:
+Henosis - . - ἕνωσις, oneness with fundamentals of reality
 
 * Hense :drill:
 
@@ -811,6 +853,9 @@ Kerfuffle - .  - disturbance from dispute/conflict.
 
 Kinesthesia - /ˌkɪnɪsˈθiːzɪə,/ - external body awareness.
 
+* Knee-jerk :drill:
+Knee-jerk - . - reacted without thinking, forming an opinion without paying attention.
+
 * Lability :drill:
 
 Lability - .  - constantly undergoing, or very likely to undergo through changes.
@@ -834,6 +879,9 @@ Lass - /las/ - tender calling for a young women.
 * Levy :drill:
 
 Levy - /ˈlɛvi/ - enforced demand (a tax, fee, fine, duty).
+
+* Limber :drill:
+Limber - . - податливый.
 
 * Liturgy :drill:
 
@@ -863,6 +911,9 @@ Dissatisfied, complaining, trouble, rebellious.
 
 Man of the cloth - .  - clergymen.
 
+* Manutia :drill:
+Manutia - . - should be avoided.
+
 * Marooned :drill:
 
 Marooned - .  - isolated, abandoned.
@@ -889,9 +940,15 @@ Maw - /mɔː/ - пасть.
 
 Misogynist - /mɪˈsɒdʒ(ə)nɪst/ - женоненавистник.
 
+* Modus vivendi :drill:
+Modus vivendi - . - method of living.
+
 * Molar :drill:
 
 Molar - /ˈməʊlə/ - моляр, коренной зуб.
+
+* Morose :drill:
+Morose - . - мрачный.
 
 * Morrow :drill:
 
@@ -993,6 +1050,9 @@ Overcurious - /əʊvəˈkjʊərɪəs/ - чрезмерное любопытст�
 
 Panspermia - . - principle of life spreading through cosmos due to luck anabiosis and chunks of matter traveling through space.
 
+* Paraquat :drill:
+Paraquat - . - a toxic, fast-acting herbicide that becomes deactivated in the soil.
+
 * Parlance :drill:
 
 Parlance - /ˈpɑːl(ə)ns/ - способ, манера выражения.
@@ -1009,6 +1069,9 @@ Paucity - /ˈpɔːsɪti/ - малочисленность.
 
 Жердь, окунь.
 
+* Peremptory :drill:
+Peremptory - /pəˈrɛm(p)t(ə)ri/ - insisting on immediate attention or obedience, especially in a brusquely imperious way, императивно безапелляционный.
+
 * Peril :drill:
 
 Peril - direct serious danger.
@@ -1016,6 +1079,9 @@ Peril - direct serious danger.
 * Perverse :drill:
 
 Perverse - /pəˈvəːs/ - извращенный.
+
+* Pest :drill:
+Pest - /pest/ - вредитель.
 
 * Pet peeve :drill:
 
@@ -1027,6 +1093,9 @@ Plight - /plʌɪt/ - difficult situation.
 
 * Poignant :drill:
 Poignant - /ˈpoinyənt/ - острый, горький, мучительный опыт.
+
+* Polymath :drill:
+Polymath - . - having learned much.
 
 * Porron :drill:
 
@@ -1060,9 +1129,15 @@ Preemie - /ˈprēmē/ - prematurely born baby.
 
 Preposterous - /prɪˈpɒst(ə)rəs/ - utterly absurd or ridiculous.
 
+* Primacy :drill:
+Primacy - . - первенство, примат.
+
 * Privation :drill:
 
 State in which essentials for well-being are lacking.
+
+* Prodient :drill:
+Prodient - . - god given.
 
 * Promulgation :drill:
 
@@ -1112,6 +1187,9 @@ Reciprocity - . - process of exchange resulting in a mutual benefit
 * Reconnaissance :drill:
 
 Reconnaissance - /rɪˈkɒnɪs(ə)ns/ - military observation of a region to locate an enemy or ascertain strategic features.
+
+* Refutable :drill:
+Refute - /riˈfyo͞ot/ - опровергаемое.
 
 * Reify :drill:
 
@@ -1291,6 +1369,9 @@ Squirrelly - /ˈskwɪr(ə)li/ - resembling a squirrel, nervous, restless, unpred
 
 Stail - /steɪl/ - old form for Stale - no longer fresh.
 
+* Starling :drill:
+Starling - /stärliNG/ - скворец.
+
 * Staunch :drill:
 
 Staunch - /stɔːn(t)ʃ/ - strong, firm, loyal in atitude or standing.
@@ -1310,6 +1391,9 @@ Succulent - /ˈsʌkjʊl(ə)nt/ - 1. tender, juicy, tasty. 2. (of a plant, especi
 * Sufism :drill:
 
 Sufism - . - "Islamic mysticism", "the inward dimension of Islam".
+
+* Superficial :drill:
+Superficial - . - поверхностный.
 
 * Suprematism :drill:
 
@@ -1353,9 +1437,15 @@ Terse - sparing in the use of words; abrupt.
 
 Краткий
 
+* Thaumaturgy :drill:
+Thaumaturgy - . - magical teaching of affecting the world. Miracleworks.
+
 * The Holocene :drill:
 
 Current geneological epoch. Began approximately 11,650 cal years before present, after the last glacial period.
+
+* Theurgy :drill:
+Theurgy - . - θεουργία, magical rituals to invoke daities, especially for henosis and perfecting oneself.
 
 * Thorough :drill:
 
@@ -1380,6 +1470,9 @@ Accumulate (money or valued objects) and hide / store away.
 * Torpor :drill:
 
 State of physical or mental inactivity; lethargy.
+
+* Touchstone :drill:
+Touchstone - . - foundamental thing.
 
 * Tranquility :drill:
 
@@ -1430,6 +1523,9 @@ Utter - /ˈʌtə/ - make a sound with one's voice.
 * Vacuous :drill:
 
 Vacuous - . - without a mind, праздный.
+
+* Vanity :drill:
+Vanity - . - тщеславие.
 
 * Veer :drill:
 
@@ -1587,100 +1683,4 @@ Mercuric chloride. Neurotoxic.
 * Шустование :drill:
 
 Сглаживание дула в рушьях.
-
-* Refutable :drill:
-Refute - /riˈfyo͞ot/ - опровергаемое.
-
-* Knee-jerk :drill:
-Knee-jerk - . - reacted without thinking, forming an opinion without paying attention.
-
-* Affluence :drill:
-Affluence - /ˈaflo͞oəns/ - изобилие, наплыв, богатство.
-
-* Eminence :drill:
-Eminence - /ˈemənəns/ - высокоприосвещенство, возвышенность.
-
-* Polymath :drill:
-Polymath - . - having learned much.
-
-* Coarser :drill:
-Coarser - /kôrs/ - более грубый.
-
-* Finicky :drill:
-Finicky - /ˈfinikē/ - разборчивый.
-
-* Starling :drill:
-Starling - /stärliNG/ - скворец.
-
-* Gopher :drill:
-Gopher - /gōfər/ - суслик.
-
-* Aphid :drill:
-Aphid - /af-,ˈāfid/ - тля.
-
-* Pest :drill:
-Pest - /pest/ - вредитель.
-
-* Fickle :drill:
-Fickle - /ˈfikəl/ - непостоянный.
-
-* Superficial :drill:
-Superficial - . - поверхностный.
-
-* Aloof :drill:
-Aloof - . - distant and cool.
-
-* Amicable :drill:
-Amicable - /ˈamɪkəb(ə)l/ - friendly, дружеский.
-
-* Peremptory :drill:
-Peremptory - /pəˈrɛm(p)t(ə)ri/ - insisting on immediate attention or obedience, especially in a brusquely imperious way, императивно безапелляционный.
-
-* Manutia :drill:
-Manutia - . - should be avoided.
-
-* Ersatz :drill:
-Ersatz - . - artificial substitute.
-
-* Modus vivendi :drill:
-Modus vivendi - . - method of living.
-
-* Prodient :drill:
-Prodient - . - god given.
-
-* Fallow :drill:
-Fallow - . - паровая земля.
-
-* Theurgy :drill:
-Theurgy - . - θεουργία, magical rituals to invoke daities, especially for henosis and perfecting oneself.
-
-* Henosis :drill:
-Henosis - . - ἕνωσις, oneness with fundamentals of reality
-
-* Thaumaturgy :drill:
-Thaumaturgy - . - magical teaching of affecting the world. Miracleworks.
-
-* Cajole :drill:
-Cajole - . - обольстить, обхаживать, умасливать.
-
-* Touchstone :drill:
-Touchstone - . - foundamental thing.
-
-* Garner :drill:
-Garner - . - store, gather; granary.
-
-* Primacy :drill:
-Primacy - . - первенство, примат.
-
-* Morose :drill:
-Morose - . - мрачный.
-
-* Limber :drill:
-Limber - . - податливый.
-
-* Vanity :drill:
-Vanity - . - тщеславие.
-
-* Paraquat :drill:
-Paraquat - . - a toxic, fast-acting herbicide that becomes deactivated in the soil.
 
