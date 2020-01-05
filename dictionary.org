@@ -1672,3 +1672,6 @@ Garner - . - store, gather; granary.
 * Primacy :drill:
 Primacy - . - первенство, примат.
 
+* Morose :drill:
+Morose - . - мрачный.
+
