@@ -1681,3 +1681,6 @@ Limber - . - податливый.
 * Vanity :drill:
 Vanity - . - тщеславие.
 
+* Paraquat :drill:
+Paraquat - . - a toxic, fast-acting herbicide that becomes deactivated in the soil.
+
