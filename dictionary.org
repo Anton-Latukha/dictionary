@@ -1675,3 +1675,6 @@ Primacy - . - первенство, примат.
 * Morose :drill:
 Morose - . - мрачный.
 
+* Limber :drill:
+Limber - . - податливый.
+
