@@ -1322,3 +1322,6 @@ Miscreant - . - злодей.
 * Macher :drill:
 Macher - . - important person.
 
+* Snazzy :drill:
+Snazzy - . - сексуальнинько, шикарненько.
+
