@@ -1331,3 +1331,6 @@ Premonition - . - роковое предчувствие.
 * Oompah :drill:
 Oompah - . - баханье.
 
+* Haggle :drill:
+Haggle - . - argue a much better dear.
+
