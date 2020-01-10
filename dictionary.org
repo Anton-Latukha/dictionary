@@ -1319,3 +1319,6 @@ Pumice - . - пемза.
 * Miscreant :drill:
 Miscreant - . - злодей.
 
+* Macher :drill:
+Macher - . - important person.
+
