@@ -1340,3 +1340,6 @@ Schachern - . - to argue a much better deal.
 * Hearth :drill:
 Hearth - . - stone-lined feriplace.
 
+* Wondrous :drill:
+Wondrous - . - увлекательно чудесный.
+
