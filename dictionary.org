@@ -1343,3 +1343,6 @@ Hearth - . - stone-lined feriplace.
 * Wondrous :drill:
 Wondrous - . - увлекательно чудесный.
 
+* Chthonic :drill:
+Chthonic - . - хтонический, поклонение богам смерти, живущий под землёй.
+
