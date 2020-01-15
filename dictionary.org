@@ -1353,5 +1353,5 @@ Prowess - . - доблесть.
 Courtesy - . - учтивость.
 
 * Diploid :drill:
-Diploid - . - life forms that have both parents DNA coils.
+Diploid - . - life forms that have both parents chromosome sets.
 
