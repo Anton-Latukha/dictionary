@@ -188,6 +188,9 @@ Changeling - /ˈtʃeɪn(d)ʒlɪŋ/ - подменыш.
 * Chivalrous :drill:
 Chivalrous - /ˈʃɪv(ə)lrəs/ - рыцарский.
 
+* Chthonic :drill:
+Chthonic - . - хтонический, поклонение богам смерти, живущий под землёй.
+
 * Chump :drill:
 Chump - /tʃʌmp/ - stupid and easily deceived.
 
@@ -268,6 +271,9 @@ Relating to a person's body, especially as opposed to spirit.
 
 Having a body. Material.
 
+* Courtesy :drill:
+Courtesy - . - учтивость.
+
 * Courtship :drill:
 Courtship - /ˈkɔːtʃɪp/ - a period of a couple develop before getting married.
 
@@ -340,6 +346,9 @@ Dill - /dɪl/ - укроп.
 
 * Dilligent :drill:
 Dilligent - /ˈdɪlɪdʒ(ə)nt/ - старательно.
+
+* Diploid :drill:
+Diploid - . - life forms that have both parents chromosome sets.
 
 * Discern :drill:
 Recognize or find out, distinguish (someone or something) with difficulty by sight or with the other senses.
@@ -520,6 +529,9 @@ Grovel - /ˈɡrɒv(ə)l,ˈɡrʌv(ə)l/ - ползать, пресмыкатьс�
 * Gullible :drill:
 Gullible - /ˈɡʌləb(ə)l/ - черезчур доверчивый, простофиля.
 
+* Haggle :drill:
+Haggle - . - argue a much better dear.
+
 * Hail :drill:
 Hail - /heɪl/ - град, в т.ч. звук.
 
@@ -537,6 +549,9 @@ Haruspex - . - гаруспик. Доктор-мистик который гад
 
 * Hazing :drill:
 Hazing - .  - дедовщина.
+
+* Hearth :drill:
+Hearth - . - stone-lined feriplace.
 
 * Hedonism :drill:
  Hedonism - /ˈhiːd(ə)nɪz(ə)m,ˈhɛːd(ə)nɪz(ə)m/ - the pursuit of pleasure; sensual self-indulgence.
@@ -699,6 +714,9 @@ Loam - fertile soil of clay and sand containing humus.
 
 Disturbing because concerned with a fear of death.
 
+* Macher :drill:
+Macher - . - important person.
+
 * Malcontent :drill:
 Dissatisfied, complaining, trouble, rebellious.
 
@@ -727,6 +745,9 @@ Maw - /mɔː/ - пасть.
 /ˈmɪstʃɪvəs/
 
 Вредный.
+
+* Miscreant :drill:
+Miscreant - . - злодей.
 
 * Misogynist :drill:
 Misogynist - /mɪˈsɒdʒ(ə)nɪst/ - женоненавистник.
@@ -794,6 +815,9 @@ Numinous - .  - mysterious feeling surpassing understanding and comprehension.
 
 * Oliebol :drill:
 Oliebol is a traditional Dutch and Belgian food. Oliebollen are a variety of dumpling made by using an ice cream scoop or two spoons to scoop a certain amount of dough and dropping the dough into a deep fryer filled with hot oil.
+
+* Oompah :drill:
+Oompah - . - баханье.
 
 * Orchard :drill:
 Orchard - .  - фруктовый сад.
@@ -878,6 +902,9 @@ Not securely held or in position; dangerously likely to fall or collapse.
 * Preemie :drill:
 Preemie - /ˈprēmē/ - prematurely born baby.
 
+* Premonition :drill:
+Premonition - . - роковое предчувствие.
+
 * Preposterous :drill:
 Preposterous - /prɪˈpɒst(ə)rəs/ - utterly absurd or ridiculous.
 
@@ -896,6 +923,9 @@ Promulgation - .  - обнародование.
 * Proprioception :drill:
 Proprioception - /ˌprə(ʊ)prɪəˈsɛpʃn/ - body awareness.
 
+* Prowess :drill:
+Prowess - . - доблесть.
+
 * Prowl :drill:
 Prowl - /praʊl/ - рыскать.
 
@@ -904,6 +934,9 @@ Prude - . - easily shocked by something lating to sex or nudity.
 
 * Pugnacious :drill:
 Pugnacious - /pʌɡˈneɪʃəs/ - eager to fight, quick to argue, quarrel.
+
+* Pumice :drill:
+Pumice - . - пемза.
 
 * Pungent :drill:
 Pungent - /ˈpʌn(d)ʒ(ə)nt/ - having a sharply strong taste or smell.
@@ -999,6 +1032,9 @@ Scant - scant - скудный.
 * Scavenge :drill:
 Scavenge - /ˈskavənj/ - соскребать остатки.
 
+* Schachern :drill:
+Schachern - . - to argue a much better deal.
+
 * Scorn :drill:
 Презрение.
 
@@ -1045,6 +1081,9 @@ Skittish - /ˈskɪtɪʃ/ - (of an animal) nervous or excitable; easily scared. (
 
 * Slander :drill:
 Slander - /ˈslɑːndə/ - клевета.
+
+* Snazzy :drill:
+Snazzy - . - сексуальнинько, шикарненько.
 
 * Solicitor :drill:
 Solicitor - . - ходатай по бизнес/юр. вопросам.
@@ -1225,6 +1264,9 @@ Whimsical - /ˈwɪmzɪk(ə)l/ - причудливо капризный.
 * Wicked :drill:
 Wicked - /ˈwɪkɪd/ - evil or morally wrong. Злой, безравственный.
 
+* Wondrous :drill:
+Wondrous - . - увлекательно чудесный.
+
 * Wrinkle :drill:
 Wrinkle - . - складка, морщина.
 
@@ -1312,46 +1354,4 @@ Mercuric chloride. Neurotoxic.
 
 * Шустование :drill:
 Сглаживание дула в рушьях.
-
-* Pumice :drill:
-Pumice - . - пемза.
-
-* Miscreant :drill:
-Miscreant - . - злодей.
-
-* Macher :drill:
-Macher - . - important person.
-
-* Snazzy :drill:
-Snazzy - . - сексуальнинько, шикарненько.
-
-* Premonition :drill:
-Premonition - . - роковое предчувствие.
-
-* Oompah :drill:
-Oompah - . - баханье.
-
-* Haggle :drill:
-Haggle - . - argue a much better dear.
-
-* Schachern :drill:
-Schachern - . - to argue a much better deal.
-
-* Hearth :drill:
-Hearth - . - stone-lined feriplace.
-
-* Wondrous :drill:
-Wondrous - . - увлекательно чудесный.
-
-* Chthonic :drill:
-Chthonic - . - хтонический, поклонение богам смерти, живущий под землёй.
-
-* Prowess :drill:
-Prowess - . - доблесть.
-
-* Courtesy :drill:
-Courtesy - . - учтивость.
-
-* Diploid :drill:
-Diploid - . - life forms that have both parents chromosome sets.
 
