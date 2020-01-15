@@ -1352,3 +1352,6 @@ Prowess - . - доблесть.
 * Courtesy :drill:
 Courtesy - . - учтивость.
 
+* Diploid :drill:
+Diploid - . - life forms that have both parents DNA coils.
+
