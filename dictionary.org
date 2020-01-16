@@ -1355,3 +1355,6 @@ Mercuric chloride. Neurotoxic.
 * Шустование :drill:
 Сглаживание дула в рушьях.
 
+* Latifundium :drill:
+Latifundium - . - very extensive parcel of privately owned land.
+
