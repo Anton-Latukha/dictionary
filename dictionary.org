@@ -1361,4 +1361,6 @@ Latifundium - . - very extensive parcel of privately owned land.
 * Back-formation :drill:
 Back-formation - . - word, new forms of word and root creation by reverse process, from adopted word backwards.
 
+* Pluck :drill:
+Pluck - . - оторвать, отщипнуть, мужество, потроха.
 
