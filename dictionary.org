@@ -1364,42 +1364,6 @@ Back-formation - . - word, new forms of word and root creation by reverse proces
 * Pluck :drill:
 Pluck - . - оторвать, отщипнуть, мужество, потроха.
 
-* Test :drill:test:
-Test - . - test.
-
-* Test :drill:test:
-Test - . - test.
-
-* Test :drill:test:
-Test - . - test.
-
-* Test :drill:test:
-Test - . - test.
-
-* Test :drill:test:
-Test - . - test.
-
-* Test :drill:test:
-Test - . - test.
-
-* Test :drill:test:
-Test - . - test.
-
-* Test :drill:test:
-Test - . - test.
-
-* Test :drill:test:
-Test - . - test.
-
-* Test :drill:test:
-Test - . - 
-
-* Test :drill:test:
-Test - . - test.
-
-* Test :drill:test:
-Test - . - test.
-
 * Astute :drill:
 Astute - . - проницательный, сообразительный.
 
