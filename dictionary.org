@@ -1400,3 +1400,6 @@ Test - . - test.
 * Test :drill:test:
 Test - . - test.
 
+* Astute :drill:
+Astute - . - проницательный, сообразительный.
+
