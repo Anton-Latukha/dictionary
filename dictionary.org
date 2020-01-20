@@ -1373,3 +1373,6 @@ Jackal - . - шакал.
 * Punitive :drill:
 Punitive - . - карательный.
 
+* Substantive :drill:
+Substantive - . - основной, значительный.
+
