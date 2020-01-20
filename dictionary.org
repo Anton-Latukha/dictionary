@@ -1378,7 +1378,3 @@ Substantive - . - основной, значительный.
 
 * Vehement :drill:
 Vehement - . - неистовый.
-
-* Test :drill:test:
-Test - . - 
-
