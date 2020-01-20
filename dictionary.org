@@ -1378,3 +1378,7 @@ Substantive - . - основной, значительный.
 
 * Vehement :drill:
 Vehement - . - неистовый.
+
+* Parochial :drill:
+Parochial - . - приходский.
+
