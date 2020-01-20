@@ -70,11 +70,17 @@ Asinine - /ˈasɪnʌɪn/ - глупый.
 * Aspiration :drill:
 Aspiration - /aspəˈreɪʃ(ə)n/ - an ambition of achieving something.
 
+* Astute :drill:
+Astute - . - проницательный, сообразительный.
+
 * Auxiliary :drill:
 Auxiliary - /ɔːɡˈzɪlɪəri,ɒɡˈzɪlɪəri/ - всомогательный.
 
 * Avid :drill:
 Алчный.
+
+* Back-formation :drill:
+Back-formation - . - word, new forms of word and root creation by reverse process, from adopted word backwards.
 
 * Bagel :drill:
 Бублик.
@@ -662,6 +668,9 @@ Invaluable - extremely useful; indispensable.
 * Invective :drill:
 Critic is the strict sence.
 
+* Jackal :drill:
+Jackal - . - шакал.
+
 * Jaded :drill:
 Jaded - /ˈdʒeɪdɪd/ - bored, lacking enthusiasm, after having had too much of something.
 
@@ -691,6 +700,9 @@ Languid -  /ˈlaŋ-gwəd/ - сильно уставши.
 
 * Lass :drill:
 Lass - /las/ - tender calling for a young women.
+
+* Latifundium :drill:
+Latifundium - . - very extensive parcel of privately owned land.
 
 * Lemongrass :drill:
 Лимонное сорго широко используется в качестве приправы в азиатской и карибской кулинариях. Оно обладает цитрусовым ароматом, может быть высушено, смолото, может использоваться свежим. 
@@ -843,8 +855,14 @@ Panspermia - . - principle of life spreading through cosmos due to luck anabiosi
 * Paraquat :drill:
 Paraquat - . - a toxic, fast-acting herbicide that becomes deactivated in the soil.
 
+* Parish :drill:
+Parish - . - приход.
+
 * Parlance :drill:
 Parlance - /ˈpɑːl(ə)ns/ - способ, манера выражения.
+
+* Parochial :drill:
+Parochial - . - приходский.
 
 * Parthenogenesis :drill:
 Parthenogenesis - .  - ability to grow embryous from unfertilized sexual egg cell.
@@ -872,6 +890,9 @@ Something that a particular person finds especially annoying.
 
 * Plight :drill:
 Plight - /plʌɪt/ - difficult situation.
+
+* Pluck :drill:
+Pluck - . - оторвать, отщипнуть, мужество, потроха.
 
 * Poignant :drill:
 Poignant - /ˈpoinyənt/ - острый, горький, мучительный опыт.
@@ -940,6 +961,9 @@ Pumice - . - пемза.
 
 * Pungent :drill:
 Pungent - /ˈpʌn(d)ʒ(ə)nt/ - having a sharply strong taste or smell.
+
+* Punitive :drill:
+Punitive - . - карательный.
 
 * Quagmire :drill:
 Quagmire - /ˈkwaɡmʌɪə/ - трясина.
@@ -1115,6 +1139,9 @@ Staunch - /stɔːn(t)ʃ/ - strong, firm, loyal in atitude or standing.
 * Stern :drill:
 Stern - корма.
 
+* Substantive :drill:
+Substantive - . - основной, значительный.
+
 * Succinct :drill:
 Succinct - /sə(k)ˈsiNG(k)t/ - consice, краткий, сжатый.
 
@@ -1233,6 +1260,9 @@ Vanity - . - тщеславие.
 
 * Veer :drill:
 Veer - /vɪə/ - a sudden change of direction. Вираж.
+
+* Vehement :drill:
+Vehement - . - неистовый.
 
 * Venison :drill:
 Venison - is the meat of a deer.
@@ -1354,34 +1384,4 @@ Mercuric chloride. Neurotoxic.
 
 * Шустование :drill:
 Сглаживание дула в рушьях.
-
-* Latifundium :drill:
-Latifundium - . - very extensive parcel of privately owned land.
-
-* Back-formation :drill:
-Back-formation - . - word, new forms of word and root creation by reverse process, from adopted word backwards.
-
-* Pluck :drill:
-Pluck - . - оторвать, отщипнуть, мужество, потроха.
-
-* Astute :drill:
-Astute - . - проницательный, сообразительный.
-
-* Jackal :drill:
-Jackal - . - шакал.
-
-* Punitive :drill:
-Punitive - . - карательный.
-
-* Substantive :drill:
-Substantive - . - основной, значительный.
-
-* Vehement :drill:
-Vehement - . - неистовый.
-
-* Parochial :drill:
-Parochial - . - приходский.
-
-* Parish :drill:
-Parish - . - приход.
 
