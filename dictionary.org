@@ -1370,3 +1370,6 @@ Astute - . - проницательный, сообразительный.
 * Jackal :drill:
 Jackal - . - шакал.
 
+* Punitive :drill:
+Punitive - . - карательный.
+
