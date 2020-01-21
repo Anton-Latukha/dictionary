@@ -1391,3 +1391,6 @@ Nightshade - . - паслёновые.
 * Surly :drill:
 Surly - . - bad-tempered & unfriendly.
 
+* Curmudgeon :drill:
+Curmudgeon - . - surly person, скряга, грубиян, скупец.
+
