@@ -1394,3 +1394,6 @@ Surly - . - bad-tempered & unfriendly.
 * Curmudgeon :drill:
 Curmudgeon - . - surly person, скряга, грубиян, скупец.
 
+* Tumultuous :drill:
+Tumultuous - . - бурный, шумный, буйный.
+
