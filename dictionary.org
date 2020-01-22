@@ -1397,3 +1397,6 @@ Curmudgeon - . - surly person, скряга, грубиян, скупец.
 * Tumultuous :drill:
 Tumultuous - . - бурный, шумный, буйный.
 
+* Unflappable :drill:
+Unflappable - . - невозмутимо.
+
