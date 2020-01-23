@@ -1400,3 +1400,6 @@ Tumultuous - . - бурный, шумный, буйный.
 * Unflappable :drill:
 Unflappable - . - невозмутимо.
 
+* Wrinkle :drill:
+Wrinkle - . - морщина.
+
