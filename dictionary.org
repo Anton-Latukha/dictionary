@@ -1403,3 +1403,6 @@ Unflappable - . - невозмутимо.
 * Wrinkle :drill:
 Wrinkle - . - морщина.
 
+* Scry :drill:
+Scry - . - гадать по шару/стеклу.
+
