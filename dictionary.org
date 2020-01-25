@@ -1406,3 +1406,6 @@ Wrinkle - . - морщина.
 * Scry :drill:
 Scry - . - гадать по шару/стеклу.
 
+* Selcouth :drill:
+Selcouth - . - strange, unusual, rare; unfamiliar; marvellous, wondrous.
+
