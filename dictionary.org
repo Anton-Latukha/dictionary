@@ -1412,3 +1412,6 @@ Selcouth - . - strange, unusual, rare; unfamiliar; marvellous, wondrous.
 * Macula :drill:
 Macula - . - distinct spot or retina central zone.
 
+* Вибриссы :drill:
+Вибриссы - . - whiskers.
+
