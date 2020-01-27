@@ -1415,3 +1415,6 @@ Macula - . - distinct spot or retina central zone.
 * Вибриссы :drill:
 Вибриссы - . - whiskers.
 
+* Brass :drill:
+Brass - . -  латунь, духовой инструмент.
+
