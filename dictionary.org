@@ -1421,3 +1421,6 @@ Brass - . -  латунь, духовой инструмент.
 * Debility :drill:
 Debility - . - немощность.
 
+* Syncretism :drill:
+Syncretism - . - amalgamation of two different (cultures, schools of thought, words, religions).
+
