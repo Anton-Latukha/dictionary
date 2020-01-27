@@ -1427,3 +1427,6 @@ Syncretism - . - amalgamation of two different (cultures, schools of thought, wo
 * Boon :drill:
 Boon - . - благодеяние, benefitial things, intimate,favourite.
 
+* Traversal :drill:
+Traversal - . - пересечение.
+
