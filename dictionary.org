@@ -1424,3 +1424,6 @@ Debility - . - немощность.
 * Syncretism :drill:
 Syncretism - . - amalgamation of two different (cultures, schools of thought, words, religions).
 
+* Boon :drill:
+Boon - . - благодеяние, benefitial things, intimate,favourite.
+
