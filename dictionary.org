@@ -1418,3 +1418,6 @@ Macula - . - distinct spot or retina central zone.
 * Brass :drill:
 Brass - . -  латунь, духовой инструмент.
 
+* Debility :drill:
+Debility - . - немощность.
+
