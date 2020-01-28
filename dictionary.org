@@ -1433,3 +1433,6 @@ Traversal - . - пересечение.
 * Seque :drill:
 Seque - . - uninterrupted transition from one peice into other, переход.
 
+* Loathing :drill:
+Loathing - . - ненависть.
+
