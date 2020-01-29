@@ -1436,3 +1436,6 @@ Seque - . - uninterrupted transition from one peice into other, переход.
 * Loathing :drill:
 Loathing - . - ненависть.
 
+* Undertow :drill:
+Undertow - . - отлив прибоя, implicit quality, emotion, or influence underlying the superficial aspects and leaving a particular impression.
+
