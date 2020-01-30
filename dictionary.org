@@ -1439,3 +1439,6 @@ Loathing - . - ненависть.
 * Undertow :drill:
 Undertow - . - отлив прибоя, implicit quality, emotion, or influence underlying the superficial aspects and leaving a particular impression.
 
+* Glade :drill:
+Glade - . - поляна.
+
