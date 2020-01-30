@@ -1448,3 +1448,6 @@ Everglade - . - чаруса.
 * Shibboleth :drill:
 Shibboleth - . - секретный пароль, правильная фраза, правельное месное произношение.
 
+* Adjunction :drill:
+Adjunction - . - присоединение.
+
