@@ -1445,3 +1445,6 @@ Glade - . - поляна.
 * Everglade :drill:
 Everglade - . - чаруса.
 
+* Shibboleth :drill:
+Shibboleth - . - секретный пароль, правильная фраза, правельное месное произношение.
+
