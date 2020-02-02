@@ -1454,3 +1454,6 @@ Adjunction - . - присоединение.
 * Reify :drill:
 Reify - . - make more concrete, real, конкретизировать, материализовать.
 
+* Reciprocal :drill:
+Reciprocal - . - обоюдный.
+
