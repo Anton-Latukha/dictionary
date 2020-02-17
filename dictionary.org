@@ -1466,3 +1466,6 @@ Wedge - . - клин, дверная петля.
 * Save :drill:
 Save - . - except; non other than.
 
+* Antediluvian :drill:
+Antediluvian - /ˌantɪdɪˈluːvɪən/ - belonging to the time before the biblical Flood, old-forgotten.
+
