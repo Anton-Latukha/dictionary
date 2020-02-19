@@ -1472,3 +1472,6 @@ Antediluvian - /ˌantɪdɪˈluːvɪən/ - belonging to the time before the bibli
 * Vestigial :drill:
 Vestigial - . - рудиментарный.
 
+* Roster :drill:
+Roster - . - список ответственности/ролей.
+
