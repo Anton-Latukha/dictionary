@@ -1469,3 +1469,6 @@ Save - . - except; non other than.
 * Antediluvian :drill:
 Antediluvian - /ˌantɪdɪˈluːvɪən/ - belonging to the time before the biblical Flood, old-forgotten.
 
+* Vestigial :drill:
+Vestigial - . - рудиментарный.
+
