@@ -1475,3 +1475,6 @@ Vestigial - . - рудиментарный.
 * Roster :drill:
 Roster - . - список ответственности/ролей.
 
+* Levant :drill:
+Levant - . - approximate historical region ("where sun is rising") of arabic countries, roughly from very South of Turkey, Syria, Palestina, up to Egypt.
+
