@@ -1478,3 +1478,6 @@ Roster - . - список ответственности/ролей.
 * Levant :drill:
 Levant - . - approximate historical region ("where sun is rising") of arabic countries, roughly from very South of Turkey, Syria, Palestina, up to Egypt.
 
+* Gratuitous :drill:
+Gratuitous - . - uncalled, unwarranted, lacked a reason, беспричинный.
+
