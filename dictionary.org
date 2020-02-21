@@ -1481,3 +1481,6 @@ Levant - . - approximate historical region ("where sun is rising") of arabic cou
 * Gratuitous :drill:
 Gratuitous - . - uncalled, unwarranted, lacked a reason, беспричинный.
 
+* Stringent :drill:
+Stringent - . - строгое требование.
+
