@@ -1487,3 +1487,6 @@ Stringent - . - строгое требование.
 * Frosty :drill:
 Frosty - . - To be ready, on the edge. Military slang.
 
+* Брусфер :drill:
+Брусфер - . - стена раскопа.
+
