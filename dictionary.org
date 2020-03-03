@@ -1484,3 +1484,6 @@ Gratuitous - . - uncalled, unwarranted, lacked a reason, беспричинны�
 * Stringent :drill:
 Stringent - . - строгое требование.
 
+* Frosty :drill:
+Frosty - . - To be ready, on the edge. Military slang.
+
