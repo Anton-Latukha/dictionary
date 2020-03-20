@@ -1493,3 +1493,6 @@ Frosty - . - To be ready, on the edge. Military slang.
 * Flummoxed :drill:
 Flummoxed - . - запутавшийся, смущённый.
 
+* Lull :drill:
+Lull - . - затишье.
+
