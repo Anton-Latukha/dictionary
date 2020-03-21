@@ -1502,3 +1502,6 @@ Rustic - . - простоватый, неотёсанный.
 * Unhinged :drill:
 Unhinged - . - сорванный с петель, сошедший с колии.
 
+* Unhindered :drill:
+Unhindered - . - беспрепятственно.
+
