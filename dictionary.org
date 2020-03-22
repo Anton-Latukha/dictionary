@@ -1511,3 +1511,6 @@ Flamboyant - . - пышный, цветистый.
 * Brambles :drill:
 Brambles - . - ежевика.
 
+* Roster :drill:
+Roster - . - лист в котором расписаны люди и их роли.
+
