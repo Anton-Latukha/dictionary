@@ -1514,3 +1514,6 @@ Brambles - . - ежевика.
 * Roster :drill:
 Roster - . - лист в котором расписаны люди и их роли.
 
+* Unsolicited :drill:
+Unsolicited - . - незатребованный.
+
