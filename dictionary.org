@@ -1529,3 +1529,6 @@ Boondocks - . - глушь, дебри, дыра.
 * Hail :drill:
 Hail - . - град.
 
+* Teutonic :drill:
+Teutonic - . - тевронический, denoting the Germanic branch of the Indo-European language family.
+
