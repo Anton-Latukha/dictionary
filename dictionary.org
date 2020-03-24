@@ -19,8 +19,14 @@ Adherent - . - приверженец.
 * Ad hominem :drill:
 Ad hominem - .  - Latin mening talking about the person insted talking about the arguments.
 
+* Adjunction :drill:
+Adjunction - . - присоединение.
+
 * Affluence :drill:
 Affluence - /ˈaflo͞oəns/ - изобилие, наплыв, богатство.
+
+* Ailments :drill:
+Ailment - . - недуг (не болезнь, а мед. недуг, как инвалидность).
 
 * Alacrity :drill:
 Alacrity - /əˈlakrɪti/ - brisk and cheerful readiness.
@@ -42,6 +48,9 @@ Anglicanism - . - Church of England, that supports the belief that God is a rule
 
 * Anguish :drill:
 Anguish - /ˈaŋɡwɪʃ/ - особенно остаря тоска.
+
+* Antediluvian :drill:
+Antediluvian - /ˌantɪdɪˈluːvɪən/ - belonging to the time before the biblical Flood, old-forgotten.
 
 * Anxious :drill:
 Anxious - /ˈaŋ(k)ʃəs/ - feeling or showing worry, nervousness, or unease about something with an uncertain outcome.
@@ -130,11 +139,23 @@ Bog - /bɒɡ/ - топь.
 * Bogus :drill:
 Bogus - /ˈbəʊɡəs/ - false that presented as genuine true.
 
+* Boon :drill:
+Boon - . - благодеяние, benefitial things, intimate,favourite.
+
+* Boondocks :drill:
+Boondocks - . - глушь, дебри, дыра.
+
 * Brahmamuhurtha :drill:
 Brahmamuhurtha - .  - best time for deep thinking and meditation, 1.36 before sunrise.
 
+* Brambles :drill:
+Brambles - . - ежевика.
+
 * Brandish :drill:
 Brandish - /ˈbrandɪʃ/ - размахивать.
+
+* Brass :drill:
+Brass - . -  латунь, духовой инструмент.
 
 * Brooding :drill:
 Brooding - /ˈbruːdɪŋ/ - высиживать (яйца), быть глубоко задумчивым.
@@ -219,6 +240,9 @@ Coaster - .  - подставка.
 
 * Coerce :drill:
 Coerce - /kəʊˈəːs/ - принуждать.
+
+* Collateral :drill:
+Collateral - . - обеспечение, дополнительный, побочный.
 
 * Commendation :drill:
 Commendation - /kämənˈdāSHən/ - acclaim, похвала.
@@ -307,6 +331,9 @@ Crucible - . - тегель. Form to cast metal.
 * Cunning :drill:
 Cunning - . - skill in achieving one's ends by deceit.
 
+* Curmudgeon :drill:
+Curmudgeon - . - surly person, скряга, грубиян, скупец.
+
 * Dada :drill:
 Dada - .  - absurd direction in art after WWI.
 
@@ -315,6 +342,9 @@ Deadnaming - . - use name that person changes.
 
 * Debacle :drill:
 Debacle - /deɪˈbɑːk(ə)l/ - ignominious failure.
+
+* Debility :drill:
+Debility - . - немощность.
 
 * Decanter :drill:
 Vessel for decantation (keeping liquid still, so it forms solid residue).
@@ -409,6 +439,9 @@ Escrow - . - third side of the contract that governs the propery and money while
 * et al. :drill:
 et al. - .  - scholarly abbreviation of the Latin /et alia/ (“and others”).
 
+* Everglade :drill:
+Everglade - . - чаруса.
+
 * Excavate :drill:
 /ˈɛkskəveɪt/
 
@@ -446,11 +479,17 @@ Fickle - /ˈfikəl/ - непостоянный.
 * Finicky :drill:
 Finicky - /ˈfinikē/ - разборчивый.
 
+* Flamboyant :drill:
+Flamboyant - . - пышный, цветистый.
+
 * Flash flood :drill:
 Внезапный ливневый затапливающий паводок.
 
 * Flay :drill:
 Flay - strip the skin.
+
+* Flummoxed :drill:
+Flummoxed - . - запутавшийся, смущённый.
 
 * Foil :drill:
 Foil - prevent something considered wrong from succeeding.
@@ -482,6 +521,9 @@ Freebie - /ˈfriːbi/ - a thing given free of charge. Халява.
 * Fringe :drill:
 Fringe - /frɪn(d)ʒ/ - дополнательный край, чёлка, бахрома.
 
+* Frosty :drill:
+Frosty - . - To be ready, on the edge. Military slang.
+
 * Futility :drill:
 Futility - /fjʊˈtɪlɪti,fjuːˈtɪlɪti/ - pointlessness or uselessness.
 
@@ -508,6 +550,9 @@ Ghastly - /ˈɡɑːs(t)li/ - causing great horror.
 * Gist :drill:
 Gist - . - the substance of a speech, text, action.
 
+* Glade :drill:
+Glade - . - поляна.
+
 * Gnarly :drill:
 Gnarly - . - slang term for something grotesque, yet awesomely extreme. Used in bad and good cases.
 
@@ -519,6 +564,9 @@ Gopher - /gōfər/ - суслик.
 
 * Gout :drill:
 Gout - .  - подагра.
+
+* Gratuitous :drill:
+Gratuitous - . - uncalled, unwarranted, lacked a reason, беспричинный.
 
 * Gravitas :drill:
 Gravitas - .  - having a importance, weight, severity in reality.
@@ -540,6 +588,9 @@ Haggle - . - argue a much better dear.
 
 * Hail :drill:
 Hail - /heɪl/ - град, в т.ч. звук.
+
+* Hail :drill:
+Hail - . - град.
 
 * Handspring :drill:
 Handspring - /ˈhan(d)sprɪŋ/ - колесо (елемент).
@@ -707,6 +758,9 @@ Latifundium - . - very extensive parcel of privately owned land.
 * Lemongrass :drill:
 Лимонное сорго широко используется в качестве приправы в азиатской и карибской кулинариях. Оно обладает цитрусовым ароматом, может быть высушено, смолото, может использоваться свежим. 
 
+* Levant :drill:
+Levant - . - approximate historical region ("where sun is rising") of arabic countries, roughly from very South of Turkey, Syria, Palestina, up to Egypt.
+
 * Levy :drill:
 Levy - /ˈlɛvi/ - enforced demand (a tax, fee, fine, duty).
 
@@ -721,6 +775,12 @@ Liturgy - .  - λειτουργία /leitourgia/ - λαός /Laos/ "the people" 
 
 Loam - fertile soil of clay and sand containing humus.
 
+* Loathing :drill:
+Loathing - . - ненависть.
+
+* Lull :drill:
+Lull - . - затишье.
+
 * Macabra :drill:
 /məˈkɑːbr(ə)/
 
@@ -728,6 +788,9 @@ Disturbing because concerned with a fear of death.
 
 * Macher :drill:
 Macher - . - important person.
+
+* Macula :drill:
+Macula - . - distinct spot or retina central zone.
 
 * Malcontent :drill:
 Dissatisfied, complaining, trouble, rebellious.
@@ -801,6 +864,9 @@ Mustard - .  - горчица.
 * Nag :drill:
 Nag - /naɡ/ - пилить, ворчать.
 
+* Nascent :drill:
+Nascent - . - приходящий, возникающий, рождающийся.
+
 * Neologism :drill:
 A newly coined word or expression.
 
@@ -809,6 +875,9 @@ A person who is new to a subject, skill, or belief.
 
 * Nepotism :drill:
 The practice of favoring relatives or friends, especially by giving them jobs.
+
+* Nightshade :drill:
+Nightshade - . - паслёновые.
 
 * Nomad :drill:
 A member of a people having no permanent abode, and who travel from place to place to find fresh pasture for their livestock.
@@ -976,6 +1045,9 @@ A disorderly crowd; a mob.
 * Ravenous :drill:
 Extremely hungry.
 
+* Reciprocal :drill:
+Reciprocal - . - обоюдный.
+
 * Reciprocity :drill:
 Reciprocity - /ˌrɛsɪˈprɒsɪti/ - exchanging things with others for mutual benefit.
 
@@ -990,6 +1062,9 @@ Refute - /riˈfyo͞ot/ - опровергаемое.
 
 * Reify :drill:
 Reify - . - from abstract create something material, материализовать из абстракции.
+
+* Reify :drill:
+Reify - . - make more concrete, real, конкретизировать, материализовать.
 
 * Relinquish :drill:
 Relinquish - /rɪˈlɪŋkwɪʃ/ - уступить.
@@ -1018,6 +1093,12 @@ Rife - /rʌɪf/ - изобилующий.
 * Rigor :drill:
 Rigor - \ˈrigər\ - extremely thorough, exhaustive, or accurate.
 
+* Roster :drill:
+Roster - . - список ответственности/ролей.
+
+* Roster :drill:
+Roster - . - лист в котором расписаны люди и их роли.
+
 * Rousing :drill:
 Воодушевляющий.
 
@@ -1025,6 +1106,9 @@ Exciting; stirring.
 
 * Rove :drill:
 Rove - . - ровница, прогуливаться, путешествовать.
+
+* Rustic :drill:
+Rustic - . - простоватый, неотёсанный.
 
 * Ruth :drill:
 Ruth - /ruːθ/ - жалость, милосердие, сострадание.
@@ -1047,6 +1131,9 @@ Satyriasis - /ˌsatɪˈrʌɪəsɪs/ - неконтролируемое мужс�
 * Savant :drill:
 Savant - . - a person of learning. Especially one with detailed knowledge in specialized field. 
 
+* Save :drill:
+Save - . - except; non other than.
+
 * Scaffold :drill:
 Cтроительные леса.
 
@@ -1065,11 +1152,23 @@ Schachern - . - to argue a much better deal.
 * Scrumptious :drill:
 Scrumptious - /ˈskrʌm(p)ʃəs/ - extremely tasty; delicious.
 
+* Scry :drill:
+Scry - . - гадать по шару/стеклу.
+
 * Secular :drill:
 Secular - /ˈsɛkjʊlə/ - (of clergy) not subject to or bound by religious rule; not belonging to or living in a monastic or other order.
 
+* Selcouth :drill:
+Selcouth - . - strange, unusual, rare; unfamiliar; marvellous, wondrous.
+
+* Seque :drill:
+Seque - . - uninterrupted transition from one peice into other, переход.
+
 * Settee :drill:
 Settee - /sɛˈtiː/ - long couch.
+
+* Shibboleth :drill:
+Shibboleth - . - секретный пароль, правильная фраза, правельное месное произношение.
 
 * Shrill :drill:
 Shrill - /ʃrɪl/ - high-pitched and piercing.
@@ -1139,6 +1238,9 @@ Staunch - /stɔːn(t)ʃ/ - strong, firm, loyal in atitude or standing.
 * Stern :drill:
 Stern - корма.
 
+* Stringent :drill:
+Stringent - . - строгое требование.
+
 * Substantive :drill:
 Substantive - . - основной, значительный.
 
@@ -1157,6 +1259,9 @@ Superficial - . - поверхностный.
 * Suprematism :drill:
 Suprematism - . - (Russian: Супремати́зм) art movement, focused on basic geometric forms, and rectangles, painted in a limited range of colors. It was founded by Kazimir Malevich in Russia, around 1913, around 1913, and announced in Malevich's 1915 exhibition.
 
+* Surly :drill:
+Surly - . - bad-tempered & unfriendly.
+
 * Surmise :drill:
 Surmise - /səˈmʌɪz/ - suppose that something is true without having evidence to confirm it.
 
@@ -1165,6 +1270,9 @@ Suspenders - .  - подтяжки.
 
 * Swoon :drill:
 Swoon - /swuːn/ - faint from extreme emotion.
+
+* Syncretism :drill:
+Syncretism - . - amalgamation of two different (cultures, schools of thought, words, religions).
 
 * Tantamount :drill:
 Tantamount - . - equivalent, equivalent in seriousness, равноценный.
@@ -1185,6 +1293,9 @@ Tenure - .  - permanently holding a position.
 Terse - sparing in the use of words; abrupt.
 
 Краткий
+
+* Teutonic :drill:
+Teutonic - . - тевронический, denoting the Germanic branch of the Indo-European language family.
 
 * Thaumaturgy :drill:
 Thaumaturgy - . - magical teaching of affecting the world. Miracleworks.
@@ -1222,6 +1333,9 @@ Tranquility - /traŋˈkwɪlɪti/ - the quality state of being in a good state.
 * Travail :drill:
 Travail - /ˈtraveɪl/ - тяжелый труд.
 
+* Traversal :drill:
+Traversal - . - пересечение.
+
 * Tripe :drill:
 Tripe - /trʌɪp/ - требуха.
 
@@ -1230,6 +1344,9 @@ Truism - a statement that is obviously true and says nothing new or interesting.
 
 * Tsundere :drill:
 Tsundere - .  - anime cartoon word meaning someone who changes from cold appearence into warm one. /Tsun tsun/ is a strict and cold, /dere dere/ is shy and loving.
+
+* Tumultuous :drill:
+Tumultuous - . - бурный, шумный, буйный.
 
 * Turgid :drill:
 /ˈtəːdʒɪd/
@@ -1246,8 +1363,23 @@ Ubiquitous - present, appearing, or found everywhere.
 * Uncanny valley :drill:
 Uncanny valley - . - unease or revulsion on seing a created face.
 
+* Undertow :drill:
+Undertow - . - отлив прибоя, implicit quality, emotion, or influence underlying the superficial aspects and leaving a particular impression.
+
 * Unfathomable :drill:
 Unfathomable - /ʌnˈfað(ə)məb(ə)l/ - бездонный.
+
+* Unflappable :drill:
+Unflappable - . - невозмутимо.
+
+* Unhindered :drill:
+Unhindered - . - беспрепятственно.
+
+* Unhinged :drill:
+Unhinged - . - сорванный с петель, сошедший с колии.
+
+* Unsolicited :drill:
+Unsolicited - . - незатребованный.
 
 * Utter :drill:
 Utter - /ˈʌtə/ - make a sound with one's voice.
@@ -1267,6 +1399,9 @@ Vehement - . - неистовый.
 * Venison :drill:
 Venison - is the meat of a deer.
 
+* Vestigial :drill:
+Vestigial - . - рудиментарный.
+
 * Vicarious :drill:
 Experienced through the feelings or actions of another person.
 
@@ -1285,6 +1420,9 @@ Wanderlust - . - storong desire to rove.
 * Wart :drill:
 Wart - /wôrt/ - бородавка.
 
+* Wedge :drill:
+Wedge - . - клин, дверная петля.
+
 * Wedlock :drill:
 The state of being married.
 
@@ -1300,6 +1438,9 @@ Wondrous - . - увлекательно чудесный.
 * Wrinkle :drill:
 Wrinkle - . - складка, морщина.
 
+* Wrinkle :drill:
+Wrinkle - . - морщина.
+
 * Zesty :drill:
 Zesty - . - spicy, fun and exciting. Crowd, party, food - everything can be zasty.
 
@@ -1308,6 +1449,12 @@ Zesty - . - spicy, fun and exciting. Crowd, party, food - everything can be zast
 
 * Аустерия :drill:
 Аустерия - от лат. /austeria/ трактир - модный трактир времени Петра.
+
+* Брусфер :drill:
+Брусфер - . - стена раскопа.
+
+* Вибриссы :drill:
+Вибриссы - . - whiskers.
 
 * Вяхирь :drill:
 Вяхирь - . - лесной голубь.
@@ -1384,151 +1531,4 @@ Mercuric chloride. Neurotoxic.
 
 * Шустование :drill:
 Сглаживание дула в рушьях.
-
-* Nightshade :drill:
-Nightshade - . - паслёновые.
-
-* Surly :drill:
-Surly - . - bad-tempered & unfriendly.
-
-* Curmudgeon :drill:
-Curmudgeon - . - surly person, скряга, грубиян, скупец.
-
-* Tumultuous :drill:
-Tumultuous - . - бурный, шумный, буйный.
-
-* Unflappable :drill:
-Unflappable - . - невозмутимо.
-
-* Wrinkle :drill:
-Wrinkle - . - морщина.
-
-* Scry :drill:
-Scry - . - гадать по шару/стеклу.
-
-* Selcouth :drill:
-Selcouth - . - strange, unusual, rare; unfamiliar; marvellous, wondrous.
-
-* Macula :drill:
-Macula - . - distinct spot or retina central zone.
-
-* Вибриссы :drill:
-Вибриссы - . - whiskers.
-
-* Brass :drill:
-Brass - . -  латунь, духовой инструмент.
-
-* Debility :drill:
-Debility - . - немощность.
-
-* Syncretism :drill:
-Syncretism - . - amalgamation of two different (cultures, schools of thought, words, religions).
-
-* Boon :drill:
-Boon - . - благодеяние, benefitial things, intimate,favourite.
-
-* Traversal :drill:
-Traversal - . - пересечение.
-
-* Seque :drill:
-Seque - . - uninterrupted transition from one peice into other, переход.
-
-* Loathing :drill:
-Loathing - . - ненависть.
-
-* Undertow :drill:
-Undertow - . - отлив прибоя, implicit quality, emotion, or influence underlying the superficial aspects and leaving a particular impression.
-
-* Glade :drill:
-Glade - . - поляна.
-
-* Everglade :drill:
-Everglade - . - чаруса.
-
-* Shibboleth :drill:
-Shibboleth - . - секретный пароль, правильная фраза, правельное месное произношение.
-
-* Adjunction :drill:
-Adjunction - . - присоединение.
-
-* Reify :drill:
-Reify - . - make more concrete, real, конкретизировать, материализовать.
-
-* Reciprocal :drill:
-Reciprocal - . - обоюдный.
-
-* Nascent :drill:
-Nascent - . - приходящий, возникающий, рождающийся.
-
-* Wedge :drill:
-Wedge - . - клин, дверная петля.
-
-* Save :drill:
-Save - . - except; non other than.
-
-* Antediluvian :drill:
-Antediluvian - /ˌantɪdɪˈluːvɪən/ - belonging to the time before the biblical Flood, old-forgotten.
-
-* Vestigial :drill:
-Vestigial - . - рудиментарный.
-
-* Roster :drill:
-Roster - . - список ответственности/ролей.
-
-* Levant :drill:
-Levant - . - approximate historical region ("where sun is rising") of arabic countries, roughly from very South of Turkey, Syria, Palestina, up to Egypt.
-
-* Gratuitous :drill:
-Gratuitous - . - uncalled, unwarranted, lacked a reason, беспричинный.
-
-* Stringent :drill:
-Stringent - . - строгое требование.
-
-* Frosty :drill:
-Frosty - . - To be ready, on the edge. Military slang.
-
-* Брусфер :drill:
-Брусфер - . - стена раскопа.
-
-* Flummoxed :drill:
-Flummoxed - . - запутавшийся, смущённый.
-
-* Lull :drill:
-Lull - . - затишье.
-
-* Rustic :drill:
-Rustic - . - простоватый, неотёсанный.
-
-* Unhinged :drill:
-Unhinged - . - сорванный с петель, сошедший с колии.
-
-* Unhindered :drill:
-Unhindered - . - беспрепятственно.
-
-* Flamboyant :drill:
-Flamboyant - . - пышный, цветистый.
-
-* Brambles :drill:
-Brambles - . - ежевика.
-
-* Roster :drill:
-Roster - . - лист в котором расписаны люди и их роли.
-
-* Unsolicited :drill:
-Unsolicited - . - незатребованный.
-
-* Ailments :drill:
-Ailment - . - недуг (не болезнь, а мед. недуг, как инвалидность).
-
-* Collateral :drill:
-Collateral - . - обеспечение, дополнительный, побочный.
-
-* Boondocks :drill:
-Boondocks - . - глушь, дебри, дыра.
-
-* Hail :drill:
-Hail - . - град.
-
-* Teutonic :drill:
-Teutonic - . - тевронический, denoting the Germanic branch of the Indo-European language family.
 
