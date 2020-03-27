@@ -1544,3 +1544,6 @@ Potent - . - сильнодействующий.
 * Riposte :drill:
 Riposte - . - ответный удар.
 
+* Revel :drill:
+Revel - . - упиваться.
+
