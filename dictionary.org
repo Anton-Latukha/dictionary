@@ -1556,3 +1556,6 @@ Doxen - . - такса.
 * Soliciting :drill:
 Soliciting - . - ходатайство, выходить.
 
+* Copious :drill:
+Copious - . - обильно, очень много.
+
