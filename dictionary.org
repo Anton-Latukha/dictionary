@@ -1559,3 +1559,6 @@ Soliciting - . - ходатайство, выходить.
 * Copious :drill:
 Copious - . - обильно, очень много.
 
+* Nightstand :drill:
+Nightstand - . - тумбочка у кровати.
+
