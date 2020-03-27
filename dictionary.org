@@ -1550,3 +1550,6 @@ Revel - . - упиваться.
 * Onslaught :drill:
 Onslaught - . - натиск.
 
+* Doxen :drill:
+Doxen - . - такса.
+
