@@ -1535,3 +1535,6 @@ Mercuric chloride. Neurotoxic.
 * Mayflower :drill:
 Mayflower - . - любой цветок который распускается в мае.
 
+* Dazzle :drill:
+Dazzle - . - по всему ослепить, знаниями или светом.
+
