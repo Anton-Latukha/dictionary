@@ -1562,3 +1562,6 @@ Copious - . - обильно, очень много.
 * Nightstand :drill:
 Nightstand - . - тумбочка у кровати.
 
+* Respite :drill:
+Respite - . - передышка, перерыв.
+
