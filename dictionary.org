@@ -1553,3 +1553,6 @@ Onslaught - . - натиск.
 * Doxen :drill:
 Doxen - . - такса.
 
+* Soliciting :drill:
+Soliciting - . - ходатайство, выходить.
+
