@@ -1574,3 +1574,6 @@ Glint - . - отблеск.
 * Yonder :drill:
 Yonder - . - где-то вдалечи.
 
+* Flail :drill:
+Flail - . - цеп, махать в виде цепа.
+
