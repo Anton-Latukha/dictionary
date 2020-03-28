@@ -1577,3 +1577,6 @@ Yonder - . - где-то вдалечи.
 * Flail :drill:
 Flail - . - цеп, махать в виде цепа.
 
+* Cursory :drill:
+Cursory - . - бегло.
+
