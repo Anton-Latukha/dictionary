@@ -1589,3 +1589,6 @@ Gait - . - походка.
 * Penance :drill:
 Penance - . - voluntary self-punishment, искупление.
 
+* Stingy :drill:
+Stingy - . - скупой.
+
