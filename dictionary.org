@@ -1583,3 +1583,6 @@ Cursory - . - бегло.
 * Spire :drill:
 Spire - . - шпиль.
 
+* Gait :drill:
+Gait - . - походка.
+
