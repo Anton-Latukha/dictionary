@@ -1586,3 +1586,6 @@ Spire - . - шпиль.
 * Gait :drill:
 Gait - . - походка.
 
+* Penance :drill:
+Penance - . - voluntary self-punishment, искупление.
+
