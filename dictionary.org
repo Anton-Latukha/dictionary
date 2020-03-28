@@ -1580,3 +1580,6 @@ Flail - . - цеп, махать в виде цепа.
 * Cursory :drill:
 Cursory - . - бегло.
 
+* Spire :drill:
+Spire - . - шпиль.
+
