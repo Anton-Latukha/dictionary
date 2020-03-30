@@ -1595,3 +1595,6 @@ Stingy - . - скупой.
 * Hermeneutics :drill:
 Hermeneutics - . - the theory and methodology of interpretation.
 
+* Ire :drill:
+Ire - . - трепет.
+
