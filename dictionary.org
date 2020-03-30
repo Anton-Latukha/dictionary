@@ -1598,3 +1598,6 @@ Hermeneutics - . - the theory and methodology of interpretation.
 * Ire :drill:
 Ire - . - трепет.
 
+* Awe :drill:
+Awe - . - трепет.
+
