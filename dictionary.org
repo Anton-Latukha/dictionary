@@ -1592,3 +1592,6 @@ Penance - . - voluntary self-punishment, искупление.
 * Stingy :drill:
 Stingy - . - скупой.
 
+* Hermeneutics :drill:
+Hermeneutics - . - the theory and methodology of interpretation.
+
