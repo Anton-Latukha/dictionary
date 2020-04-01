@@ -1604,3 +1604,6 @@ Awe - . - трепет.
 * Infirmary :drill:
 Infirmary - . - лазарет.
 
+* Mend :drill:
+Mend - . - чинить, поправлять.
+
