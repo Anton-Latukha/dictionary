@@ -1601,3 +1601,6 @@ Ire - . - трепет.
 * Awe :drill:
 Awe - . - трепет.
 
+* Infirmary :drill:
+Infirmary - . - лазарет.
+
