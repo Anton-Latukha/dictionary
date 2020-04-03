@@ -1613,3 +1613,6 @@ Bide - . - выжидать, пережидать.
 * Fata Morgana :drill:
 Fata Morgana - . - mirage.
 
+* Hideout :drill:
+Hideout - . - убежище, укрытие.
+
