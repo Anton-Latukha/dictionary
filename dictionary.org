@@ -1616,3 +1616,6 @@ Fata Morgana - . - mirage.
 * Hideout :drill:
 Hideout - . - убежище, укрытие.
 
+* Abstruce :drill:
+Abstruce - . - заумный, трудный для понимания.
+
