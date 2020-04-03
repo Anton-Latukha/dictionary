@@ -1610,3 +1610,6 @@ Mend - . - чинить, поправлять.
 * Bide :drill:
 Bide - . - выжидать, пережидать.
 
+* Fata Morgana :drill:
+Fata Morgana - . - mirage.
+
