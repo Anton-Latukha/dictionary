@@ -1619,3 +1619,6 @@ Hideout - . - убежище, укрытие.
 * Abstruce :drill:
 Abstruce - . - заумный, трудный для понимания.
 
+* Flagellant :drill:
+Flagellant - . - садомахохист.
+
