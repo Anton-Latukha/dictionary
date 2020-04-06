@@ -1628,3 +1628,6 @@ Vestal - . - весталка, непорочная девушка жрица б
 * Бенефициар :drill:
 Бенефициар - . - лицо даже косвенное которое получает с benefit, profit.
 
+* Stratagem :drill:
+Stratagem - . - unconventional empirical solution.
+
