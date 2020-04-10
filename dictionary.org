@@ -1631,3 +1631,6 @@ Vestal - . - весталка, непорочная девушка жрица б
 * Stratagem :drill:
 Stratagem - . - unconventional empirical solution.
 
+* Tarry :drill:
+Tarry - . - медлить, дегтеобразный.
+
