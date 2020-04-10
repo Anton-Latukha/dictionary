@@ -1634,3 +1634,6 @@ Stratagem - . - unconventional empirical solution.
 * Tarry :drill:
 Tarry - . - медлить, дегтеобразный.
 
+* Banter :drill:
+Banter - . - добродушно подшучивать.
+
