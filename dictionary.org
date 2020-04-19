@@ -1637,3 +1637,6 @@ Tarry - . - медлить, дегтеобразный.
 * Banter :drill:
 Banter - . - добродушно подшучивать.
 
+* Saucer :drill:
+Saucer - . - блюдце.
+
