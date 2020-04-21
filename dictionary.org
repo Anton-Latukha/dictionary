@@ -1646,3 +1646,6 @@ Vigor - . - life, energy, reality, validity.
 * Revelry :drill:
 Revelry - . - шумное веселье, прирушка, попойка.
 
+* Dirge :drill:
+Dirge - . - панихида.
+
