@@ -1652,3 +1652,6 @@ Dirge - . - панихида.
 * Serene :drill:
 Serene - . - спокойствие, безоблачность, безмятежность.
 
+* Hitherto :drill:
+Hitherto - . - up until now.
+
