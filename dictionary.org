@@ -1661,3 +1661,6 @@ WRT - . - "with regards to".
 * Yawp :drill:
 Yawp - . - тявкать.
 
+* Bedpan :drill:
+Bedpan - . - подкладное (подкроватное) судно (утка).
+
