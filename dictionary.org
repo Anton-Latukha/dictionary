@@ -1658,3 +1658,6 @@ Hitherto - . - up until now.
 * WRT :drill:
 WRT - . - "with regards to".
 
+* Yawp :drill:
+Yawp - . - тявкать.
+
