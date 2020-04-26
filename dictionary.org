@@ -1655,3 +1655,6 @@ Serene - . - спокойствие, безоблачность, безмяте�
 * Hitherto :drill:
 Hitherto - . - up until now.
 
+* WRT :drill:
+WRT - . - "with regards to".
+
