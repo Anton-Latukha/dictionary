@@ -1670,3 +1670,6 @@ Hitherto - . - прежде, до текущего момента.
 * Rite :drill:
 Rite - . - ритуал.
 
+* Renegade :drill:
+Renegade - . - предатель.
+
