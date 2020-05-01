@@ -1673,3 +1673,5 @@ Rite - . - ритуал.
 * Renegade :drill:
 Renegade - . - предатель.
 
+* Compendium :drill:
+Compendium - . - энциклопедический справочник, особенно как каталог публикаций.
