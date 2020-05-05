@@ -1688,3 +1688,6 @@ Pungent - . - едкий, острый.
 * Cavitation :drill:
 Cavitation - . - formation of the empty space inside the solid or liquid.
 
+* BRM :drill:
+BRM - . - blood red mad.
+
