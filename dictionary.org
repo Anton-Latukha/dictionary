@@ -1691,3 +1691,6 @@ Cavitation - . - formation of the empty space inside the solid or liquid.
 * BRM :drill:
 BRM - . - blood red mad.
 
+* LARP :drill:
+LARP - . - live action role play.
+
