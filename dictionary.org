@@ -1682,3 +1682,6 @@ Pristine - . - первоначальный, нетронутый, чистый.
 * Exert :drill:
 Exert - . - вызывать.
 
+* Pungent :drill:
+Pungent - . - едкий, острый.
+
