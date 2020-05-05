@@ -1685,3 +1685,6 @@ Exert - . - вызывать.
 * Pungent :drill:
 Pungent - . - едкий, острый.
 
+* Cavitation :drill:
+Cavitation - . - formation of the empty space inside the solid or liquid.
+
