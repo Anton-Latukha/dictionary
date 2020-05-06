@@ -1694,3 +1694,6 @@ BRM - . - blood red mad.
 * LARP :drill:
 LARP - . - live action role play.
 
+* Vacuous :drill:
+Vacuous - . - пустой, отсутствующий смысли, не имеющий смысла, праздны, бессмысленный.
+
