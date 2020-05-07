@@ -1700,3 +1700,6 @@ Vacuous - . - пустой, отсутствующий смысли, не име
 * Entourage :drill:
 Entourage - . - свита, антураж, окружение.
 
+* Bolster :drill:
+Bolster - . - поддержка, подпорка.
+
