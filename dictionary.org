@@ -1706,3 +1706,6 @@ Bolster - . - поддержка, подпорка.
 * Treatise :drill:
 Treatise - . - научный труд.
 
+* Amenability :drill:
+Amenability - . - податливость.
+
