@@ -1712,3 +1712,6 @@ Amenability - . - податливость.
 * Frankincense :drill:
 Frankincense - . - ладан.
 
+* Swindler :drill:
+Swindler - . - авантюрист.
+
