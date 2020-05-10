@@ -1709,3 +1709,6 @@ Treatise - . - научный труд.
 * Amenability :drill:
 Amenability - . - податливость.
 
+* Frankincense :drill:
+Frankincense - . - ладан.
+
