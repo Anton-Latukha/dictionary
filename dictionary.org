@@ -1718,3 +1718,6 @@ Swindler - . - авантюрист.
 * Pennyroyal :drill:
 Pennyroyal - . - болотная мята.
 
+* Contemplate :drill:
+Contemplate - . - созерцать.
+
