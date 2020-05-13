@@ -1721,3 +1721,6 @@ Pennyroyal - . - болотная мята.
 * Contemplate :drill:
 Contemplate - . - созерцать.
 
+* Congestion :drill:
+Congestion - . - затор, закупорка.
+
