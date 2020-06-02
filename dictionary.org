@@ -1724,3 +1724,6 @@ Contemplate - . - созерцать.
 * Congestion :drill:
 Congestion - . - затор, закупорка.
 
+* Unmoored :drill:
+Unmoored - . - отвязано от причала, от реальности.
+
