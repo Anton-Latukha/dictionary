@@ -1727,3 +1727,6 @@ Congestion - . - затор, закупорка.
 * Unmoored :drill:
 Unmoored - . - отвязано от причала, от реальности.
 
+* Padlock :drill:
+Padlock - . - висячий замок.
+
