@@ -1730,3 +1730,6 @@ Unmoored - . - отвязано от причала, от реальности.
 * Padlock :drill:
 Padlock - . - висячий замок.
 
+* Taylorism :drill:
+Taylorism - . - practice of optimizing and automating people movements to make them more productive.
+
