@@ -1739,3 +1739,6 @@ Starkly - . - in a way that is severe or harsh in appearance or outline. Гру�
 * Curio :drill:
 Curio - . - rara unusual intriguing object.
 
+* Pejorative :drill:
+Pejorative - . - принибрежительное, бранное выражение.
+
