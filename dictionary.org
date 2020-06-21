@@ -1733,3 +1733,6 @@ Padlock - . - висячий замок.
 * Taylorism :drill:
 Taylorism - . - practice of optimizing and automating people movements to make them more productive.
 
+* Starkly :drill:
+Starkly - . - in a way that is severe or harsh in appearance or outline. Грубо, круто.
+
