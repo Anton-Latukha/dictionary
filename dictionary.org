@@ -1745,3 +1745,6 @@ Pejorative - . - принибрежительное, бранное выраже
 * Midwife :drill:
 Midwife - . - акушер.
 
+* Extraneous :drill:
+Extraneous - . - irrelevant, unrelated subject, посторонний.
+
