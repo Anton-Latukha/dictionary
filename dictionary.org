@@ -1751,3 +1751,6 @@ Extraneous - . - irrelevant, unrelated subject, посторонний.
 * Gargantuan :drill:
 Gargantuan - . - tremendous in size, volume, or degree.
 
+* Attrition :drill:
+Attrition - . - wear-out or grind down, reduction in numbers, weakening or exhausting by constant harassment, abuse, or attack.
+
