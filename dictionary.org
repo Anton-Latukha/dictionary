@@ -1748,3 +1748,6 @@ Midwife - . - акушер.
 * Extraneous :drill:
 Extraneous - . - irrelevant, unrelated subject, посторонний.
 
+* Gargantuan :drill:
+Gargantuan - . - tremendous in size, volume, or degree.
+
