@@ -1736,3 +1736,6 @@ Taylorism - . - practice of optimizing and automating people movements to make t
 * Starkly :drill:
 Starkly - . - in a way that is severe or harsh in appearance or outline. Грубо, круто.
 
+* Curio :drill:
+Curio - . - rara unusual intriguing object.
+
