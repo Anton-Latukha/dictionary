@@ -1757,3 +1757,6 @@ Attrition - . - wear-out or grind down, reduction in numbers, weakening or exhau
 * Belligerent :drill:
 Belligerent - . - hostile, aggressive, воинственный.
 
+* Seldom :drill:
+Seldom - . - редко, not often, rarely.
+
