@@ -1760,3 +1760,6 @@ Belligerent - . - hostile, aggressive, воинственный.
 * Seldom :drill:
 Seldom - . - редко, not often, rarely.
 
+* Ladle :drill:
+Ladle - . - черпак.
+
