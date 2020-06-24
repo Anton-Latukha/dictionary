@@ -1766,3 +1766,6 @@ Ladle - . - черпак.
 * Bladder :drill:
 Bladder - . - тюк, мочевой пузырь.
 
+* Fetter :drill:
+Fetter - . - restraints, chains, оковы.
+
