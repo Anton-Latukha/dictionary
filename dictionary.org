@@ -1772,3 +1772,6 @@ Fetter - . - restraints, chains, оковы.
 * Exculpatory :drill:
 Exculpatory - . - оправдательный.
 
+* Rectiry :drill:
+Rectiry - . - исправить, устранить недостаток, выпрямить.
+
