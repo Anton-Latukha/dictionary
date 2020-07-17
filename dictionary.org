@@ -1781,3 +1781,6 @@ Menagerie - . - зверинец.
 * Contention :drill:
 Contention - . - раздор.
 
+* Rind :drill:
+Rind - . - кожура.
+
