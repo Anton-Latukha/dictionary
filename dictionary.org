@@ -1784,3 +1784,6 @@ Contention - . - раздор.
 * Rind :drill:
 Rind - . - кожура.
 
+* Incessantly :drill:
+Incessantly - . - беспрестанно.
+
