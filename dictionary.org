@@ -1796,3 +1796,6 @@ Reconcile - . - примирение.
 * Mellow :drill:
 Mellow - . - мягкий, выдержанный, зрелый.
 
+* Restraint :drill:
+Restraint - . - сдержанность.
+
