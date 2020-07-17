@@ -1799,3 +1799,6 @@ Mellow - . - мягкий, выдержанный, зрелый.
 * Restraint :drill:
 Restraint - . - сдержанность.
 
+* Brash :drill:
+Brash - . - нахальный, дерзкий.
+
