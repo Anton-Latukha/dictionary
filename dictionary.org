@@ -1793,3 +1793,6 @@ Shabby - . - потертый.
 * Reconcile :drill:
 Reconcile - . - примирение.
 
+* Mellow :drill:
+Mellow - . - мягкий, выдержанный, зрелый.
+
