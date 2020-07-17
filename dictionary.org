@@ -1802,3 +1802,6 @@ Restraint - . - сдержанность.
 * Brash :drill:
 Brash - . - нахальный, дерзкий.
 
+* Prostrated :drill:
+Prostrated - . - распростертый, падающий ниц.
+
