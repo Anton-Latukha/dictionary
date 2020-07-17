@@ -1790,3 +1790,6 @@ Incessantly - . - беспрестанно.
 * Shabby :drill:
 Shabby - . - потертый.
 
+* Reconcile :drill:
+Reconcile - . - примирение.
+
