@@ -1787,3 +1787,6 @@ Rind - . - кожура.
 * Incessantly :drill:
 Incessantly - . - беспрестанно.
 
+* Shabby :drill:
+Shabby - . - потертый.
+
