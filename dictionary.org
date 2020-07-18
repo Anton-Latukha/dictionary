@@ -1808,3 +1808,6 @@ Prostrated - . - распростертый, падающий ниц.
 * Latch :drill:
 Latch - . - щеколда.
 
+* Tarn :drill:
+Tarn - . - small mountain lake, каровое озеро.
+
