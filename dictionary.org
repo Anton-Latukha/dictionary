@@ -1811,3 +1811,6 @@ Latch - . - щеколда.
 * Tarn :drill:
 Tarn - . - small mountain lake, каровое озеро.
 
+* Accretion :drill:
+Accretion - . - наращивание, срастание.
+
