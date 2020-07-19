@@ -1814,3 +1814,6 @@ Tarn - . - small mountain lake, каровое озеро.
 * Accretion :drill:
 Accretion - . - наращивание, срастание.
 
+* Waddle :drill:
+Waddle - . - идти переваливаться.
+
