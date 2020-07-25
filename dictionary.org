@@ -1820,3 +1820,6 @@ Waddle - . - идти переваливаться.
 * Bigotry :drill:
 Bigotry - . -  узколобость, догматизм, фанатизм.
 
+* Backhanded :drill:
+Backhanded - . - двусмысленный.
+
