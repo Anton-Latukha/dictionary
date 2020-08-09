@@ -1823,3 +1823,6 @@ Bigotry - . -  узколобость, догматизм, фанатизм.
 * Backhanded :drill:
 Backhanded - . - двусмысленный.
 
+* Bushwhack :drill:
+Bushwhack - . - пробиваться в чаще, засада.
+
