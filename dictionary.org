@@ -1829,3 +1829,6 @@ Bushwhack - . - пробиваться в чаще, засада.
 * Constituency :drill:
 Constituency - . - избиратели, округ избирателей.
 
+* Frankly :drill:
+Frankly - . - in an open, hones, direct manner, откровенно, прямо.
+
