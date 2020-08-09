@@ -1832,3 +1832,6 @@ Constituency - . - избиратели, округ избирателей.
 * Frankly :drill:
 Frankly - . - in an open, hones, direct manner, откровенно, прямо.
 
+* Panlogism :drill:
+Panlogism - . - world as realization of Logos.
+
