@@ -1835,3 +1835,6 @@ Frankly - . - in an open, hones, direct manner, откровенно, прямо
 * Panlogism :drill:
 Panlogism - . - world as realization of Logos.
 
+* Ontology :drill:
+Ontology - . - the philosophical study of being. Often deals with questions concerning what entities exist or may be said to exist and how such entities may be grouped, related within a hierarchy, and subdivided according to similarities and differences. 
+
