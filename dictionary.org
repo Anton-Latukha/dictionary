@@ -1826,3 +1826,6 @@ Backhanded - . - двусмысленный.
 * Bushwhack :drill:
 Bushwhack - . - пробиваться в чаще, засада.
 
+* Constituency :drill:
+Constituency - . - избиратели, округ избирателей.
+
