@@ -1841,3 +1841,6 @@ Ontology - . - the philosophical study of being. Often deals with questions conc
 * Blathering :drill:
 Blathering - . - болтание.
 
+* Dishearthening :drill:
+Dishearthening - . - удручающее, обескураживает.
+
