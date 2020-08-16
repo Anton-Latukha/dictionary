@@ -1844,3 +1844,6 @@ Blathering - . - болтание.
 * Dishearthening :drill:
 Dishearthening - . - удручающее, обескураживает.
 
+* Kvetch :drill:
+Kvetch - . - ныть, жаловаться.
+
