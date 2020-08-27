@@ -1847,3 +1847,6 @@ Dishearthening - . - удручающее, обескураживает.
 * Kvetch :drill:
 Kvetch - . - ныть, жаловаться.
 
+* Fodder :drill:
+Fodder - . - корм. Gunn fodder.
+
