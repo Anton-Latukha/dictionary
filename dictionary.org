@@ -1850,3 +1850,6 @@ Kvetch - . - ныть, жаловаться.
 * Fodder :drill:
 Fodder - . - корм. Gunn fodder.
 
+* Mare :drill:
+Mare - . - кобыла.
+
