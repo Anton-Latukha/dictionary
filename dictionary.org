@@ -1856,3 +1856,6 @@ Mare - . - кобыла.
 * Foal :drill:
 Foal - . - жеребенок.
 
+* Equine :drill:
+Equine - . - семья лошадиных.
+
