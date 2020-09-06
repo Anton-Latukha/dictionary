@@ -1859,3 +1859,6 @@ Foal - . - жеребенок.
 * Equine :drill:
 Equine - . - семья лошадиных.
 
+* Culptit :drill:
+Culptit - . - преступник.
+
