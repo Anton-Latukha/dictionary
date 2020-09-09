@@ -1865,3 +1865,6 @@ Culptit - . - преступник.
 * Hence :drill:
 Hence - следовательно.
 
+* Gregarious :drill:
+Gregarious - . - of social nature, openly sociable (plant, animal, human).
+
