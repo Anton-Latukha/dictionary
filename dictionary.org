@@ -1862,3 +1862,6 @@ Equine - . - семья лошадиных.
 * Culptit :drill:
 Culptit - . - преступник.
 
+* Hence :drill:
+Hence - следовательно.
+
