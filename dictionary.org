@@ -1874,3 +1874,6 @@ Craven - . - малодушный, lacking in courage, character.
 * Congenital :drill:
 Congenital - . - abnormality present from birth.
 
+* Prowess :drill:
+Prowess - . - доблесть, skill in particular field.
+
