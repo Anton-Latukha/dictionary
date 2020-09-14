@@ -1880,3 +1880,6 @@ Prowess - . - доблесть, skill in particular field.
 * Coven :drill:
 Coven - . - шабаш, сборище.
 
+* Consanguineous :drill:
+Consanguineous - . - being from the same ancestor kinship as another person.
+
