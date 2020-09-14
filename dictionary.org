@@ -1871,3 +1871,6 @@ Gregarious - . - of social nature, openly sociable (plant, animal, human).
 * Craven :drill:
 Craven - . - малодушный, lacking in courage, character.
 
+* Congenital :drill:
+Congenital - . - abnormality present from birth.
+
