@@ -1919,3 +1919,6 @@ Wavering - . - мерцающий.
 * Shrewd :drill:
 Shrewd - . - практичный, проницательный.
 
+* Idiosyncratic :drill:
+Idiosyncratic - . - своеобразный, индивидуальный.
+
