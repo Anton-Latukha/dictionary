@@ -1892,3 +1892,6 @@ Allegedly - . - якобы, будто бы.
 * Haughty :drill:
 Haughty - . - arrogant, disdaintful, высокомерный.
 
+* Fornicate :drill:
+Fornicate - . - блудить.
+
