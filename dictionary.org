@@ -1922,3 +1922,6 @@ Shrewd - . - практичный, проницательный.
 * Idiosyncratic :drill:
 Idiosyncratic - . - своеобразный, индивидуальный.
 
+* Disdainful :drill:
+Disdainful - . - высокомерный.
+
