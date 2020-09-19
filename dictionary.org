@@ -1901,3 +1901,6 @@ Gallant - . - man who pays special attention to women, галлантный, б�
 * Arrogant :drill:
 Arrogant - . - exaggerates sence of one's own abilities, высокомерный, заносчивый.
 
+* Provenance :drill:
+Provenance - . - происхождение.
+
