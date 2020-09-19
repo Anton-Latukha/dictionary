@@ -1898,3 +1898,6 @@ Fornicate - . - блудить.
 * Gallant :drill:
 Gallant - . - man who pays special attention to women, галлантный, бравый.
 
+* Arrogant :drill:
+Arrogant - . - exaggerates sence of one's own abilities, высокомерный, заносчивый.
+
