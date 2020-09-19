@@ -1913,3 +1913,6 @@ Hoist - . - поднимать (флаг) на лебедке.
 * Selerity :drill:
 Selerity - . - спокойствие.
 
+* Wavering :drill:
+Wavering - . - мерцающий.
+
