@@ -1910,3 +1910,6 @@ Elaborate - . - involving many carefully arranged parts, сложный, объ�
 * Hoist :drill:
 Hoist - . - поднимать (флаг) на лебедке.
 
+* Selerity :drill:
+Selerity - . - спокойствие.
+
