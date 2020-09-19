@@ -1916,3 +1916,6 @@ Selerity - . - спокойствие.
 * Wavering :drill:
 Wavering - . - мерцающий.
 
+* Shrewd :drill:
+Shrewd - . - практичный, проницательный.
+
