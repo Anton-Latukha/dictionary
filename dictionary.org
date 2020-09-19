@@ -1883,3 +1883,6 @@ Coven - . - шабаш, сборище.
 * Consanguineous :drill:
 Consanguineous - . - being from the same ancestor kinship as another person.
 
+* Accost :drill:
+Accost - . - пристать, обращаться к.
+
