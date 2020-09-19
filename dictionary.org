@@ -1895,3 +1895,6 @@ Haughty - . - arrogant, disdaintful, высокомерный.
 * Fornicate :drill:
 Fornicate - . - блудить.
 
+* Gallant :drill:
+Gallant - . - man who pays special attention to women, галлантный, бравый.
+
