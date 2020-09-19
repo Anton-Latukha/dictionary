@@ -1904,3 +1904,6 @@ Arrogant - . - exaggerates sence of one's own abilities, высокомерны�
 * Provenance :drill:
 Provenance - . - происхождение.
 
+* Elaborate :drill:
+Elaborate - . - involving many carefully arranged parts, сложный, объяснить/разобрать.
+
