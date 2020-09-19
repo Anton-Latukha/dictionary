@@ -1889,3 +1889,6 @@ Accost - . - пристать, обращаться к.
 * Allegedly :drill:
 Allegedly - . - якобы, будто бы.
 
+* Haughty :drill:
+Haughty - . - arrogant, disdaintful, высокомерный.
+
