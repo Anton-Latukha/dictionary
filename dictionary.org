@@ -1907,3 +1907,6 @@ Provenance - . - происхождение.
 * Elaborate :drill:
 Elaborate - . - involving many carefully arranged parts, сложный, объяснить/разобрать.
 
+* Hoist :drill:
+Hoist - . - поднимать (флаг) на лебедке.
+
