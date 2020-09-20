@@ -1928,3 +1928,6 @@ Disdainful - . - высокомерный.
 * Elope :drill:
 Elope - . - run away in order to secretly get merried.
 
+* Consecrate :drill:
+Consecrate - . - освящать.
+
