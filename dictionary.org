@@ -1931,3 +1931,6 @@ Elope - . - run away in order to secretly get merried.
 * Consecrate :drill:
 Consecrate - . - освящать.
 
+* Parable :drill:
+Parable - . - притча.
+
