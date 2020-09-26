@@ -1934,3 +1934,6 @@ Consecrate - . - освящать.
 * Parable :drill:
 Parable - . - притча.
 
+* Malus :drill:
+Malus - . - latin for bad.
+
