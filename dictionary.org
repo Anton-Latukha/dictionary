@@ -1937,3 +1937,6 @@ Parable - . - притча.
 * Malus :drill:
 Malus - . - latin for bad.
 
+* Wafting :drill:
+Wafting - . - навеянный, донесенный.
+
