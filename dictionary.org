@@ -1958,3 +1958,6 @@ Furlough - . - отпуск.
 * Hale :drill:
 Hale - . - здавствуйте, здоровый, крепкий, тащить, тянуть.
 
+* Apiary :drill:
+Apiary - . - пасека, bee-garden.
+
