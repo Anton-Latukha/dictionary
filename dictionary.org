@@ -1973,3 +1973,6 @@ Indomitable - . - неукротимый, упрямый, упорный.
 * Perverse :drill:
 Perverse - . - извращенный, порочный.
 
+* Abhorrent :drill:
+Abhorrent - . - отвратительный.
+
