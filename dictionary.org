@@ -1964,3 +1964,6 @@ Apiary - . - пасека, bee-garden.
 * Grafting :drill:
 Grafting - . - прививка, пересадка, насадка, трансплантация.
 
+* Parable :drill:
+Parable - . - притча, иносказание.
+
