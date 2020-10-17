@@ -1970,3 +1970,6 @@ Parable - . - притча, иносказание.
 * Indomitable :drill:
 Indomitable - . - неукротимый, упрямый, упорный.
 
+* Perverse :drill:
+Perverse - . - извращенный, порочный.
+
