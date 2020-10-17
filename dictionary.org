@@ -1976,3 +1976,6 @@ Perverse - . - извращенный, порочный.
 * Abhorrent :drill:
 Abhorrent - . - отвратительный.
 
+* Gargle :drill:
+Gargle - . - полоскание рта.
+
