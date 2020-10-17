@@ -1940,3 +1940,6 @@ Malus - . - latin for bad.
 * Wafting :drill:
 Wafting - . - навеянный, донесенный.
 
+* Gutter :drill:
+Gutter - . - желоб, сточная канава.
+
