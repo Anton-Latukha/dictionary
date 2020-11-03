@@ -1979,3 +1979,6 @@ Abhorrent - . - отвратительный.
 * Gargle :drill:
 Gargle - . - полоскание рта.
 
+* Myopic :drill:
+Myopic - . - близорукий.
+
