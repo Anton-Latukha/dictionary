@@ -1982,3 +1982,6 @@ Gargle - . - полоскание рта.
 * Myopic :drill:
 Myopic - . - близорукий.
 
+* Lenient :drill:
+Lenient - ˈlēnēənt - снисходительный.
+
