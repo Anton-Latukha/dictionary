@@ -1985,3 +1985,6 @@ Myopic - . - близорукий.
 * Lenient :drill:
 Lenient - ˈlēnēənt - снисходительный.
 
+* Posterity :drill:
+Posterity - . - потомство.
+
