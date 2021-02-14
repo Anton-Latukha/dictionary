@@ -1991,3 +1991,6 @@ Posterity - . - потомство.
 * Cordials :drill:
 Cordials - . - ликер.
 
+* Haggle :drill:
+Haggle - . - торговаться.
+
