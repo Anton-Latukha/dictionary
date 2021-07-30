@@ -2000,3 +2000,6 @@ Vestigal - . - a small remnant of what was large or notacible, rudimentary.
 * Nefarious :drill:
 Nefarious - . - wicked, criminal.
 
+* Brass neck :drill:
+Brass neck - . - extremely confident behaviour disregarding, not caring about the context.
+
