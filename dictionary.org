@@ -1997,3 +1997,6 @@ Haggle - . - торговаться.
 * Vestigal :drill:
 Vestigal - . - a small remnant of what was large or notacible, rudimentary.
 
+* Nefarious :drill:
+Nefarious - . - wicked, criminal.
+
