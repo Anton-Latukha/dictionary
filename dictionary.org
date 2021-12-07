@@ -2003,3 +2003,6 @@ Nefarious - . - wicked, criminal.
 * Brass neck :drill:
 Brass neck - . - extremely confident behaviour disregarding, not caring about the context.
 
+* Bodega :drill:
+Bodega - . - aka convinience store.
+
