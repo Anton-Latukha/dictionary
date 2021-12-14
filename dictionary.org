@@ -1,11 +1,23 @@
+* Abhorrent :drill:
+Abhorrent - . - отвратительный.
+
 * Abridgment :drill:
 A shortened version of a larger work.
+
+* Abstruce :drill:
+Abstruce - . - заумный, трудный для понимания.
 
 * Accolade :drill:
 Accolade - .  - акколада, выданное уважение, почесть.
 
+* Accost :drill:
+Accost - . - пристать, обращаться к.
+
 * Accoutrement :drill:
 Accoutrement - /əˈkuːtəm(ə)nt,əˈkuːtrəm(ə)nt/ - личное снаряжение.
+
+* Accretion :drill:
+Accretion - . - наращивание, срастание.
 
 * Acerbic :drill:
 Acerbic - /əˈsəːbɪk/ - (especially on a style of speaking) sharp and forthright.
@@ -28,11 +40,23 @@ Affluence - /ˈaflo͞oəns/ - изобилие, наплыв, богатство
 * Ailments :drill:
 Ailment - . - недуг (не болезнь, а мед. недуг, как инвалидность).
 
+* Ajar :drill:
+Ajar - əˈdʒɑː - slightly opened.
+
 * Alacrity :drill:
 Alacrity - /əˈlakrɪti/ - brisk and cheerful readiness.
 
+* Alas :drill:
+Alas - . - express concern, grief, pity.
+
+* Allegedly :drill:
+Allegedly - . - якобы, будто бы.
+
 * Aloof :drill:
 Aloof - . - distant and cool.
+
+* Amenability :drill:
+Amenability - . - податливость.
 
 * Amicable :drill:
 Amicable - /ˈamɪkəb(ə)l/ - friendly, дружеский.
@@ -58,6 +82,9 @@ Anxious - /ˈaŋ(k)ʃəs/ - feeling or showing worry, nervousness, or unease abo
 * Aphid :drill:
 Aphid - /af-,ˈāfid/ - тля.
 
+* Apiary :drill:
+Apiary - . - пасека, bee-garden.
+
 * Apothecary :drill:
 Apothecary - a person who prepares medicines and drugs from components.
 
@@ -66,6 +93,9 @@ Arboretum - дендрарий.
 
 * Armiger :drill:
 Armiger - .  - оруженосец.
+
+* Arrogant :drill:
+Arrogant - . - exaggerates sence of one's own abilities, высокомерный, заносчивый.
 
 * Arson :drill:
 Arson - /ˈɑːs(ə)n/ - the act of deliberately setting on fire.
@@ -82,14 +112,23 @@ Aspiration - /aspəˈreɪʃ(ə)n/ - an ambition of achieving something.
 * Astute :drill:
 Astute - . - проницательный, сообразительный.
 
+* Attrition :drill:
+Attrition - . - wear-out or grind down, reduction in numbers, weakening or exhausting by constant harassment, abuse, or attack.
+
 * Auxiliary :drill:
 Auxiliary - /ɔːɡˈzɪlɪəri,ɒɡˈzɪlɪəri/ - всомогательный.
 
 * Avid :drill:
 Алчный.
 
+* Awe :drill:
+Awe - . - трепет.
+
 * Back-formation :drill:
 Back-formation - . - word, new forms of word and root creation by reverse process, from adopted word backwards.
+
+* Backhanded :drill:
+Backhanded - . - двусмысленный.
 
 * Bagel :drill:
 Бублик.
@@ -100,8 +139,14 @@ Bailey - . - in fortification is a courtyard enclosed by the wall.
 * Banister :drill:
 Banister - .  - перила, баллюстрада.
 
+* Banter :drill:
+Banter - . - добродушно подшучивать.
+
 * Barrage :drill:
 Barrage - . - заградительный огонь.
+
+* Bedpan :drill:
+Bedpan - . - подкладное (подкроватное) судно (утка).
 
 * Befriend :drill:
 Befriend - become a friend with, especially help people.
@@ -109,11 +154,17 @@ Befriend - become a friend with, especially help people.
 * Befuddle :drill:
 Befuddle - /biˈfədl/ - одурманенный, опьяненный.
 
+* Belligerent :drill:
+Belligerent - . - hostile, aggressive, воинственный.
+
 * Benevolent :drill:
 Benevolent - /bɪˈnɛv(ə)l(ə)nt/ - доброжелательный.
 
 * Benign :drill:
 Benign - /bɪˈnʌɪn/ - (of disease) not harmful in effect. Gentle and kind.
+
+* Bested :drill:
+Bested - . - outwit or get the better of someone.
 
 * Betrothal :drill:
 Betrothal - /bɪˈtrəʊð(ə)l/ - помолвка.
@@ -121,23 +172,44 @@ Betrothal - /bɪˈtrəʊð(ə)l/ - помолвка.
 * Bicker :drill:
 Bicker - . - argue about petty and trivial matters.
 
+* Bide :drill:
+Bide - . - выжидать, пережидать.
+
 * Bigotry :drill:
 Bigotry - /ˈbɪɡətri/ - blind fanatism.
+
+* Bigotry :drill:
+Bigotry - . -  узколобость, догматизм, фанатизм.
 
 * Bile :drill:
 Желчь.
 
+* Bladder :drill:
+Bladder - . - тюк, мочевой пузырь.
+
 * Blathering :drill:
 Blathering - /ˈblað(ə)rɪŋ/ - болтовня, непонятно стрекотать.
 
+* Blathering :drill:
+Blathering - . - болтание.
+
 * Blimp :drill:
 Blimp - .  - дирижабль, a pompous, reactionary type of person.
+
+* Bodega :drill:
+Bodega - . - aka convinience store.
 
 * Bog :drill:
 Bog - /bɒɡ/ - топь.
 
 * Bogus :drill:
 Bogus - /ˈbəʊɡəs/ - false that presented as genuine true.
+
+* Bolster :drill:
+Bolster - . - поддержка; длинная большая подушка для спины.
+
+* Bolster :drill:
+Bolster - . - поддержка, подпорка.
 
 * Boon :drill:
 Boon - . - благодеяние, benefitial things, intimate,favourite.
@@ -154,8 +226,17 @@ Brambles - . - ежевика.
 * Brandish :drill:
 Brandish - /ˈbrandɪʃ/ - размахивать.
 
+* Brash :drill:
+Brash - . - нахальный, дерзкий.
+
 * Brass :drill:
 Brass - . -  латунь, духовой инструмент.
+
+* Brass neck :drill:
+Brass neck - . - extremely confident behaviour disregarding, not caring about the context.
+
+* BRM :drill:
+BRM - . - blood red mad.
 
 * Brooding :drill:
 Brooding - /ˈbruːdɪŋ/ - высиживать (яйца), быть глубоко задумчивым.
@@ -177,6 +258,9 @@ Burpee - /ˈbəːpiː/ - a exercise consisting of a squat thrust made from and e
 
 * Burrow :drill:
 Burrow - /ˈbərō/ - нора.
+
+* Bushwhack :drill:
+Bushwhack - . - пробиваться в чаще, засада.
 
 * Buttermilk :drill:
 Пахта.
@@ -208,6 +292,9 @@ Carnal - /ˈkɑːn(ə)l/ - плотский.
 
 * Cassandra complex :drill:
 Cassandra complex - .  - psychological phenomenon in which an individual's accurate prediction of results is ignored or dismissed.
+
+* Cavitation :drill:
+Cavitation - . - formation of the empty space inside the solid or liquid.
 
 * Changeling :drill:
 Changeling - /ˈtʃeɪn(d)ʒlɪŋ/ - подменыш.
@@ -255,11 +342,23 @@ Separate section or part of a structure or container.
 * Compartmentalize :drill:
 Compartmentalize - /kɒmpɑːtˈmɛnt(ə)lʌɪz/ - divide into discrete sections or categories.
 
+* Compendium :drill:
+Compendium - . - энциклопедический справочник, особенно как каталог публикаций.
+
 * Comprise :drill:
 Comprise - . - consist of; be made up of.
 
+* Conflagration :drill:
+Conflagration - . - возгорание, пожарище, сожжение, большой пожар.
+
 * Confounded :drill:
 Confounded - /kənˈfaʊndɪd/ - cause surprise or confusion in (someone), especially by not according with their expectations.
+
+* Congenital :drill:
+Congenital - . - abnormality present from birth.
+
+* Congestion :drill:
+Congestion - . - затор, закупорка.
 
 * Congruence :drill:
 Congruence - /ˈkɒŋɡrʊəns/ - согласованность.
@@ -273,11 +372,26 @@ Conjecture - /kənˈdʒɛktʃə/ - предположение.
 * Connote :drill:
 Connote - .  - imply or suggest (an idea or feeling) in addition to the literal or primary meaning.
 
+* Consanguineous :drill:
+Consanguineous - . - being from the same ancestor kinship as another person.
+
 * Conscientiousness :drill:
 Conscientiousness - /kɒnʃɪˈɛnʃəsnəs/ - добросовесность и сознательность.
 
+* Consecrate :drill:
+Consecrate - . - освящать.
+
+* Constituency :drill:
+Constituency - . - избиратели, округ избирателей.
+
+* Contemplate :drill:
+Contemplate - . - созерцать.
+
 * Contempt :drill:
 The feeling that a person or a thing is beneath consideration, worthless, or deserving scorn.
+
+* Contention :drill:
+Contention - . - раздор.
 
 * Contentious :drill:
 Contentious - kənˈtenCHəs - сварливый.
@@ -290,6 +404,12 @@ Contrite - /kənˈtrʌɪt,ˈkɒntrʌɪt/ - сокрушаться, каятьс�
 
 * Cootie :drill:
 Платяная вошь.
+
+* Copious :drill:
+Copious - . - обильно, очень много.
+
+* Cordials :drill:
+Cordials - . - ликер.
 
 * Cornea :drill:
 Cornea - .  - the transparent layer forming the from of the eye, роговица.
@@ -307,6 +427,9 @@ Courtesy - . - учтивость.
 * Courtship :drill:
 Courtship - /ˈkɔːtʃɪp/ - a period of a couple develop before getting married.
 
+* Coven :drill:
+Coven - . - шабаш, сборище.
+
 * Cramp :drill:
 Cramp - /kramp/ - судорога.
 
@@ -315,6 +438,9 @@ Cranium - /ˈkreɪnɪəm/ - череп.
 
 * Crapms :drill:
 Crapms - /kramps/ - колики.
+
+* Craven :drill:
+Craven - . - малодушный, lacking in courage, character.
 
 * Creole :drill:
 Ethnic groups which originated during the colonial-era from racial mixing between Europeans and non-European peoples.
@@ -328,14 +454,26 @@ Cricket - . - сверчёк.
 * Crucible :drill:
 Crucible - . - тегель. Form to cast metal.
 
+* Culptit :drill:
+Culptit - . - преступник.
+
 * Cunning :drill:
 Cunning - . - skill in achieving one's ends by deceit.
+
+* Curio :drill:
+Curio - . - rara unusual intriguing object.
 
 * Curmudgeon :drill:
 Curmudgeon - . - surly person, скряга, грубиян, скупец.
 
+* Cursory :drill:
+Cursory - . - бегло.
+
 * Dada :drill:
 Dada - .  - absurd direction in art after WWI.
+
+* Dazzle :drill:
+Dazzle - . - по всему ослепить, знаниями или светом.
 
 * Deadnaming :drill:
 Deadnaming - . - use name that person changes.
@@ -386,11 +524,23 @@ Dilligent - /ˈdɪlɪdʒ(ə)nt/ - старательно.
 * Diploid :drill:
 Diploid - . - life forms that have both parents chromosome sets.
 
+* Dirge :drill:
+Dirge - . - панихида.
+
 * Discern :drill:
 Recognize or find out, distinguish (someone or something) with difficulty by sight or with the other senses.
 
 * Discordant :drill:
 Discordant - /dɪˈskɔːd(ə)nt/ - рассогласованный.
+
+* Disdainful :drill:
+Disdainful - . - высокомерный.
+
+* Dishearthening :drill:
+Dishearthening - . - удручающее, обескураживает.
+
+* Dismal :drill:
+Dismal - . - causing a mood of gloom, gloomy.
 
 * Dispersal :drill:
 Dispersal - /dɪˈspəːs(ə)l/ - распространение, рассеивание, рассредоточение.
@@ -403,6 +553,9 @@ Dissolution - debauched living; dissipation.
 * Diuretic :drill:
 Diuretic - . - substance that increases the amount of water and salt expelled.
 
+* Doxen :drill:
+Doxen - . - такса.
+
 * Eavesdrop :drill:
 Secretly listen to a conversation.
 
@@ -411,6 +564,12 @@ Efficacious - /ˌɛfɪˈkeɪʃəs/ - having the power to produce a desired effec
 
 * Eggnog :drill:
 A drink made from a mixture of beaten eggs, cream, and flavorings, often with alcohol
+
+* Elaborate :drill:
+Elaborate - . - involving many carefully arranged parts, сложный, объяснить/разобрать.
+
+* Elope :drill:
+Elope - . - run away in order to secretly get merried.
 
 * Embezzler :drill:
 Embezzler - who takes company money for his or her own purposes.
@@ -421,11 +580,17 @@ Eminence - /ˈemənəns/ - высокоприосвещенство, возвы�
 * Engrossed :drill:
 Engrossed - /enˈgrōst/ - поглощенный увлечением.
 
+* Entourage :drill:
+Entourage - . - свита, антураж, окружение.
+
 * Epicureanism :drill:
 Epicureanism - Epicurus believed that what he called "pleasure" (ἡδονή) was the greatest good, but that the way to attain such pleasure was to live modestly, to gain knowledge of the workings of the world, and to limit one's desires. This would lead one to attain a state of tranquility (ataraxia) and freedom from fear as well as an absence of bodily pain (aponia). The combination of these two states constitutes happiness in its highest form.
 
 * Epistemology :drill:
 Epistemology - /ɪˌpɪstɪˈmɒlədʒi,ɛˌpɪstɪˈmɒlədʒi/ - the theory of knowledge, especially with regard to its methods, validity, and scope, and the distinction between justified belief and opinion.
+
+* Equine :drill:
+Equine - . - семья лошадиных.
 
 * Ersatz :drill:
 Ersatz - . - artificial substitute.
@@ -447,11 +612,20 @@ Everglade - . - чаруса.
 
 Remove earth from an area to find buried.
 
+* Exculpatory :drill:
+Exculpatory - . - оправдательный.
+
+* Exert :drill:
+Exert - . - вызывать.
+
 * Expat :drill:
 Expat - person taking up residency in another country.
 
 * Exsanguination :drill:
 Exsanguination - . - кровопускание.
+
+* Extraneous :drill:
+Extraneous - . - irrelevant, unrelated subject, посторонний.
 
 * Facetious :drill:
 /fəˈsiːʃəs/
@@ -460,6 +634,9 @@ Facetious - treating serious issues with deliberately inappropriate humor; flipp
 
 * Fallow :drill:
 Fallow - . - паровая земля.
+
+* Fata Morgana :drill:
+Fata Morgana - . - mirage.
 
 * Fathometer :drill:
 Fathometer - /faˈðɒmɪtə/ - эхолот.
@@ -473,11 +650,20 @@ Feisty - /ˈfʌɪsti/ - (of a person, typically one who is relatively small) liv
 * Felicitations :drill:
 Felicitations - /fəlɪsɪˈteɪʃ(ə)nz/ - Words expressing praise for an achievement or good wishes on a special occasion.
 
+* Fetter :drill:
+Fetter - . - restraints, chains, оковы.
+
 * Fickle :drill:
 Fickle - /ˈfikəl/ - непостоянный.
 
 * Finicky :drill:
 Finicky - /ˈfinikē/ - разборчивый.
+
+* Flagellant :drill:
+Flagellant - . - садомахохист.
+
+* Flail :drill:
+Flail - . - цеп, махать в виде цепа.
 
 * Flamboyant :drill:
 Flamboyant - . - пышный, цветистый.
@@ -490,6 +676,12 @@ Flay - strip the skin.
 
 * Flummoxed :drill:
 Flummoxed - . - запутавшийся, смущённый.
+
+* Foal :drill:
+Foal - . - жеребенок.
+
+* Fodder :drill:
+Fodder - . - корм. Gunn fodder.
 
 * Foil :drill:
 Foil - prevent something considered wrong from succeeding.
@@ -506,6 +698,9 @@ Formulae - . - mathematical statement put in symbols, формула.
 * Formulaic :drill:
 Formulaic - /ˌfɔːmjʊˈleɪɪk/ - шаблонный.
 
+* Fornicate :drill:
+Fornicate - . - блудить.
+
 * Fornication :drill:
 Fornication - . - sex without marriage.
 
@@ -514,6 +709,12 @@ Forthright - /ˈfɔːθrʌɪt,fɔːθˈrʌɪt/ - (of a person, their manner or s
 
 * Fortuitous :drill:
 Fortuitous - /fɔːˈtjuːɪtəs/ - by a lucky chance.
+
+* Frankincense :drill:
+Frankincense - . - ладан.
+
+* Frankly :drill:
+Frankly - . - in an open, hones, direct manner, откровенно, прямо.
 
 * Freebie :drill:
 Freebie - /ˈfriːbi/ - a thing given free of charge. Халява.
@@ -524,19 +725,37 @@ Fringe - /frɪn(d)ʒ/ - дополнательный край, чёлка, ба�
 * Frosty :drill:
 Frosty - . - To be ready, on the edge. Military slang.
 
+* Furlough :drill:
+Furlough - . - отпуск.
+
 * Futility :drill:
 Futility - /fjʊˈtɪlɪti,fjuːˈtɪlɪti/ - pointlessness or uselessness.
 
 Тщетность.
 
+* Gait :drill:
+Gait - . - походка.
+
 * Gallant :drill:
 Gallant - /ˈɡal(ə)nt/ - brave, heroic, grand impressive, attentively charming and chivalrous to women.
+
+* Gallant :drill:
+Gallant - . - man who pays special attention to women, галлантный, бравый.
 
 * Gallbladder :drill:
 Желчный пузырь.
 
+* Gargantuan :drill:
+Gargantuan - . - tremendous in size, volume, or degree.
+
+* Gargle :drill:
+Gargle - . - полоскание рта.
+
 * Garner :drill:
 Garner - . - store, gather; granary.
+
+* Gawk :drill:
+Gawk - . - stupid blunt stare.
 
 * Gazebo :drill:
 Беседка, альтанка.
@@ -553,6 +772,12 @@ Gist - . - the substance of a speech, text, action.
 * Glade :drill:
 Glade - . - поляна.
 
+* Glint :drill:
+Glint - . - отблеск.
+
+* Gnarl :drill:
+Gnarl - . - a rough proturbence especially with age on the tree.
+
 * Gnarly :drill:
 Gnarly - . - slang term for something grotesque, yet awesomely extreme. Used in bad and good cases.
 
@@ -565,6 +790,9 @@ Gopher - /gōfər/ - суслик.
 * Gout :drill:
 Gout - .  - подагра.
 
+* Grafting :drill:
+Grafting - . - прививка, пересадка, насадка, трансплантация.
+
 * Gratuitous :drill:
 Gratuitous - . - uncalled, unwarranted, lacked a reason, беспричинный.
 
@@ -573,6 +801,9 @@ Gravitas - .  - having a importance, weight, severity in reality.
 
 * Gregarious :drill:
 Gregarious - /ɡrɪˈɡɛːrɪəs/ - happily living togather.
+
+* Gregarious :drill:
+Gregarious - . - of social nature, openly sociable (plant, animal, human).
 
 * Grig :drill:
 Grig - . - кузнечик, сверчёк, маленький угорь.
@@ -583,14 +814,23 @@ Grovel - /ˈɡrɒv(ə)l,ˈɡrʌv(ə)l/ - ползать, пресмыкатьс�
 * Gullible :drill:
 Gullible - /ˈɡʌləb(ə)l/ - черезчур доверчивый, простофиля.
 
+* Gutter :drill:
+Gutter - . - желоб, сточная канава.
+
 * Haggle :drill:
 Haggle - . - argue a much better dear.
+
+* Haggle :drill:
+Haggle - . - торговаться.
 
 * Hail :drill:
 Hail - /heɪl/ - град, в т.ч. звук.
 
 * Hail :drill:
 Hail - . - град.
+
+* Hale :drill:
+Hale - . - здавствуйте, здоровый, крепкий, тащить, тянуть.
 
 * Handspring :drill:
 Handspring - /ˈhan(d)sprɪŋ/ - колесо (елемент).
@@ -603,6 +843,9 @@ Hardwood - твердые породы деррева.
 
 * Haruspex :drill:
 Haruspex - . - гаруспик. Доктор-мистик который гадает на внутренних органах и крови.
+
+* Haughty :drill:
+Haughty - . - arrogant, disdaintful, высокомерный.
 
 * Hazing :drill:
 Hazing - .  - дедовщина.
@@ -618,11 +861,17 @@ The ethical theory that pleasure (in the sense of the satisfaction of desires) i
 * Heed :drill:
 Внимание.
 
+* Heed :drill:
+Heed - . - careful attention.
+
 * Heist :drill:
 Кража.
 
 * Hemlock :drill:
 Hemlock - /ˈhɛmlɒk/ - болиголов.
+
+* Hence :drill:
+Hence - следовательно.
 
 * Henosis :drill:
 Henosis - . - ἕνωσις, oneness with fundamentals of reality
@@ -635,8 +884,23 @@ Therefore.
 * Hereditary :drill:
 Hereditary - /hɪˈrɛdɪt(ə)ri/ - наследственный.
 
+* Hermeneutics :drill:
+Hermeneutics - . - the theory and methodology of interpretation.
+
+* Hideout :drill:
+Hideout - . - убежище, укрытие.
+
 * Hindsight :drill:
 Understanding of a situation or event only after it has happened or developed.
+
+* Hitherto :drill:
+Hitherto - . - up until now.
+
+* Hitherto :drill:
+Hitherto - . - прежде, до текущего момента.
+
+* Hoist :drill:
+Hoist - . - поднимать (флаг) на лебедке.
 
 * Hortator :drill:
 Hortator - .  - наставник.
@@ -656,6 +920,9 @@ Property of operation and object to result in the same outcome, despite nested a
 * Idiosyncrasy :drill:
 Idiosyncrasy - .  - particular special quirk.
 
+* Idiosyncratic :drill:
+Idiosyncratic - . - своеобразный, индивидуальный.
+
 * Ignominious :drill:
 Ignominious - /ˌɪɡnəˈmɪnɪəs/ - causing, deserving public shame or disgrace.
 
@@ -670,6 +937,9 @@ Illustrious - /iˈləstrēəs/ - acclaimed, прославленый.
 
 * Immaculate :drill:
 Immaculate - /ɪˈmakjʊlət/ - безукоризненный.
+
+* Incessantly :drill:
+Incessantly - . - беспрестанно.
 
 * Incomprehensible :drill:
 Incomprehensible - /ˌɪnkɒmprɪˈhɛnsɪb(ə)l/ - непостижимо, непонятно, неразборчиво.
@@ -688,8 +958,14 @@ Native.
 * Indoctrinate :drill:
 Indoctrinate - /ɪnˈdɒktrɪneɪt/ - внушать.
 
+* Indomitable :drill:
+Indomitable - . - неукротимый, упрямый, упорный.
+
 * Infatuated :drill:
 Be inspired with an intense but short-lived passion or admiration for
+
+* Infirmary :drill:
+Infirmary - . - лазарет.
 
 * Inhibit :drill:
 Inhibit - . - препятствовать.
@@ -719,6 +995,9 @@ Invaluable - extremely useful; indispensable.
 * Invective :drill:
 Critic is the strict sence.
 
+* Ire :drill:
+Ire - . - трепет.
+
 * Jackal :drill:
 Jackal - . - шакал.
 
@@ -740,23 +1019,38 @@ Kinesthesia - /ˌkɪnɪsˈθiːzɪə,/ - external body awareness.
 * Knee-jerk :drill:
 Knee-jerk - . - reacted without thinking, forming an opinion without paying attention.
 
+* Kvetch :drill:
+Kvetch - . - ныть, жаловаться.
+
 * Lability :drill:
 Lability - .  - constantly undergoing, or very likely to undergo through changes.
 
 * Laceration :drill:
 Laceration - . - разрыв, терзание, страдание.
 
+* Ladle :drill:
+Ladle - . - черпак.
+
 * Languid :drill:
 Languid -  /ˈlaŋ-gwəd/ - сильно уставши.
 
+* LARP :drill:
+LARP - . - live action role play.
+
 * Lass :drill:
 Lass - /las/ - tender calling for a young women.
+
+* Latch :drill:
+Latch - . - щеколда.
 
 * Latifundium :drill:
 Latifundium - . - very extensive parcel of privately owned land.
 
 * Lemongrass :drill:
 Лимонное сорго широко используется в качестве приправы в азиатской и карибской кулинариях. Оно обладает цитрусовым ароматом, может быть высушено, смолото, может использоваться свежим. 
+
+* Lenient :drill:
+Lenient - ˈlēnēənt - снисходительный.
 
 * Levant :drill:
 Levant - . - approximate historical region ("where sun is rising") of arabic countries, roughly from very South of Turkey, Syria, Palestina, up to Egypt.
@@ -798,11 +1092,17 @@ Dissatisfied, complaining, trouble, rebellious.
 * Malfeasance :drill:
 Злодеяние, должностоное преступление.
 
+* Malus :drill:
+Malus - . - latin for bad.
+
 * Man of the cloth :drill:
 Man of the cloth - .  - clergymen.
 
 * Manutia :drill:
 Manutia - . - should be avoided.
+
+* Mare :drill:
+Mare - . - кобыла.
 
 * Marooned :drill:
 Marooned - .  - isolated, abandoned.
@@ -815,6 +1115,21 @@ Matte - /mat/ - штейн, матовая поверхность, маска, �
 
 * Maw :drill:
 Maw - /mɔː/ - пасть.
+
+* Mayflower :drill:
+Mayflower - . - любой цветок который распускается в мае.
+
+* Mellow :drill:
+Mellow - . - мягкий, выдержанный, зрелый.
+
+* Menagerie :drill:
+Menagerie - . - зверинец.
+
+* Mend :drill:
+Mend - . - чинить, поправлять.
+
+* Midwife :drill:
+Midwife - . - акушер.
 
 * Mischievous :drill:
 /ˈmɪstʃɪvəs/
@@ -861,11 +1176,17 @@ Munition - /mjʊˈnɪʃ(ə)n/ - военное снаряжение.
 * Mustard :drill:
 Mustard - .  - горчица.
 
+* Myopic :drill:
+Myopic - . - близорукий.
+
 * Nag :drill:
 Nag - /naɡ/ - пилить, ворчать.
 
 * Nascent :drill:
 Nascent - . - приходящий, возникающий, рождающийся.
+
+* Nefarious :drill:
+Nefarious - . - wicked, criminal.
 
 * Neologism :drill:
 A newly coined word or expression.
@@ -878,6 +1199,9 @@ The practice of favoring relatives or friends, especially by giving them jobs.
 
 * Nightshade :drill:
 Nightshade - . - паслёновые.
+
+* Nightstand :drill:
+Nightstand - . - тумбочка у кровати.
 
 * Nomad :drill:
 A member of a people having no permanent abode, and who travel from place to place to find fresh pasture for their livestock.
@@ -897,6 +1221,12 @@ Numinous - .  - mysterious feeling surpassing understanding and comprehension.
 * Oliebol :drill:
 Oliebol is a traditional Dutch and Belgian food. Oliebollen are a variety of dumpling made by using an ice cream scoop or two spoons to scoop a certain amount of dough and dropping the dough into a deep fryer filled with hot oil.
 
+* Onslaught :drill:
+Onslaught - . - натиск.
+
+* Ontology :drill:
+Ontology - . - the philosophical study of being. Often deals with questions concerning what entities exist or may be said to exist and how such entities may be grouped, related within a hierarchy, and subdivided according to similarities and differences. 
+
 * Oompah :drill:
 Oompah - . - баханье.
 
@@ -912,14 +1242,29 @@ Ordeal - . - суровое тяжелое испытание.
 * Ostracism :drill:
 Ostracism - .  - ὀστρακισμός /ostrakismos/ crock - vote on a crocks in ancient Greece to expell someone. There must be >6000 crocks counted in favour to expell for 10 years without any seizure of property.
 
+* Oubliette :drill:
+Oubliette - . - secret dungeon.
+
 * Outspoken :drill:
 Outspoken - /aʊtˈspəʊk(ə)n/ - откровенный, прямой.
 
 * Overcurious :drill:
 Overcurious - /əʊvəˈkjʊərɪəs/ - чрезмерное любопытство.
 
+* Padlock :drill:
+Padlock - . - висячий замок.
+
+* Panlogism :drill:
+Panlogism - . - world as realization of Logos.
+
 * Panspermia :drill:
 Panspermia - . - principle of life spreading through cosmos due to luck anabiosis and chunks of matter traveling through space.
+
+* Parable :drill:
+Parable - . - притча.
+
+* Parable :drill:
+Parable - . - притча, иносказание.
 
 * Paraquat :drill:
 Paraquat - . - a toxic, fast-acting herbicide that becomes deactivated in the soil.
@@ -939,6 +1284,15 @@ Parthenogenesis - .  - ability to grow embryous from unfertilized sexual egg cel
 * Paucity :drill:
 Paucity - /ˈpɔːsɪti/ - малочисленность.
 
+* Pejorative :drill:
+Pejorative - . - принибрежительное, бранное выражение.
+
+* Penance :drill:
+Penance - . - voluntary self-punishment, искупление.
+
+* Pennyroyal :drill:
+Pennyroyal - . - болотная мята.
+
 * Perch :drill:
 Жердь, окунь.
 
@@ -950,6 +1304,9 @@ Peril - direct serious danger.
 
 * Perverse :drill:
 Perverse - /pəˈvəːs/ - извращенный.
+
+* Perverse :drill:
+Perverse - . - извращенный, порочный.
 
 * Pest :drill:
 Pest - /pest/ - вредитель.
@@ -969,6 +1326,9 @@ Poignant - /ˈpoinyənt/ - острый, горький, мучительный 
 * Polymath :drill:
 Polymath - . - having learned much.
 
+* Ponder :drill:
+Ponder - . - focused consideration.
+
 * Porron :drill:
 Strange looking vessel with long nose to drink wine remotely from vessel by drinking stream that shoots from the vessel.
 
@@ -979,6 +1339,12 @@ Originated in Catalonia.
 * Portmanteau :drill:
 Portmanteau - /pɔːtˈmantəʊ/ - word formation from blending words and meaning of two others. Motel, brunch, podcast, infomertial.
 
+* Posterity :drill:
+Posterity - . - потомство.
+
+* Potent :drill:
+Potent - . - сильнодействующий.
+
 * Pow wow :drill:
 Pow wow - . - (from Native Amirican) social gathering. Powwaw - spiritual leader.
 
@@ -988,6 +1354,9 @@ Pow wow - . - (from Native Amirican) social gathering. Powwaw - spiritual leader
 Not securely held or in position; dangerously likely to fall or collapse.
 
 Сомнительно, ненадёжно.
+
+* Precedence :drill:
+Precedence - . - приоритеты, первенство, предшествование.
 
 * Preemie :drill:
 Preemie - /ˈprēmē/ - prematurely born baby.
@@ -1001,6 +1370,9 @@ Preposterous - /prɪˈpɒst(ə)rəs/ - utterly absurd or ridiculous.
 * Primacy :drill:
 Primacy - . - первенство, примат.
 
+* Pristine :drill:
+Pristine - . - первоначальный, нетронутый, чистый.
+
 * Privation :drill:
 State in which essentials for well-being are lacking.
 
@@ -1013,8 +1385,17 @@ Promulgation - .  - обнародование.
 * Proprioception :drill:
 Proprioception - /ˌprə(ʊ)prɪəˈsɛpʃn/ - body awareness.
 
+* Prostrated :drill:
+Prostrated - . - распростертый, падающий ниц.
+
+* Provenance :drill:
+Provenance - . - происхождение.
+
 * Prowess :drill:
 Prowess - . - доблесть.
+
+* Prowess :drill:
+Prowess - . - доблесть, skill in particular field.
 
 * Prowl :drill:
 Prowl - /praʊl/ - рыскать.
@@ -1030,6 +1411,9 @@ Pumice - . - пемза.
 
 * Pungent :drill:
 Pungent - /ˈpʌn(d)ʒ(ə)nt/ - having a sharply strong taste or smell.
+
+* Pungent :drill:
+Pungent - . - едкий, острый.
 
 * Punitive :drill:
 Punitive - . - карательный.
@@ -1054,8 +1438,14 @@ Reciprocity - /ˌrɛsɪˈprɒsɪti/ - exchanging things with others for mutual b
 * Reciprocity :drill:
 Reciprocity - . - process of exchange resulting in a mutual benefit
 
+* Reconcile :drill:
+Reconcile - . - примирение.
+
 * Reconnaissance :drill:
 Reconnaissance - /rɪˈkɒnɪs(ə)ns/ - military observation of a region to locate an enemy or ascertain strategic features.
+
+* Rectiry :drill:
+Rectiry - . - исправить, устранить недостаток, выпрямить.
 
 * Refutable :drill:
 Refute - /riˈfyo͞ot/ - опровергаемое.
@@ -1072,6 +1462,9 @@ Relinquish - /rɪˈlɪŋkwɪʃ/ - уступить.
 * Reluctant :drill:
 Reluctant - /rɪˈlʌkt(ə)nt/ - неохотно.
 
+* Renegade :drill:
+Renegade - . - предатель.
+
 * Resfeber :drill:
 Resfeber - .  - excitement and fear before journey.
 
@@ -1084,6 +1477,18 @@ Resin - /ˈrɛzɪn/ - смола, канифоль.
 * Resourceful :drill:
 Resourceful - /rɪˈsɔːsfʊl,rɪˈzɔːsfʊl/ - having the ability to find quick and clever ways to overcome difficulties. Находчивый.
 
+* Respite :drill:
+Respite - . - передышка, перерыв.
+
+* Restraint :drill:
+Restraint - . - сдержанность.
+
+* Revel :drill:
+Revel - . - упиваться.
+
+* Revelry :drill:
+Revelry - . - шумное веселье, прирушка, попойка.
+
 * Rhubarb :drill:
 Rhubarb - ревень.
 
@@ -1092,6 +1497,15 @@ Rife - /rʌɪf/ - изобилующий.
 
 * Rigor :drill:
 Rigor - \ˈrigər\ - extremely thorough, exhaustive, or accurate.
+
+* Rind :drill:
+Rind - . - кожура.
+
+* Riposte :drill:
+Riposte - . - ответный удар.
+
+* Rite :drill:
+Rite - . - ритуал.
 
 * Roster :drill:
 Roster - . - список ответственности/ролей.
@@ -1128,6 +1542,9 @@ Sandpiper - .  - small shore bird with long beak that filters the sand.
 * Satyriasis :drill:
 Satyriasis - /ˌsatɪˈrʌɪəsɪs/ - неконтролируемое мужское либидо.
 
+* Saucer :drill:
+Saucer - . - блюдце.
+
 * Savant :drill:
 Savant - . - a person of learning. Especially one with detailed knowledge in specialized field. 
 
@@ -1161,14 +1578,29 @@ Secular - /ˈsɛkjʊlə/ - (of clergy) not subject to or bound by religious rule
 * Selcouth :drill:
 Selcouth - . - strange, unusual, rare; unfamiliar; marvellous, wondrous.
 
+* Seldom :drill:
+Seldom - . - редко, not often, rarely.
+
+* Selerity :drill:
+Selerity - . - спокойствие.
+
 * Seque :drill:
 Seque - . - uninterrupted transition from one peice into other, переход.
+
+* Serene :drill:
+Serene - . - спокойствие, безоблачность, безмятежность.
 
 * Settee :drill:
 Settee - /sɛˈtiː/ - long couch.
 
+* Shabby :drill:
+Shabby - . - потертый.
+
 * Shibboleth :drill:
 Shibboleth - . - секретный пароль, правильная фраза, правельное месное произношение.
+
+* Shrewd :drill:
+Shrewd - . - практичный, проницательный.
 
 * Shrill :drill:
 Shrill - /ʃrɪl/ - high-pitched and piercing.
@@ -1208,14 +1640,23 @@ Slander - /ˈslɑːndə/ - клевета.
 * Snazzy :drill:
 Snazzy - . - сексуальнинько, шикарненько.
 
+* Soliciting :drill:
+Soliciting - . - ходатайство, выходить.
+
 * Solicitor :drill:
 Solicitor - . - ходатай по бизнес/юр. вопросам.
 
 * Sombre :drill:
 Sombre - /ˈsɒmbə/ - dark&dull in tone, convaying a feeling of deep sadness.
 
+* Soot :drill:
+Soot - . - сажа.
+
 * Sophomore :drill:
 Sophomore - /ˈsɑːfmɔːr/ - второкурсник, самоуверенный невежда.
+
+* Spire :drill:
+Spire - . - шпиль.
 
 * Spitball :drill:
 Throw out (a suggestion) for discussion.
@@ -1229,6 +1670,9 @@ Squirrelly - /ˈskwɪr(ə)li/ - resembling a squirrel, nervous, restless, unpred
 * Stail :drill:
 Stail - /steɪl/ - old form for Stale - no longer fresh.
 
+* Starkly :drill:
+Starkly - . - in a way that is severe or harsh in appearance or outline. Грубо, круто.
+
 * Starling :drill:
 Starling - /stärliNG/ - скворец.
 
@@ -1237,6 +1681,15 @@ Staunch - /stɔːn(t)ʃ/ - strong, firm, loyal in atitude or standing.
 
 * Stern :drill:
 Stern - корма.
+
+* Stingy :drill:
+Stingy - . - скупой.
+
+* Stingy :drill:
+Stingy - . - жилистый, тягучий, вязкий, волокнистый.
+
+* Stratagem :drill:
+Stratagem - . - unconventional empirical solution.
 
 * Stringent :drill:
 Stringent - . - строгое требование.
@@ -1268,6 +1721,9 @@ Surmise - /səˈmʌɪz/ - suppose that something is true without having evidence
 * Suspenders :drill:
 Suspenders - .  - подтяжки.
 
+* Swindler :drill:
+Swindler - . - авантюрист.
+
 * Swoon :drill:
 Swoon - /swuːn/ - faint from extreme emotion.
 
@@ -1283,8 +1739,17 @@ Tardigrade - /ˈtɑːrdɪˌɡreɪd/ - a small living organism also known as wate
 * Tardy :drill:
 Tardy - /ˈtɑːdi/ - запоздалый.
 
+* Tarn :drill:
+Tarn - . - small mountain lake, каровое озеро.
+
+* Tarry :drill:
+Tarry - . - медлить, дегтеобразный.
+
 * Tattler :drill:
 Tattler - . - сплетник.
+
+* Taylorism :drill:
+Taylorism - . - practice of optimizing and automating people movements to make them more productive.
 
 * Tenure :drill:
 Tenure - .  - permanently holding a position.
@@ -1336,6 +1801,9 @@ Travail - /ˈtraveɪl/ - тяжелый труд.
 * Traversal :drill:
 Traversal - . - пересечение.
 
+* Treatise :drill:
+Treatise - . - научный труд.
+
 * Tripe :drill:
 Tripe - /trʌɪp/ - требуха.
 
@@ -1378,6 +1846,9 @@ Unhindered - . - беспрепятственно.
 * Unhinged :drill:
 Unhinged - . - сорванный с петель, сошедший с колии.
 
+* Unmoored :drill:
+Unmoored - . - отвязано от причала, от реальности.
+
 * Unsolicited :drill:
 Unsolicited - . - незатребованный.
 
@@ -1386,6 +1857,9 @@ Utter - /ˈʌtə/ - make a sound with one's voice.
 
 * Vacuous :drill:
 Vacuous - . - without a mind, праздный.
+
+* Vacuous :drill:
+Vacuous - . - пустой, отсутствующий смысли, не имеющий смысла, праздны, бессмысленный.
 
 * Vanity :drill:
 Vanity - . - тщеславие.
@@ -1399,6 +1873,12 @@ Vehement - . - неистовый.
 * Venison :drill:
 Venison - is the meat of a deer.
 
+* Vestal :drill:
+Vestal - . - весталка, непорочная девушка жрица богини Весты, девственница, монахиня.
+
+* Vestigal :drill:
+Vestigal - . - a small remnant of what was large or notacible, rudimentary.
+
 * Vestigial :drill:
 Vestigial - . - рудиментарный.
 
@@ -1408,17 +1888,29 @@ Experienced through the feelings or actions of another person.
 * Vigilant :drill:
 Vigilant - /ˈvɪdʒɪl(ə)nt/ - carefully watch.
 
+* Vigor :drill:
+Vigor - . - life, energy, reality, validity.
+
 * Visceral :drill:
 Visceral - bringing deep invard emotional feelings.
 
 * Volant :drill:
 Volant - .  - having a power or engaged in flying.
 
+* Waddle :drill:
+Waddle - . - идти переваливаться.
+
+* Wafting :drill:
+Wafting - . - навеянный, донесенный.
+
 * Wanderlust :drill:
 Wanderlust - . - storong desire to rove.
 
 * Wart :drill:
 Wart - /wôrt/ - бородавка.
+
+* Wavering :drill:
+Wavering - . - мерцающий.
 
 * Wedge :drill:
 Wedge - . - клин, дверная петля.
@@ -1441,6 +1933,15 @@ Wrinkle - . - складка, морщина.
 * Wrinkle :drill:
 Wrinkle - . - морщина.
 
+* WRT :drill:
+WRT - . - "with regards to".
+
+* Yawp :drill:
+Yawp - . - тявкать.
+
+* Yonder :drill:
+Yonder - . - где-то вдалечи.
+
 * Zesty :drill:
 Zesty - . - spicy, fun and exciting. Crowd, party, food - everything can be zasty.
 
@@ -1449,6 +1950,9 @@ Zesty - . - spicy, fun and exciting. Crowd, party, food - everything can be zast
 
 * Аустерия :drill:
 Аустерия - от лат. /austeria/ трактир - модный трактир времени Петра.
+
+* Бенефициар :drill:
+Бенефициар - . - лицо даже косвенное которое получает с benefit, profit.
 
 * Брусфер :drill:
 Брусфер - . - стена раскопа.
@@ -1531,508 +2035,4 @@ Mercuric chloride. Neurotoxic.
 
 * Шустование :drill:
 Сглаживание дула в рушьях.
-
-* Mayflower :drill:
-Mayflower - . - любой цветок который распускается в мае.
-
-* Dazzle :drill:
-Dazzle - . - по всему ослепить, знаниями или светом.
-
-* Potent :drill:
-Potent - . - сильнодействующий.
-
-* Riposte :drill:
-Riposte - . - ответный удар.
-
-* Revel :drill:
-Revel - . - упиваться.
-
-* Onslaught :drill:
-Onslaught - . - натиск.
-
-* Doxen :drill:
-Doxen - . - такса.
-
-* Soliciting :drill:
-Soliciting - . - ходатайство, выходить.
-
-* Copious :drill:
-Copious - . - обильно, очень много.
-
-* Nightstand :drill:
-Nightstand - . - тумбочка у кровати.
-
-* Respite :drill:
-Respite - . - передышка, перерыв.
-
-* Bolster :drill:
-Bolster - . - поддержка; длинная большая подушка для спины.
-
-* Glint :drill:
-Glint - . - отблеск.
-
-* Yonder :drill:
-Yonder - . - где-то вдалечи.
-
-* Flail :drill:
-Flail - . - цеп, махать в виде цепа.
-
-* Cursory :drill:
-Cursory - . - бегло.
-
-* Spire :drill:
-Spire - . - шпиль.
-
-* Gait :drill:
-Gait - . - походка.
-
-* Penance :drill:
-Penance - . - voluntary self-punishment, искупление.
-
-* Stingy :drill:
-Stingy - . - скупой.
-
-* Hermeneutics :drill:
-Hermeneutics - . - the theory and methodology of interpretation.
-
-* Ire :drill:
-Ire - . - трепет.
-
-* Awe :drill:
-Awe - . - трепет.
-
-* Infirmary :drill:
-Infirmary - . - лазарет.
-
-* Mend :drill:
-Mend - . - чинить, поправлять.
-
-* Bide :drill:
-Bide - . - выжидать, пережидать.
-
-* Fata Morgana :drill:
-Fata Morgana - . - mirage.
-
-* Hideout :drill:
-Hideout - . - убежище, укрытие.
-
-* Abstruce :drill:
-Abstruce - . - заумный, трудный для понимания.
-
-* Flagellant :drill:
-Flagellant - . - садомахохист.
-
-* Vestal :drill:
-Vestal - . - весталка, непорочная девушка жрица богини Весты, девственница, монахиня.
-
-* Бенефициар :drill:
-Бенефициар - . - лицо даже косвенное которое получает с benefit, profit.
-
-* Stratagem :drill:
-Stratagem - . - unconventional empirical solution.
-
-* Tarry :drill:
-Tarry - . - медлить, дегтеобразный.
-
-* Banter :drill:
-Banter - . - добродушно подшучивать.
-
-* Saucer :drill:
-Saucer - . - блюдце.
-
-* Vigor :drill:
-Vigor - . - life, energy, reality, validity.
-
-* Revelry :drill:
-Revelry - . - шумное веселье, прирушка, попойка.
-
-* Dirge :drill:
-Dirge - . - панихида.
-
-* Serene :drill:
-Serene - . - спокойствие, безоблачность, безмятежность.
-
-* Hitherto :drill:
-Hitherto - . - up until now.
-
-* WRT :drill:
-WRT - . - "with regards to".
-
-* Yawp :drill:
-Yawp - . - тявкать.
-
-* Bedpan :drill:
-Bedpan - . - подкладное (подкроватное) судно (утка).
-
-* Hitherto :drill:
-Hitherto - . - прежде, до текущего момента.
-
-* Rite :drill:
-Rite - . - ритуал.
-
-* Renegade :drill:
-Renegade - . - предатель.
-
-* Compendium :drill:
-Compendium - . - энциклопедический справочник, особенно как каталог публикаций.
-
-* Pristine :drill:
-Pristine - . - первоначальный, нетронутый, чистый.
-
-* Exert :drill:
-Exert - . - вызывать.
-
-* Pungent :drill:
-Pungent - . - едкий, острый.
-
-* Cavitation :drill:
-Cavitation - . - formation of the empty space inside the solid or liquid.
-
-* BRM :drill:
-BRM - . - blood red mad.
-
-* LARP :drill:
-LARP - . - live action role play.
-
-* Vacuous :drill:
-Vacuous - . - пустой, отсутствующий смысли, не имеющий смысла, праздны, бессмысленный.
-
-* Entourage :drill:
-Entourage - . - свита, антураж, окружение.
-
-* Bolster :drill:
-Bolster - . - поддержка, подпорка.
-
-* Treatise :drill:
-Treatise - . - научный труд.
-
-* Amenability :drill:
-Amenability - . - податливость.
-
-* Frankincense :drill:
-Frankincense - . - ладан.
-
-* Swindler :drill:
-Swindler - . - авантюрист.
-
-* Pennyroyal :drill:
-Pennyroyal - . - болотная мята.
-
-* Contemplate :drill:
-Contemplate - . - созерцать.
-
-* Congestion :drill:
-Congestion - . - затор, закупорка.
-
-* Unmoored :drill:
-Unmoored - . - отвязано от причала, от реальности.
-
-* Padlock :drill:
-Padlock - . - висячий замок.
-
-* Taylorism :drill:
-Taylorism - . - practice of optimizing and automating people movements to make them more productive.
-
-* Starkly :drill:
-Starkly - . - in a way that is severe or harsh in appearance or outline. Грубо, круто.
-
-* Curio :drill:
-Curio - . - rara unusual intriguing object.
-
-* Pejorative :drill:
-Pejorative - . - принибрежительное, бранное выражение.
-
-* Midwife :drill:
-Midwife - . - акушер.
-
-* Extraneous :drill:
-Extraneous - . - irrelevant, unrelated subject, посторонний.
-
-* Gargantuan :drill:
-Gargantuan - . - tremendous in size, volume, or degree.
-
-* Attrition :drill:
-Attrition - . - wear-out or grind down, reduction in numbers, weakening or exhausting by constant harassment, abuse, or attack.
-
-* Belligerent :drill:
-Belligerent - . - hostile, aggressive, воинственный.
-
-* Seldom :drill:
-Seldom - . - редко, not often, rarely.
-
-* Ladle :drill:
-Ladle - . - черпак.
-
-* Bladder :drill:
-Bladder - . - тюк, мочевой пузырь.
-
-* Fetter :drill:
-Fetter - . - restraints, chains, оковы.
-
-* Exculpatory :drill:
-Exculpatory - . - оправдательный.
-
-* Rectiry :drill:
-Rectiry - . - исправить, устранить недостаток, выпрямить.
-
-* Menagerie :drill:
-Menagerie - . - зверинец.
-
-* Contention :drill:
-Contention - . - раздор.
-
-* Rind :drill:
-Rind - . - кожура.
-
-* Incessantly :drill:
-Incessantly - . - беспрестанно.
-
-* Shabby :drill:
-Shabby - . - потертый.
-
-* Reconcile :drill:
-Reconcile - . - примирение.
-
-* Mellow :drill:
-Mellow - . - мягкий, выдержанный, зрелый.
-
-* Restraint :drill:
-Restraint - . - сдержанность.
-
-* Brash :drill:
-Brash - . - нахальный, дерзкий.
-
-* Prostrated :drill:
-Prostrated - . - распростертый, падающий ниц.
-
-* Latch :drill:
-Latch - . - щеколда.
-
-* Tarn :drill:
-Tarn - . - small mountain lake, каровое озеро.
-
-* Accretion :drill:
-Accretion - . - наращивание, срастание.
-
-* Waddle :drill:
-Waddle - . - идти переваливаться.
-
-* Bigotry :drill:
-Bigotry - . -  узколобость, догматизм, фанатизм.
-
-* Backhanded :drill:
-Backhanded - . - двусмысленный.
-
-* Bushwhack :drill:
-Bushwhack - . - пробиваться в чаще, засада.
-
-* Constituency :drill:
-Constituency - . - избиратели, округ избирателей.
-
-* Frankly :drill:
-Frankly - . - in an open, hones, direct manner, откровенно, прямо.
-
-* Panlogism :drill:
-Panlogism - . - world as realization of Logos.
-
-* Ontology :drill:
-Ontology - . - the philosophical study of being. Often deals with questions concerning what entities exist or may be said to exist and how such entities may be grouped, related within a hierarchy, and subdivided according to similarities and differences. 
-
-* Blathering :drill:
-Blathering - . - болтание.
-
-* Dishearthening :drill:
-Dishearthening - . - удручающее, обескураживает.
-
-* Kvetch :drill:
-Kvetch - . - ныть, жаловаться.
-
-* Fodder :drill:
-Fodder - . - корм. Gunn fodder.
-
-* Mare :drill:
-Mare - . - кобыла.
-
-* Foal :drill:
-Foal - . - жеребенок.
-
-* Equine :drill:
-Equine - . - семья лошадиных.
-
-* Culptit :drill:
-Culptit - . - преступник.
-
-* Hence :drill:
-Hence - следовательно.
-
-* Gregarious :drill:
-Gregarious - . - of social nature, openly sociable (plant, animal, human).
-
-* Craven :drill:
-Craven - . - малодушный, lacking in courage, character.
-
-* Congenital :drill:
-Congenital - . - abnormality present from birth.
-
-* Prowess :drill:
-Prowess - . - доблесть, skill in particular field.
-
-* Coven :drill:
-Coven - . - шабаш, сборище.
-
-* Consanguineous :drill:
-Consanguineous - . - being from the same ancestor kinship as another person.
-
-* Accost :drill:
-Accost - . - пристать, обращаться к.
-
-* Allegedly :drill:
-Allegedly - . - якобы, будто бы.
-
-* Haughty :drill:
-Haughty - . - arrogant, disdaintful, высокомерный.
-
-* Fornicate :drill:
-Fornicate - . - блудить.
-
-* Gallant :drill:
-Gallant - . - man who pays special attention to women, галлантный, бравый.
-
-* Arrogant :drill:
-Arrogant - . - exaggerates sence of one's own abilities, высокомерный, заносчивый.
-
-* Provenance :drill:
-Provenance - . - происхождение.
-
-* Elaborate :drill:
-Elaborate - . - involving many carefully arranged parts, сложный, объяснить/разобрать.
-
-* Hoist :drill:
-Hoist - . - поднимать (флаг) на лебедке.
-
-* Selerity :drill:
-Selerity - . - спокойствие.
-
-* Wavering :drill:
-Wavering - . - мерцающий.
-
-* Shrewd :drill:
-Shrewd - . - практичный, проницательный.
-
-* Idiosyncratic :drill:
-Idiosyncratic - . - своеобразный, индивидуальный.
-
-* Disdainful :drill:
-Disdainful - . - высокомерный.
-
-* Elope :drill:
-Elope - . - run away in order to secretly get merried.
-
-* Consecrate :drill:
-Consecrate - . - освящать.
-
-* Parable :drill:
-Parable - . - притча.
-
-* Malus :drill:
-Malus - . - latin for bad.
-
-* Wafting :drill:
-Wafting - . - навеянный, донесенный.
-
-* Gutter :drill:
-Gutter - . - желоб, сточная канава.
-
-* Stingy :drill:
-Stingy - . - жилистый, тягучий, вязкий, волокнистый.
-
-* Precedence :drill:
-Precedence - . - приоритеты, первенство, предшествование.
-
-* Conflagration :drill:
-Conflagration - . - возгорание, пожарище, сожжение, большой пожар.
-
-* Furlough :drill:
-Furlough - . - отпуск.
-
-* Hale :drill:
-Hale - . - здавствуйте, здоровый, крепкий, тащить, тянуть.
-
-* Apiary :drill:
-Apiary - . - пасека, bee-garden.
-
-* Grafting :drill:
-Grafting - . - прививка, пересадка, насадка, трансплантация.
-
-* Parable :drill:
-Parable - . - притча, иносказание.
-
-* Indomitable :drill:
-Indomitable - . - неукротимый, упрямый, упорный.
-
-* Perverse :drill:
-Perverse - . - извращенный, порочный.
-
-* Abhorrent :drill:
-Abhorrent - . - отвратительный.
-
-* Gargle :drill:
-Gargle - . - полоскание рта.
-
-* Myopic :drill:
-Myopic - . - близорукий.
-
-* Lenient :drill:
-Lenient - ˈlēnēənt - снисходительный.
-
-* Posterity :drill:
-Posterity - . - потомство.
-
-* Cordials :drill:
-Cordials - . - ликер.
-
-* Haggle :drill:
-Haggle - . - торговаться.
-
-* Vestigal :drill:
-Vestigal - . - a small remnant of what was large or notacible, rudimentary.
-
-* Nefarious :drill:
-Nefarious - . - wicked, criminal.
-
-* Brass neck :drill:
-Brass neck - . - extremely confident behaviour disregarding, not caring about the context.
-
-* Bodega :drill:
-Bodega - . - aka convinience store.
-
-* Ajar :drill:
-Ajar - əˈdʒɑː - slightly opened.
-
-* Gnarl :drill:
-Gnarl - . - a rough proturbence especially with age on the tree.
-
-* Bested :drill:
-Bested - . - outwit or get the better of someone.
-
-* Alas :drill:
-Alas - . - express concern, grief, pity.
-
-* Soot :drill:
-Soot - . - сажа.
-
-* Heed :drill:
-Heed - . - careful attention.
-
-* Ponder :drill:
-Ponder - . - focused consideration.
-
-* Gawk :drill:
-Gawk - . - stupid blunt stare.
-
-* Dismal :drill:
-Dismal - . - causing a mood of gloom, gloomy.
-
-* Oubliette :drill:
-Oubliette - . - secret dungeon.
 
