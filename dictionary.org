@@ -2036,3 +2036,6 @@ Mercuric chloride. Neurotoxic.
 * Шустование :drill:
 Сглаживание дула в рушьях.
 
+* Swoon :drill:
+Swoon - . - faint from extreme emotion.
+
