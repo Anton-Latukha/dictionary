@@ -2024,3 +2024,6 @@ Soot - . - сажа.
 * Heed :drill:
 Heed - . - careful attention.
 
+* Ponder :drill:
+Ponder - . - focused consideration.
+
