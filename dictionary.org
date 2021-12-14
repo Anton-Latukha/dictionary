@@ -2021,3 +2021,6 @@ Alas - . - express concern, grief, pity.
 * Soot :drill:
 Soot - . - сажа.
 
+* Heed :drill:
+Heed - . - careful attention.
+
