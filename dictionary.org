@@ -2030,3 +2030,6 @@ Ponder - . - focused consideration.
 * Gawk :drill:
 Gawk - . - stupid blunt stare.
 
+* Dismal :drill:
+Dismal - . - causing a mood of gloom, gloomy.
+
