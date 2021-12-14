@@ -2027,3 +2027,6 @@ Heed - . - careful attention.
 * Ponder :drill:
 Ponder - . - focused consideration.
 
+* Gawk :drill:
+Gawk - . - stupid blunt stare.
+
