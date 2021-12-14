@@ -2018,3 +2018,6 @@ Bested - . - outwit or get the better of someone.
 * Alas :drill:
 Alas - . - express concern, grief, pity.
 
+* Soot :drill:
+Soot - . - сажа.
+
