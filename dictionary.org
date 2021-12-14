@@ -2033,3 +2033,6 @@ Gawk - . - stupid blunt stare.
 * Dismal :drill:
 Dismal - . - causing a mood of gloom, gloomy.
 
+* Oubliette :drill:
+Oubliette - . - secret dungeon.
+
