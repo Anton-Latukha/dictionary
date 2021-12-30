@@ -2045,3 +2045,6 @@ Exuberance - . - profuce abundance of energy, excitement, vigor.
 * Alas :drill:
 Alas - . - express grief, pity, concern.
 
+* Skim :drill:
+Skim - . - a thing layer of substance on the surface of liquid. Or the process of removing og that layer.
+
