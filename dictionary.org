@@ -2048,3 +2048,6 @@ Alas - . - express grief, pity, concern.
 * Skim :drill:
 Skim - . - a thing layer of substance on the surface of liquid. Or the process of removing og that layer.
 
+* Solicitous :drill:
+Solicitous - . - eager to do something.
+
