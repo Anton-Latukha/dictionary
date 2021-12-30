@@ -2042,3 +2042,6 @@ Swoon - . - faint from extreme emotion.
 * Exuberance :drill:
 Exuberance - . - profuce abundance of energy, excitement, vigor.
 
+* Alas :drill:
+Alas - . - express grief, pity, concern.
+
