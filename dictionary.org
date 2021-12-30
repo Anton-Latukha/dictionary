@@ -2039,3 +2039,6 @@ Mercuric chloride. Neurotoxic.
 * Swoon :drill:
 Swoon - . - faint from extreme emotion.
 
+* Exuberance :drill:
+Exuberance - . - profuce abundance of energy, excitement, vigor.
+
