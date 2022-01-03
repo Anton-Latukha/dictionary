@@ -2054,3 +2054,6 @@ Solicitous - . - eager to do something.
 * Vex :drill:
 Vex - . - annoy, frustrate, or worry.
 
+* Specious :drill:
+Specious - . - superficially plausible, misleadingly attractive, but actually wrong. Especially argument.
+
