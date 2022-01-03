@@ -2057,3 +2057,6 @@ Vex - . - annoy, frustrate, or worry.
 * Specious :drill:
 Specious - . - superficially plausible, misleadingly attractive, but actually wrong. Especially argument.
 
+* Stygian :drill:
+Stygian - . - extremely dark, gloomy, or forbidding. Of the river Styx.
+
