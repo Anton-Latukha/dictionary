@@ -2051,3 +2051,6 @@ Skim - . - a thing layer of substance on the surface of liquid. Or the process o
 * Solicitous :drill:
 Solicitous - . - eager to do something.
 
+* Vex :drill:
+Vex - . - annoy, frustrate, or worry.
+
