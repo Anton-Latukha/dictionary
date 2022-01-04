@@ -2060,3 +2060,6 @@ Specious - . - superficially plausible, misleadingly attractive, but actually wr
 * Stygian :drill:
 Stygian - . - extremely dark, gloomy, or forbidding. Of the river Styx.
 
+* Decorum :drill:
+Decorum - . - behaviour of tasteful propriety etiquette.
+
