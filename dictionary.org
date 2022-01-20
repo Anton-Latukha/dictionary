@@ -2063,3 +2063,6 @@ Stygian - . - extremely dark, gloomy, or forbidding. Of the river Styx.
 * Decorum :drill:
 Decorum - . - behaviour of tasteful propriety etiquette.
 
+* Scoundrel :drill:
+Scoundrel - /ˈskaʊndr(ə)l/ - a dishonest or unscrupulous person, a rogue, villain. 
+
