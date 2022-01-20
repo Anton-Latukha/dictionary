@@ -2075,3 +2075,6 @@ Unscrupulous - . - no moral principles; not honest, unfair.
 * Altercation :drill:
 Altercation - . - an extreme, powerful fight or disagrement, known to the public.
 
+* Heirloom :drill:
+Heirloom - . - something of special value handed down from older generations.
+
