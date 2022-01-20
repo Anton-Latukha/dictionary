@@ -2069,3 +2069,6 @@ Scoundrel - /ˈskaʊndr(ə)l/ - a dishonest or unscrupulous person, a rogue, vil
 * Scrupulous :drill:
 Scrupulous - . - careful, thorough, and extremely attentive to details.
 
+* Unscrupulous :drill:
+Unscrupulous - . - no moral principles; not honest, unfair.
+
