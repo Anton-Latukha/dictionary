@@ -49,11 +49,17 @@ Alacrity - /əˈlakrɪti/ - brisk and cheerful readiness.
 * Alas :drill:
 Alas - . - express concern, grief, pity.
 
+* Alas :drill:
+Alas - . - express grief, pity, concern.
+
 * Allegedly :drill:
 Allegedly - . - якобы, будто бы.
 
 * Aloof :drill:
 Aloof - . - distant and cool.
+
+* Altercation :drill:
+Altercation - . - an extreme, powerful fight or disagrement, known to the public.
 
 * Amenability :drill:
 Amenability - . - податливость.
@@ -487,6 +493,9 @@ Debility - . - немощность.
 * Decanter :drill:
 Vessel for decantation (keeping liquid still, so it forms solid residue).
 
+* Decorum :drill:
+Decorum - . - behaviour of tasteful propriety etiquette.
+
 * Defer :drill:
 Defer - /dɪˈfəː/ - postpone.
 
@@ -626,6 +635,9 @@ Exsanguination - . - кровопускание.
 
 * Extraneous :drill:
 Extraneous - . - irrelevant, unrelated subject, посторонний.
+
+* Exuberance :drill:
+Exuberance - . - profuce abundance of energy, excitement, vigor.
 
 * Facetious :drill:
 /fəˈsiːʃəs/
@@ -863,6 +875,9 @@ The ethical theory that pleasure (in the sense of the satisfaction of desires) i
 
 * Heed :drill:
 Heed - . - careful attention.
+
+* Heirloom :drill:
+Heirloom - . - something of special value handed down from older generations.
 
 * Heist :drill:
 Кража.
@@ -1566,8 +1581,14 @@ Schachern - . - to argue a much better deal.
 * Scorn :drill:
 Презрение.
 
+* Scoundrel :drill:
+Scoundrel - /ˈskaʊndr(ə)l/ - a dishonest or unscrupulous person, a rogue, villain. 
+
 * Scrumptious :drill:
 Scrumptious - /ˈskrʌm(p)ʃəs/ - extremely tasty; delicious.
+
+* Scrupulous :drill:
+Scrupulous - . - careful, thorough, thoughtful, and extremely attentive to details.
 
 * Scry :drill:
 Scry - . - гадать по шару/стеклу.
@@ -1631,6 +1652,9 @@ Silicones, also known as polysiloxanes, are polymers that include any inert, syn
 * Sinister :drill:
 Sinister - /ˈsi-nə-stər/ - threatening harm, trouble, evil; ominous.
 
+* Skim :drill:
+Skim - . - a thing layer of substance on the surface of liquid. Or the process of removing og that layer.
+
 * Skittish :drill:
 Skittish - /ˈskɪtɪʃ/ - (of an animal) nervous or excitable; easily scared. (of a person) playfully frivolous or unpredictable.
 
@@ -1646,6 +1670,9 @@ Soliciting - . - ходатайство, выходить.
 * Solicitor :drill:
 Solicitor - . - ходатай по бизнес/юр. вопросам.
 
+* Solicitous :drill:
+Solicitous - . - eager to do something.
+
 * Sombre :drill:
 Sombre - /ˈsɒmbə/ - dark&dull in tone, convaying a feeling of deep sadness.
 
@@ -1654,6 +1681,9 @@ Soot - . - сажа.
 
 * Sophomore :drill:
 Sophomore - /ˈsɑːfmɔːr/ - второкурсник, самоуверенный невежда.
+
+* Specious :drill:
+Specious - . - superficially plausible, misleadingly attractive, but actually wrong. Especially argument.
 
 * Spire :drill:
 Spire - . - шпиль.
@@ -1694,6 +1724,9 @@ Stratagem - . - unconventional empirical solution.
 * Stringent :drill:
 Stringent - . - строгое требование.
 
+* Stygian :drill:
+Stygian - . - extremely dark, gloomy, or forbidding. Of the river Styx.
+
 * Substantive :drill:
 Substantive - . - основной, значительный.
 
@@ -1726,6 +1759,9 @@ Swindler - . - авантюрист.
 
 * Swoon :drill:
 Swoon - /swuːn/ - faint from extreme emotion.
+
+* Swoon :drill:
+Swoon - . - faint from extreme emotion.
 
 * Syncretism :drill:
 Syncretism - . - amalgamation of two different (cultures, schools of thought, words, religions).
@@ -1849,6 +1885,9 @@ Unhinged - . - сорванный с петель, сошедший с коли�
 * Unmoored :drill:
 Unmoored - . - отвязано от причала, от реальности.
 
+* Unscrupulous :drill:
+Unscrupulous - . - no moral principles; not honest, unfair.
+
 * Unsolicited :drill:
 Unsolicited - . - незатребованный.
 
@@ -1881,6 +1920,9 @@ Vestigal - . - a small remnant of what was large or notacible, rudimentary.
 
 * Vestigial :drill:
 Vestigial - . - рудиментарный.
+
+* Vex :drill:
+Vex - . - annoy, frustrate, or worry.
 
 * Vicarious :drill:
 Experienced through the feelings or actions of another person.
@@ -2035,46 +2077,4 @@ Mercuric chloride. Neurotoxic.
 
 * Шустование :drill:
 Сглаживание дула в рушьях.
-
-* Swoon :drill:
-Swoon - . - faint from extreme emotion.
-
-* Exuberance :drill:
-Exuberance - . - profuce abundance of energy, excitement, vigor.
-
-* Alas :drill:
-Alas - . - express grief, pity, concern.
-
-* Skim :drill:
-Skim - . - a thing layer of substance on the surface of liquid. Or the process of removing og that layer.
-
-* Solicitous :drill:
-Solicitous - . - eager to do something.
-
-* Vex :drill:
-Vex - . - annoy, frustrate, or worry.
-
-* Specious :drill:
-Specious - . - superficially plausible, misleadingly attractive, but actually wrong. Especially argument.
-
-* Stygian :drill:
-Stygian - . - extremely dark, gloomy, or forbidding. Of the river Styx.
-
-* Decorum :drill:
-Decorum - . - behaviour of tasteful propriety etiquette.
-
-* Scoundrel :drill:
-Scoundrel - /ˈskaʊndr(ə)l/ - a dishonest or unscrupulous person, a rogue, villain. 
-
-* Scrupulous :drill:
-Scrupulous - . - careful, thorough, thoughtful, and extremely attentive to details.
-
-* Unscrupulous :drill:
-Unscrupulous - . - no moral principles; not honest, unfair.
-
-* Altercation :drill:
-Altercation - . - an extreme, powerful fight or disagrement, known to the public.
-
-* Heirloom :drill:
-Heirloom - . - something of special value handed down from older generations.
 
