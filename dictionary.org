@@ -2078,3 +2078,6 @@ Mercuric chloride. Neurotoxic.
 * Шустование :drill:
 Сглаживание дула в рушьях.
 
+* Sleet :drill:
+Sleet - . - мокрый снег.
+
