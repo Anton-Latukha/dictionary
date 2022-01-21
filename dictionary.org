@@ -2081,3 +2081,6 @@ Mercuric chloride. Neurotoxic.
 * Sleet :drill:
 Sleet - . - мокрый снег.
 
+* Graupel :drill:
+Graupel - . - крупа.
+
