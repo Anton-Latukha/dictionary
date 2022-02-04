@@ -2090,3 +2090,6 @@ Vitrol - . - bitter criticism.
 * Jovial :drill:
 Jovial - . - cheerful, friendly.
 
+* Steelmanning :drill:
+A steel man argument - . - constructing the strongest form of opponent argument. So it producces the best argument to the core of opponent position. This may involve removed flawed assumptions that could be easilly refuted.
+
