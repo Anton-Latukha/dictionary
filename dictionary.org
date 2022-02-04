@@ -2087,3 +2087,6 @@ Graupel - . - крупа.
 * Vitrol :drill:
 Vitrol - . - bitter criticism.
 
+* Jovial :drill:
+Jovial - . - cheerful, friendly.
+
