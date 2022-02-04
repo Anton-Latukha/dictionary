@@ -2084,3 +2084,6 @@ Sleet - . - мокрый снег.
 * Graupel :drill:
 Graupel - . - крупа.
 
+* Vitrol :drill:
+Vitrol - . - bitter criticism.
+
