@@ -2093,3 +2093,6 @@ Jovial - . - cheerful, friendly.
 * Steelmanning :drill:
 A steel man argument - . - constructing the strongest form of opponent argument. So it producces the best argument to the core of opponent position. This may involve removed flawed assumptions that could be easilly refuted.
 
+* Argumentum ad populum :drill:
+Argumentum ad populum - . - fallacious argument based on affirming something is real because majority thinks so.
+
