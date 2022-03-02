@@ -2096,3 +2096,6 @@ A steel man argument - . - constructing the strongest form of opponent argument.
 * Argumentum ad populum :drill:
 Argumentum ad populum - . - fallacious argument based on affirming something is real because majority thinks so.
 
+* Unconscionable :drill:
+Unconscionable - . - амморально непренципный чрезмерный.
+
